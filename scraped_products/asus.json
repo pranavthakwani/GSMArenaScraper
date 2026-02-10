@@ -1,0 +1,773 @@
+[
+  {
+    "id": "13653",
+    "name": "Asus Zenfone 12 Ultra",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-zenfone-12-ultra.jpg",
+    "url": "https://www.gsmarena.com/asus_zenfone_12_ultra-13653.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, February 06",
+        "Status": "Available. Released 2025, February 28"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 77 x 8.9 mm (6.45 x 3.03 x 0.35 in)",
+        "Weight": "220 g (7.76 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), aluminum frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 144Hz, HDR10, 1600 nits (HBM), 2500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~88.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, upgradable to Android 16, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS\n32 MP, f/2.4, 65mm (telephoto), 1/3.2\", 0.7µm, PDAF, OIS, 3x optical zoom\n13 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/3.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 22mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "65W wired, PD3.0, PPS, QC5, 100% in 39 min\n15W wireless (Qi)\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Ebony Black, Sakura White, Sage Green",
+        "Models": "AI2501, AI2501H, I2501C, AI2501B",
+        "Price": "About 1100 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2702580 (v10)\nGeekBench: 9695 (v6)\n3DMark: 5678 (Wild Life Extreme)",
+        "Display": "1965 nits max brightness (measured)",
+        "Loudspeaker": "-27.7 LUFS (Good)",
+        "Battery": "Active use score 15:50h"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "61:00h endurance, 1200 cycles",
+        "Free fall": "Class D (45 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:14:07.318Z"
+  },
+  {
+    "id": "13641",
+    "name": "Asus ROG Phone 9 FE",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-9-fe.jpg",
+    "url": "https://www.gsmarena.com/asus_rog_phone_9_fe-13641.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, February 04",
+        "Status": "Available. Released 2025, February 04"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 76.8 x 8.9 mm (6.45 x 3.02 x 0.35 in)",
+        "Weight": "225 g (7.94 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 185Hz, HDR10, 1600 nits (HBM), 2500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS\n13 MP, f/2.2, 13mm, 120˚ (ultrawide)\n5 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 22mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "65W wired, PD3.0, PPS, QC5, 100% in 39 min\n15W wireless (Qi)\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Phantom Black",
+        "Models": "AI2401",
+        "Price": "About 860 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:14:24.796Z"
+  },
+  {
+    "id": "13469",
+    "name": "Asus ROG Phone 9 Pro",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-9-pro.jpg",
+    "url": "https://www.gsmarena.com/asus_rog_phone_9_pro-13469.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE (Up to 7CA), 5G"
+      },
+      "Launch": {
+        "Announced": "2024, November 19",
+        "Status": "Available. Released 2024, November 20"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 76.8 x 8.9 mm (6.45 x 3.02 x 0.35 in)",
+        "Weight": "227 g (8.01 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame",
+        "SIM": "· Nano-SIM + eSIM· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 185Hz, 670Hz PWM, HDR10, 1600 nits (HBM), 2500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 16GB RAM, 1TB 24GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS\n32 MP, f/2.4, (telephoto), 1/3.2\", 0.7µm, PDAF, OIS, 3x optical zoom\n13 MP, f/2.2, 13mm, 120˚ (ultrawide)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 22mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5800 mAh",
+        "Charging": "65W wired, PD3.0, PPS, QC5, 100% in 46 min\n15W wireless (Qi)\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Phantom Black",
+        "Models": "AI2501-16G512G-BK, AI2501-24G1T-BK",
+        "Price": "€ 1,199.90"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 3042971 (v10)\nGeekBench: 10179 (v6)\n3DMark: 6718 (Wild Life Extreme)",
+        "Display": "1958 nits max brightness (measured)",
+        "Loudspeaker": "-26.7 LUFS (Good)",
+        "Battery": "Active use score 16:41h"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:14:13.054Z"
+  },
+  {
+    "id": "13503",
+    "name": "Asus ROG Phone 9",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-9.jpg",
+    "url": "https://www.gsmarena.com/asus_rog_phone_9-13503.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE (Up to 7CA), 5G"
+      },
+      "Launch": {
+        "Announced": "2024, November 19",
+        "Status": "Available. Released 2024, November 20"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 76.8 x 8.9 mm (6.45 x 3.02 x 0.35 in)",
+        "Weight": "227 g (8.01 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame",
+        "SIM": "· Nano-SIM + eSIM· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 185Hz, HDR10, 1600 nits (HBM), 2500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 15, upgradable to Android 16, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS\n13 MP, f/2.2, 13mm, 120˚ (ultrawide)\n5 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 22mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5800 mAh",
+        "Charging": "65W wired, PD3.0, PPS, QC5, 100% in 46 min\n15W wireless (Qi)\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Phantom Black, Storm White",
+        "Models": "AI2501-12G256G-BK, AI2501-12G256G-WH, AI2501-16G512G-WH, AI2501-16G512G-BK",
+        "Price": "About 1150 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 3007932 (v10)\nGeekBench: 10083 (v6)\n3DMark: 6718 (Wild Life Extreme)",
+        "Display": "1958 nits max brightness (measured)",
+        "Loudspeaker": "-26.7 LUFS (Good)",
+        "Battery": "Active use score 16:41h"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:14:33.839Z"
+  },
+  {
+    "id": "12820",
+    "name": "Asus Zenfone 11 Ultra",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-zenfone-11-ultra.jpg",
+    "url": "https://www.gsmarena.com/asus_zenfone_11_ultra-12820.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, March 14",
+        "Status": "Available. Released 2024, April 14"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 76.8 x 8.9 mm (6.45 x 3.02 x 0.35 in)",
+        "Weight": "224 g (7.90 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), aluminum frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 144Hz, HDR10, 1600 nits (HBM), 2500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS\n32 MP, f/2.4, 65mm (telephoto), 1/3.2\", 0.7µm, PDAF, OIS, 3x optical zoom\n13 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/3.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 22mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "65W wired, PD3.0, PPS, QC5, 100% in 39 min\n15W wireless (Qi)\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Eternal Black, Skyline Blue, Misty Gray, Desert Sand",
+        "Models": "AI2401, ASUS_AI2401_H",
+        "Price": "€ 849.00 / £ 1,595.00"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1640547 (v9), 2147516 \n(v10)\nGeekBench: 5699 (v5), 7085 (v6)\n3DMark: 5246 (Wild Life Extreme)",
+        "Display": "1773 nits max brightness (measured)",
+        "Loudspeaker": "-26.6 LUFS (Good)",
+        "Battery": "Active use score 16:28h"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:14:44.922Z"
+  },
+  {
+    "id": "12746",
+    "name": "Asus ROG Phone 8 Pro",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-8-pro.jpg",
+    "url": "https://www.gsmarena.com/asus_rog_phone_8_pro-12746.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE (Up to 7CA), 5G"
+      },
+      "Launch": {
+        "Announced": "2024, January 08",
+        "Status": "Available. Released 2024, January 18"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 76.8 x 8.9 mm (6.45 x 3.02 x 0.35 in)",
+        "Weight": "225 g (7.94 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 165Hz, HDR10, 1600 nits (HBM), 2500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 16GB RAM, 1TB 24GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS\n32 MP, f/2.4, (telephoto), 1/3.2\", 0.7µm, PDAF, OIS, 3x optical zoom\n13 MP, f/2.2, 13mm, 120˚ (ultrawide)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 22mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "65W wired, PD3.0, PPS, QC5, 100% in 39 min - International\n30W wired, PD3.0, PPS - India\n15W wireless (Qi)\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Phantom Black",
+        "Models": "AI2401, AI2401_A, AI2401_D",
+        "Price": "$ 587.60 / € 623.95"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1639368 (v9), 2167612 (v10)\nGeekBench: 6542 (v5), 7178 (v6)\nGFXBench: 163fps (offscreen 1080p)",
+        "Display": "1765 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-26.3 LUFS (Good)",
+        "Battery": "Active use score 14:43h"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:14:54.071Z"
+  },
+  {
+    "id": "12780",
+    "name": "Asus ROG Phone 8",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-8.jpg",
+    "url": "https://www.gsmarena.com/asus_rog_phone_8-12780.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE (Up to 7CA), 5G"
+      },
+      "Launch": {
+        "Announced": "2024, January 08",
+        "Status": "Available. Released 2024, January 18"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 76.8 x 8.9 mm (6.45 x 3.02 x 0.35 in)",
+        "Weight": "225 g (7.94 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 165Hz, HDR10, 1600 nits (HBM), 2500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "- International model -\n50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS\n32 MP, f/2.4, (telephoto), 1/3.2\", 0.7µm, PDAF, OIS, 3x optical zoom\n13 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/3.0\", 1.12µm\n\n- SEA/China/India model -\n50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS\n13 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/3.0\", 1.12µm\n5 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 22mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C (side), DisplayPort 1.4; USB Type-C (bottom), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "65W wired, PD3.0, PPS, QC5, 100% in 39 min - International\n30W wired, PD3.0, PPS - India\n15W wireless (Qi)\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Phantom Black,  Rebel Grey",
+        "Models": "AI2401, AI2401_A",
+        "Price": "About 1500 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:15:02.975Z"
+  },
+  {
+    "id": "12224",
+    "name": "Asus ROG Phone 7 Ultimate",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7-ultimate.jpg",
+    "url": "https://www.gsmarena.com/asus_rog_phone_7_ultimate-12224.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE (Up to 7CA), 5G"
+      },
+      "Launch": {
+        "Announced": "2023, April 13",
+        "Status": "Available. Released 2023, May"
+      },
+      "Body": {
+        "Dimensions": "173 x 77 x 10.3 mm (6.81 x 3.03 x 0.41 in)",
+        "Weight": "239 g (8.43 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 3), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 165Hz, HDR10+, 1000 nits (HBM), 1500 nits (peak)",
+        "Size": "6.78 inches, 109.5 cm2 (~82.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2448 pixels (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+        "GPU": "Adreno 740"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF\n13 MP, f/2.2, 13mm, 120˚ (ultrawide)\n5 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 29mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (2 amplifiers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1 (side), DisplayPort 1.4; USB Type-C 2.0 (bottom), OTG, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh",
+        "Charging": "65W wired, PD3.0, QC5, 100% in 42 min\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Storm White",
+        "Price": "About 780 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1325105 (v9)\nGeekBench: 5139 (v5.5), 5567 (v6)\nGFXBench: 107fps (ES 3.1 onscreen)",
+        "Display": "1095 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-25.5 LUFS (Very good)",
+        "Battery (old)": "Endurance rating 131h"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:15:26.488Z"
+  },
+  {
+    "id": "12223",
+    "name": "Asus ROG Phone 7",
+    "brand": "asus",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7.jpg",
+    "url": "https://www.gsmarena.com/asus_rog_phone_7-12223.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE (Up to 7CA), 5G"
+      },
+      "Launch": {
+        "Announced": "2023, April 13",
+        "Status": "Available. Released 2023, May"
+      },
+      "Body": {
+        "Dimensions": "173 x 77 x 10.3 mm (6.81 x 3.03 x 0.41 in)",
+        "Weight": "239 g (8.43 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 3), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 165Hz, HDR10+, 1000 nits (HBM), 1500 nits (peak)",
+        "Size": "6.78 inches, 109.5 cm2 (~82.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2448 pixels (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+        "GPU": "Adreno 740"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF\n13 MP, f/2.2, 13mm, 120˚ (ultrawide)\n5 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps; gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 29mm (wide), 1/3.2\", 0.7µm",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (2 amplifiers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B2a+B2c), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1 (side), DisplayPort 1.4; USB Type-C 2.0 (bottom), OTG, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh",
+        "Charging": "65W wired, PD3.0, QC5, 100% in 42 min\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Phantom Black, Storm White",
+        "Models": "AI2205_C",
+        "Price": "About 740 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1333597 (v9)\nGeekBench: 5098 (v5.5), 5617 (v6) \nGFXBench: 108fps (ES 3.1 onscreen)",
+        "Display": "1051 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-26.0 LUFS (Very good)",
+        "Battery": "Active use score 14:51h",
+        "Battery (old)": "Endurance rating 131h"
+      }
+    },
+    "scrapedAt": "2026-02-10T11:15:37.140Z"
+  }
+]

@@ -2,7 +2,11 @@ import axios from "axios";
 import * as cheerio from "cheerio";
 import fs from "fs";
 import path from "path";
+import dotenv from "dotenv";
 import XLSX from "xlsx";
+
+// Load environment variables from .env file
+dotenv.config();
 
 // =========================
 // CONFIGURATION
@@ -36,7 +40,7 @@ let creditsUsed = 0;
 // =========================
 
 const STATE_FILE = "seen_products.json";
-const EXCEL_FILE = "gsmarena_products.xlsx";
+const OUTPUT_DIR = "scraped_products"; // Directory for brand-specific JSON files
 
 // Load previously seen product IDs
 function loadSeenProducts() {
@@ -60,84 +64,38 @@ function saveSeenProducts(seenProducts) {
   }
 }
 
-// Save scraped products to Excel (one sheet per brand, sorted by launch date)
-function saveProductToExcel(product) {
+// Save scraped products to brand-specific JSON files
+function appendScrapedProduct(product) {
   try {
-    let workbook;
-    
-    // Load existing workbook or create new one
-    if (fs.existsSync(EXCEL_FILE)) {
-      const fileBuffer = fs.readFileSync(EXCEL_FILE);
-      workbook = XLSX.read(fileBuffer, { type: 'buffer' });
-    } else {
-      workbook = XLSX.utils.book_new();
+    // Create output directory if it doesn't exist
+    if (!fs.existsSync(OUTPUT_DIR)) {
+      fs.mkdirSync(OUTPUT_DIR, { recursive: true });
     }
     
-    // Get or create worksheet for this brand
-    const brandName = product.brand;
-    let worksheet = workbook.Sheets[brandName];
+    // Create brand-specific filename
+    const brandFile = path.join(OUTPUT_DIR, `${product.brand.toLowerCase()}.json`);
     
-    if (!worksheet) {
-      // Create new worksheet for this brand
-      worksheet = XLSX.utils.json_to_sheet([]);
-      XLSX.utils.book_append_sheet(workbook, worksheet, brandName);
+    // Load existing products for this brand
+    let brandProducts = [];
+    if (fs.existsSync(brandFile)) {
+      const data = fs.readFileSync(brandFile, "utf8");
+      brandProducts = JSON.parse(data);
     }
-    
-    // Get existing data from worksheet
-    const existingData = XLSX.utils.sheet_to_json(worksheet);
     
     // Add new product
-    existingData.push({
-      'Product ID': product.id,
-      'Name': product.name,
-      'Brand': product.brand,
-      'Category': product.category,
-      'Launch Year': product.launchYear,
-      'Launch Date': extractLaunchDate(product.specs),
-      'Image URL': product.image || '',
-      'Scraped At': product.scrapedAt,
-      'Display': getSpecValue(product.specs, 'Display', 'Size'),
-      'Battery': getSpecValue(product.specs, 'Battery', 'Type'),
-      'Storage': getSpecValue(product.specs, 'Memory', 'Internal storage'),
-      'Camera': getSpecValue(product.specs, 'Camera', 'Main camera'),
-      'Price': getSpecValue(product.specs, 'Misc', 'Price'),
-      'URL': `https://www.gsmarena.com/${product.id}.php`
-    });
+    brandProducts.push(product);
     
-    // Sort by launch date (newest first)
-    existingData.sort((a, b) => {
-      const dateA = new Date(a['Launch Date'] || '2000-01-01');
-      const dateB = new Date(b['Launch Date'] || '2000-01-01');
-      return dateB - dateA; // Descending (newest first)
-    });
+    // Sort by launch year (newest first)
+    brandProducts.sort((a, b) => b.launchYear - a.launchYear);
     
-    // Update worksheet with sorted data
-    worksheet = XLSX.utils.json_to_sheet(existingData);
-    workbook.Sheets[brandName] = worksheet;
-    
-    // Save workbook
-    XLSX.writeFile(workbook, EXCEL_FILE);
-    console.log(`✅ Saved ${product.name} to Excel sheet: ${brandName}`);
-    
+    // Save brand-specific file
+    fs.writeFileSync(brandFile, JSON.stringify(brandProducts, null, 2));
+    console.log(`✅ Saved ${product.name} to ${brandFile}`);
   } catch (error) {
-    console.error("Error saving to Excel:", error.message);
+    console.error("Error saving product:", error.message);
   }
 }
 
-// Extract launch date from specs
-function extractLaunchDate(specs) {
-  const launchSpec = specs["Launch"] || {};
-  return launchSpec["Announced"] || '';
-}
-
-// Helper to get spec value safely
-function getSpecValue(specs, category, key) {
-  try {
-    return specs[category]?.[key] || '';
-  } catch {
-    return '';
-  }
-}
 
 // =========================
 // UTILITY FUNCTIONS
@@ -333,6 +291,7 @@ function parseProductPage(html, url, brand) {
     category,
     launchYear,
     image,
+    url, // Add the product URL
     specs,
     scrapedAt: new Date().toISOString()
   };
@@ -455,41 +414,41 @@ async function scrapeProduct(productUrl, seenProducts, brand) {
 
 // Brands to scrape - ALL categories (phones, tablets, watches, earbuds)
 const BRAND_CATEGORIES = [
-  { name: "apple", url: "https://www.gsmarena.com/apple-phones-48.php" },
-  { name: "xiaomi", url: "https://www.gsmarena.com/xiaomi-phones-80.php" },
-  { name: "oppo", url: "https://www.gsmarena.com/oppo-phones-82.php" },
-  { name: "vivo", url: "https://www.gsmarena.com/vivo-phones-98.php" },
-  { name: "google", url: "https://www.gsmarena.com/google-phones-107.php" },
-  { name: "infinix", url: "https://www.gsmarena.com/infinix-phones-119.php" },
-  { name: "tecno", url: "https://www.gsmarena.com/tecno-phones-120.php" },
-  { name: "itel", url: "https://www.gsmarena.com/itel-phones-131.php" },
-  { name: "nothing", url: "https://www.gsmarena.com/nothing-phones-128.php" },
-  { name: "motorola", url: "https://www.gsmarena.com/motorola-phones-4.php" },
-  { name: "lenovo", url: "https://www.gsmarena.com/lenovo-phones-73.php" },
-  { name: "realme", url: "https://www.gsmarena.com/realme-phones-118.php" },
-  { name: "oneplus", url: "https://www.gsmarena.com/oneplus-phones-95.php" },
-  { name: "asus", url: "https://www.gsmarena.com/asus-phones-46.php" },
-  { name: "micromax", url: "https://www.gsmarena.com/micromax-phones-66.php" },
-  { name: "samsung", url: "https://www.gsmarena.com/samsung-phones-9.php" },
-  { name: "huawei", url: "https://www.gsmarena.com/huawei-phones-58.php" },
-  { name: "honor", url: "https://www.gsmarena.com/honor-phones-121.php" },
-  { name: "nokia", url: "https://www.gsmarena.com/nokia-phones-1.php" },
-  { name: "sony", url: "https://www.gsmarena.com/sony-phones-7.php" },
-  { name: "lg", url: "https://www.gsmarena.com/lg-phones-20.php" },
-  { name: "tcl", url: "https://www.gsmarena.com/tcl-phones-123.php" },
-  { name: "htc", url: "https://www.gsmarena.com/htc-phones-45.php" },
-  { name: "zte", url: "https://www.gsmarena.com/zte-phones-62.php" },
-  { name: "alcatel", url: "https://www.gsmarena.com/alcatel-phones-5.php" },
-  { name: "sharp", url: "https://www.gsmarena.com/sharp-phones-23.php" },
-//   { name: "ulefone", url: "https://www.gsmarena.com/ulefone-phones-124.php" },
-//   { name: "doogee", url: "https://www.gsmarena.com/doogee-phones-129.php" },
-//   { name: "blackview", url: "https://www.gsmarena.com/blackview-phones-116.php" },
-//   { name: "cubot", url: "https://www.gsmarena.com/cubot-phones-130.php" },
-//   { name: "oukitel", url: "https://www.gsmarena.com/oukitel-phones-132.php" },
-//   { name: "umidigi", url: "https://www.gsmarena.com/umidigi-phones-135.php" },
-//   { name: "coolpad", url: "https://www.gsmarena.com/coolpad-phones-105.php" },
-//   { name: "meizu", url: "https://www.gsmarena.com/meizu-phones-74.php" },
-//   { name: "oscal", url: "https://www.gsmarena.com/oscal-phones-134.php" }
+  { name: "apple", url: "https://www.gsmarena.com/apple-phones-48.php", category: "phones" },
+  { name: "samsung", url: "https://www.gsmarena.com/samsung-phones-9.php", category: "phones" },
+  { name: "xiaomi", url: "https://www.gsmarena.com/xiaomi-phones-80.php", category: "phones" },
+  { name: "oppo", url: "https://www.gsmarena.com/oppo-phones-82.php", category: "phones" },
+  { name: "vivo", url: "https://www.gsmarena.com/vivo-phones-98.php", category: "phones" },
+  { name: "google", url: "https://www.gsmarena.com/google-phones-107.php", category: "phones" },
+  { name: "infinix", url: "https://www.gsmarena.com/infinix-phones-119.php", category: "phones" },
+  { name: "tecno", url: "https://www.gsmarena.com/tecno-phones-120.php", category: "phones" },
+  { name: "itel", url: "https://www.gsmarena.com/itel-phones-131.php", category: "phones" },
+  { name: "nothing", url: "https://www.gsmarena.com/nothing-phones-128.php", category: "phones" },
+  { name: "motorola", url: "https://www.gsmarena.com/motorola-phones-4.php", category: "phones" },
+  { name: "realme", url: "https://www.gsmarena.com/realme-phones-118.php", category: "phones" },
+  { name: "oneplus", url: "https://www.gsmarena.com/oneplus-phones-95.php", category: "phones" },
+  { name: "asus", url: "https://www.gsmarena.com/asus-phones-46.php", category: "phones" },
+  { name: "micromax", url: "https://www.gsmarena.com/micromax-phones-66.php", category: "phones" },
+  { name: "nokia", url: "https://www.gsmarena.com/nokia-phones-1.php", category: "phones" },
+  { name: "lenovo", url: "https://www.gsmarena.com/lenovo-phones-73.php", category: "phones" },
+  { name: "honor", url: "https://www.gsmarena.com/honor-phones-121.php", category: "phones" },
+  { name: "sony", url: "https://www.gsmarena.com/sony-phones-7.php", category: "phones" },
+  // { name: "lg", url: "https://www.gsmarena.com/lg-phones-20.php", category: "phones" },
+  // { name: "huawei", url: "https://www.gsmarena.com/huawei-phones-58.php", category: "phones" },
+  // { name: "tcl", url: "https://www.gsmarena.com/tcl-phones-123.php", category: "phones" },
+  // { name: "htc", url: "https://www.gsmarena.com/htc-phones-45.php", category: "phones" },
+  // { name: "zte", url: "https://www.gsmarena.com/zte-phones-62.php", category: "phones" },
+  // { name: "alcatel", url: "https://www.gsmarena.com/alcatel-phones-5.php", category: "phones" },
+  // { name: "sharp", url: "https://www.gsmarena.com/sharp-phones-23.php", category: "phones" },
+  // { name: "ulefone", url: "https://www.gsmarena.com/ulefone-phones-124.php", category: "phones" },
+  // { name: "doogee", url: "https://www.gsmarena.com/doogee-phones-129.php", category: "phones" },
+  // { name: "blackview", url: "https://www.gsmarena.com/blackview-phones-116.php", category: "phones" },
+  // { name: "cubot", url: "https://www.gsmarena.com/cubot-phones-130.php", category: "phones" },
+  // { name: "oukitel", url: "https://www.gsmarena.com/oukitel-phones-132.php", category: "phones" },
+  // { name: "umidigi", url: "https://www.gsmarena.com/umidigi-phones-135.php", category: "phones" },
+  // { name: "coolpad", url: "https://www.gsmarena.com/coolpad-phones-105.php", category: "phones" },
+  // { name: "meizu", url: "https://www.gsmarena.com/meizu-phones-74.php", category: "phones" },
+  // { name: "oscal", url: "https://www.gsmarena.com/oscal-phones-134.php", category: "phones" }
 ];
 
 // Main scraping function
@@ -519,13 +478,24 @@ async function runIncrementalScraper() {
         }
         
         // Scrape each new product
+        let oldProductCount = 0; // Counter for consecutive old products
         for (const link of newLinks) {
           try {
             const product = await scrapeProduct(link.url, seenProducts, brandCategory.name);
             if (product) {
               allScrapedProducts.push(product);
-              // Save to Excel (one sheet per brand, sorted by launch date)
-              saveProductToExcel(product);
+              // Save comprehensive JSON with all specs
+              appendScrapedProduct(product);
+              oldProductCount = 0; // Reset counter on successful scrape
+            } else {
+              oldProductCount++;
+              console.log(`⚠️  Old product count: ${oldProductCount}/3`);
+              
+              // Skip to next brand after 3 consecutive old products
+              if (oldProductCount >= 3) {
+                console.log(`🛑 Too many old products (${oldProductCount}), skipping to next brand: ${brandCategory.name}`);
+                break;
+              }
             }
             await randomDelay();
           } catch (error) {
@@ -549,13 +519,14 @@ async function runIncrementalScraper() {
       }
     }
     
-    // Final save - Excel format with brand sheets
+    // Final save - brand-specific JSON files with all specs
     console.log(`\n✅ Scraping completed successfully!`);
     console.log(`📊 Total new products scraped: ${allScrapedProducts.length}`);
     console.log(`💰 Total ScraperAPI credits used: ${creditsUsed} (limit: ${MAX_CREDITS})`);
     console.log(`📚 Total products in database: ${Object.keys(seenProducts).length}`);
-    console.log(`📄 Data saved to Excel: ${EXCEL_FILE}`);
-    console.log(`� Each brand has separate sheet, sorted by launch date (newest first)`);
+    console.log(`📄 Data saved to brand-specific JSON files in: ${OUTPUT_DIR}/`);
+    console.log(`📋 Each brand has separate file: apple.json, samsung.json, xiaomi.json, etc.`);
+    console.log(`📋 Contains ALL specs: Network, Display, Platform, Memory, Camera, Battery, etc.`);
     
   } catch (error) {
     if (error.message.includes("BLOCK_DETECTED")) {
@@ -569,8 +540,9 @@ async function runIncrementalScraper() {
     // Save whatever we have
     saveSeenProducts(seenProducts);
     if (allScrapedProducts.length > 0) {
-      console.log(`💾 Products saved to Excel: ${EXCEL_FILE}`);
-      console.log(`� Each brand has separate sheet, sorted by launch date (newest first)`);
+      console.log(`💾 Products saved to brand-specific JSON files in: ${OUTPUT_DIR}/`);
+      console.log(`📋 Each brand has separate file: apple.json, samsung.json, xiaomi.json, etc.`);
+      console.log(`📋 Contains ALL specs: Network, Display, Platform, Memory, Camera, Battery, etc.`);
     }
     
     process.exit(1);

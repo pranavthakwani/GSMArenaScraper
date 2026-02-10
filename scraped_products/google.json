@@ -1,0 +1,1451 @@
+[
+  {
+    "id": "14014",
+    "name": "Google Pixel 10 Pro Fold",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-fold--.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_10_pro_fold-14014.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 29, 30, 32, 38, 39, 40, 42, 48, 66, 71, 75 - GU0NP International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 40, 48, 66, 70, 71, 75, 77, 78, 79, 257, 258, 260, 261 SA/NSA/Sub6 - GU0NP International",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, August 20",
+        "Status": "Available. Released 2025, October 09"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 155.2 x 150.4 x 5.2 mmFolded: 155.2 x 76.3 x 10.8 mm",
+        "Weight": "258 g (9.10 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "Foldable LTPO OLED, 120Hz, HDR10+, 1800 nits (HBM), 3000 nits (peak)",
+        "Size": "8.0 inches, 206.3 cm2 (~88.4% screen-to-body ratio)",
+        "Resolution": "2076 x 2152 pixels, 1:1 ratio (~374 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G5 (3 nm)",
+        "CPU": "Octa-core (1x3.78 GHz Cortex-X4 & 5x3.05 GHz Cortex-A725 & 2x2.25 GHz Cortex-A520)",
+        "GPU": "PowerVR DXT-48-1536"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS\n10.8 MP, f/3.1, 112mm (telephoto), 1/3.2\", dual pixel PDAF, OIS, 5x optical zoom\n10.5 MP, f/2.2, 127˚ (ultrawide), 1/3.4\", PDAF",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "4K@24/30/60fps, 1080p@24/30/60/120/240fps, 10-bit HDR, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.2, 23mm (wide), 1/3.94\", PDAF\nCover camera:\n10 MP, f/2.2, 23mm (wide), 1/3.94\", PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "5015 mAh",
+        "Charging": "30W wired, PPS, 50% in 30 min\n15W wireless (magnetic), Qi2\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Moonstone, Jade",
+        "Models": "GU0NP, GM66V",
+        "SAR": "0.99 W/kg (head)     0.99 W/kg (body)",
+        "SAR EU": "0.99 W/kg (head)     1.39 W/kg (body)",
+        "Price": "$ 1,499.00 / € 1,521.90"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "47:55h endurance, 1000 cycles",
+        "Free fall": "Class A (210 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:25:05.007Z"
+  },
+  {
+    "id": "13988",
+    "name": "Google Pixel 10 Pro XL",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-xl-.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_10_pro_xl_5g-13988.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 29, 30, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75 - G45RY",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 30, 38, 40, 46, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - G45RY",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, August 20",
+        "Status": "Available. Released 2025, August 28"
+      },
+      "Body": {
+        "Dimensions": "162.8 x 76.6 x 8.5 mm (6.41 x 3.02 x 0.33 in)",
+        "Weight": "232 g (8.18 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "· Nano-SIM + eSIM· eSIM + eSIM (8 or more, max 2 at a time; USA)"
+      },
+      "Display": {
+        "Type": "LTPO OLED, 120Hz, HDR10+, 2200 nits (HBM), 3300 nits (peak)",
+        "Size": "6.8 inches, 109.7 cm2 (~88.0% screen-to-body ratio)",
+        "Resolution": "1344 x 2992 pixels, 20:9 ratio (~486 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G5 (3 nm)",
+        "CPU": "Octa-core (1x3.78 GHz Cortex-X4 & 5x3.05 GHz Cortex-A725 & 2x2.25 GHz Cortex-A520)",
+        "GPU": "PowerVR DXT-48-1536"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", dual pixel PDAF, OIS, 5x optical zoom\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF,",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "8K@30fps (via cloud-based upscaling), 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "42 MP, f/2.2, 17mm (ultrawide), PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5200 mAh",
+        "Charging": "45W wired, PD3.0, PPS, 70% in 30 min\n25W wireless (magnetic), Qi2\nReverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Moonstone, Jade, Porcelain, Obsidian",
+        "Models": "G45RY, GUL82, GYPW4",
+        "SAR": "0.99 W/kg (head)     0.99 W/kg (body)",
+        "SAR EU": "0.99 W/kg (head)     1.39 W/kg (body)",
+        "Price": "€ 869.19 / $ 669.94 / £ 800.99 / ₹ 112,999"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1423216 (v10), 1548670 (v11)\nGeekBench: 6497 (v6)\n3DMark: 3332 (Wild Life Extreme)",
+        "Display": "2340 nits max brightness (measured)",
+        "Loudspeaker": "-25.3 LUFS (Very good)",
+        "Battery": "Active use score 12:29h"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "48:39h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:25:14.698Z"
+  },
+  {
+    "id": "13987",
+    "name": "Google Pixel 10 Pro",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_10_pro_5g-13987.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 29, 30, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75 - GEHN3",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 30, 38, 40, 46, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - GEHN3",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, August 20",
+        "Status": "Available. Released 2025, August 28"
+      },
+      "Body": {
+        "Dimensions": "152.8 x 72 x 8.5 mm (6.02 x 2.83 x 0.33 in)",
+        "Weight": "207 g (7.30 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "· Nano-SIM + eSIM· eSIM + eSIM (8 or more, max 2 at a time; USA)"
+      },
+      "Display": {
+        "Type": "LTPO OLED, 120Hz, HDR10+, 2200 nits (HBM), 3300 nits (peak)",
+        "Size": "6.3 inches, 96.3 cm2 (~87.6% screen-to-body ratio)",
+        "Resolution": "1280 x 2856 pixels, 20:9 ratio (~495 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G5 (3 nm)",
+        "CPU": "Octa-core (1x3.78 GHz Cortex-X4 & 5x3.05 GHz Cortex-A725 & 2x2.25 GHz Cortex-A520)",
+        "GPU": "PowerVR DXT-48-1536"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 16GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", dual pixel PDAF, OIS, 5x optical zoom\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "8K@30fps (via cloud-based upscaling), 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "42 MP, f/2.2, 17mm (ultrawide), PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4870 mAh",
+        "Charging": "30W wired, PD3.0, PPS, 55% in 30 min\n15W wireless (magnetic), Qi2\nReverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Moonstone, Jade, Porcelain, Obsidian",
+        "Models": "GEHN3, G4QUR, GN4F5",
+        "SAR": "0.99 W/kg (head)     0.99 W/kg (body)",
+        "SAR EU": "0.99 W/kg (head)     1.39 W/kg (body)",
+        "Price": "$ 510.32 / C$ 1,239.97 / £ 559.00 / € 802.00 / ₹ 99,999"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1107978 (v10), 1470445 (v11)\nGeekBench: 6195 (v6)\n3DMark: 3400 (Wild Life Extreme)",
+        "Loudspeaker": "-25.7 LUFS (Very good)",
+        "Battery": "Active use score 12:06h"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "51:09h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:25:19.276Z"
+  },
+  {
+    "id": "14088",
+    "name": "Google Pixel Watch 4",
+    "brand": "google",
+    "category": "watch",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch4.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_watch_4-14088.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, August 20",
+        "Status": "Available. Released 2025, October 09"
+      },
+      "Body": {
+        "Dimensions": "45 x 45 x 12.3 mm (1.77 x 1.77 x 0.48 in)",
+        "Weight": "31 g or 37 g (1.09 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame",
+        "SIM": "eSIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 3000 nits (peak)",
+        "Size": "1.4 inches",
+        "Resolution": "456 x 456 pixels (~320 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 6",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 2 (4 nm)",
+        "CPU": "Quad-core (4x1.7 GHz Cortex-A53)",
+        "GPU": "Adreno A702"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {},
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "6.0, A2DP",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO (E1+E5a)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance"
+      },
+      "Battery": {
+        "Type": "Li-Ion 455 mAh",
+        "Charging": "Wired, 50% in 15 min, 80% in 30 min, 100% in 60 min - 45mm model\nWired, 50% in 15 min, 80% in 25 min, 100% in 45 min - 41mm model"
+      },
+      "Misc": {
+        "Colors": "Matte Black, Polished Silver, Champagne Gold, Satin Moonstone",
+        "Price": "€ 293.28 / $ 349.99"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:25:36.637Z"
+  },
+  {
+    "id": "13478",
+    "name": "Google Pixel 9a",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9a.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_9a-13478.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 14, 17, 18, 19, 20, 21, 26, 28, 32, 38, 39, 40, 41, 42, 66, 75 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 66, 75, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, March 19",
+        "Status": "Available. Released 2025, April 10"
+      },
+      "Body": {
+        "Dimensions": "154.7 x 73.3 x 8.9 mm (6.09 x 2.89 x 0.35 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front (Gorilla Glass 3), aluminum frame, plastic back",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "P-OLED, HDR, 120Hz, 1800 nits (HBM), 2700 nits (peak)",
+        "Size": "6.3 inches, 94.7 cm2 (~83.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2424 pixels, 20:9 ratio (~422 ppi density)",
+        "Protection": "Corning Gorilla Glass 3, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 15, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G4 (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.9 GHz Cortex-A520)",
+        "GPU": "Mali-G715 MP7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS\n13 MP, f/2.2, 120˚ (ultrawide), 1/3.1\", 1.12µm",
+        "Features": "Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.12µm",
+        "Features": "HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual/tri-band (market/region dependent)",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 5100 mAh",
+        "Charging": "23W wired, PD3.0\n7.5W wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian, Porcelain, Iris, Peony",
+        "Models": "GXQ96, GTF7P, G3Y12",
+        "SAR EU": "0.99 W/kg (head)     1.39 W/kg (body)",
+        "Price": "$ 299.99 / £ 317.00 / ₹ 39,110"
+      },
+      "Our Tests": {
+        "Loudspeaker": "-27.2 LUFS (Good)",
+        "Battery": "Active use score 12:42h"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "52:19h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:25:45.613Z"
+  },
+  {
+    "id": "13217",
+    "name": "Google Pixel 9 Pro XL",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-xl-.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_9_pro_xl-13217.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 71 - GGX8B",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - GGX8B",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, August 22"
+      },
+      "Body": {
+        "Dimensions": "162.8 x 76.6 x 8.5 mm (6.41 x 3.02 x 0.33 in)",
+        "Weight": "221 g (7.80 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "LTPO OLED, 120Hz, HDR10+, 2000 nits (HBM), 3000 nits (peak)",
+        "Size": "6.8 inches, 109.7 cm2 (~88.0% screen-to-body ratio)",
+        "Resolution": "1344 x 2992 pixels, 20:9 ratio (~486 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G4 (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.92 GHz Cortex-A520)",
+        "GPU": "Mali-G715 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 16GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", dual pixel PDAF, OIS, 5x optical zoom\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF,",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "8K@30fps (via cloud-based upscaling), 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "42 MP, f/2.2, 17mm (ultrawide), PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5060 mAh",
+        "Charging": "37W wired, PD3.0, PPS, 70% in 30 min\n23W wireless (w/ Pixel Stand)\n12W wireless (w/ Qi compatible charger)\nReverse wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Porcelain, Rose Quartz, Hazel, Obsidian",
+        "Models": "GGX8B, GZC4K, GQ57S",
+        "SAR EU": "0.99 W/kg (head)     1.40 W/kg (body)",
+        "Price": "$ 449.95 / € 498.99 / £ 448.75 / ₹ 117,999"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1380138 (v10)\nGeekBench: 4854 (v6)\n3DMark: 2540 (Wild Life Extreme)",
+        "Display": "2365 nits max brightness (measured)",
+        "Loudspeaker": "-25.5 LUFS (Very good)",
+        "Battery": "Active use score 12:32h"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "49:30h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:25:59.867Z"
+  },
+  {
+    "id": "13218",
+    "name": "Google Pixel 9 Pro",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_9_pro-13218.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 71 - GR83Y",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - GR83Y",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, September 09"
+      },
+      "Body": {
+        "Dimensions": "152.8 x 72 x 8.5 mm (6.02 x 2.83 x 0.33 in)",
+        "Weight": "199 g (7.02 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "LTPO OLED, 120Hz, HDR10+, 2000 nits (HBM), 3000 nits (peak)",
+        "Size": "6.3 inches, 96.3 cm2 (~87.6% screen-to-body ratio)",
+        "Resolution": "1280 x 2856 pixels, 20:9 ratio (~495 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G4 (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.92 GHz Cortex-A520)",
+        "GPU": "Mali-G715 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 16GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", dual pixel PDAF, OIS, 5x optical zoom\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "8K@30fps (via cloud-based upscaling), 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "42 MP, f/2.2, 17mm (ultrawide), PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4700 mAh",
+        "Charging": "27W wired, PD3.0, PPS, 55% in 30 min\n21W wireless (w/ Pixel Stand)\n12W wireless (w/ Qi compatible charger)\nReverse wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Porcelain, Rose Quartz, Hazel, Obsidian",
+        "Models": "GR83Y, GEC77, GWVK6",
+        "SAR EU": "0.99 W/kg (head)     1.37 W/kg (body)",
+        "Price": "€ 528.52 / $ 399.97 / £ 426.00"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 838931 (v9), 1088917 \n(v10)\nGeekBench: 3850 (v5), 4728 (v6)\n3DMark: 2574 (Wild Life Extreme)",
+        "Display": "2331 nits max brightness (measured)",
+        "Loudspeaker": "-24.3 LUFS (Very good)",
+        "Battery": "Active use score 13:11h"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "50:44h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:26:10.687Z"
+  },
+  {
+    "id": "13219",
+    "name": "Google Pixel 9",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_9-13219.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 71 - G2YBB",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - G2YBB",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, August 22"
+      },
+      "Body": {
+        "Dimensions": "152.8 x 72 x 8.5 mm (6.02 x 2.83 x 0.33 in)",
+        "Weight": "198 g (6.98 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "OLED, 120Hz, HDR10+, 1800 nits (HBM), 2700 nits (peak)",
+        "Size": "6.3 inches, 94.7 cm2 (~86.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2424 pixels, 20:9 ratio (~422 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G4 (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.92 GHz Cortex-A520)",
+        "GPU": "Mali-G715 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 12GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF",
+        "Features": "Single-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take",
+        "Video": "4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "10.5 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.22µm, PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4700 mAh",
+        "Charging": "27W wired, PD3.0, PPS, 55% in 30 min\n15W wireless (w/ Pixel Stand)\n12W wireless (w/ Qi compatible charger)\nReverse wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian, Porcelain, Wintergreen, Peony",
+        "Models": "G2YBB, GUR25, G1B60",
+        "SAR EU": "0.99 W/kg (head)     1.40 W/kg (body)",
+        "Price": "$ 326.00 / € 412.00 / £ 388.10 / ₹ 56,990"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1224020 (v10)\nGeekBench: 4489 (v6)\n3DMark: 2587 (Wild Life Extreme)",
+        "Display": "2232 nits max brightness (measured)",
+        "Loudspeaker": "-25.0 LUFS (Very good)",
+        "Battery": "Active use score 13:05h"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "49:12h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:26:21.317Z"
+  },
+  {
+    "id": "13220",
+    "name": "Google Pixel 9 Pro Fold",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-fold-.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_9_pro_fold-13220.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 76, 77, 78, 79, 257, 258, 260, 261 SA/NSA/Sub6/mmWave",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, September 04"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 155.2 x 150.2 x 5.1 mmFolded: 155.2 x 77.1 x 10.5 mm",
+        "Weight": "257 g (9.07 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "Foldable LTPO OLED, 120Hz, HDR10+, 1600 nits (HBM), 2700 nits (peak)",
+        "Size": "8.0 inches, 207.4 cm2 (~89.0% screen-to-body ratio)",
+        "Resolution": "2076 x 2152 pixels, 1:1 ratio (~373 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G4 (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.92 GHz Cortex-A520)",
+        "GPU": "Mali-G715 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 16GB RAM, 512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS\n10.8 MP, f/3.1, 112mm (telephoto), 1/3.2\", dual pixel PDAF, OIS, 5x optical zoom\n10.5 MP, f/2.2, 127˚ (ultrawide), 1/3.4\", PDAF",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "4K@24/30/60fps, 1080p@24/30/60/120/240fps, 10-bit HDR, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.2, 23mm (wide), 1/3.94\", PDAF\nCover camera:\n10 MP, f/2.2, 23mm (wide), 1/3.94\", PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "4650 mAh",
+        "Charging": "21W wired\n7.5W wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian, Porcelain",
+        "Models": "GGH2X, GC15S",
+        "SAR EU": "0.98 W/kg (head)     1.39 W/kg (body)",
+        "Price": "€ 854.39 / $ 703.58 / £ 949.00 / ₹ 103,850"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1222228 (v10)\nGeekBench: 4783 (v6)\n3DMark: 2620 (Wild Life Extreme)",
+        "Display": "2199 nits max brightness (measured)",
+        "Loudspeaker": "-24.1 LUFS (Very good)",
+        "Battery": "Active use score 11:54h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:26:30.741Z"
+  },
+  {
+    "id": "13253",
+    "name": "Google Pixel Watch 3",
+    "brand": "google",
+    "category": "watch",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch3-.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_watch_3-13253.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, September 10"
+      },
+      "Body": {
+        "Dimensions": "45 x 45 x 12.3 mm (1.77 x 1.77 x 0.48 in)",
+        "Weight": "37 g (1.31 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame",
+        "SIM": "eSIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 2000 nits (peak)",
+        "Size": "1.4 inches",
+        "Resolution": "456 x 456 pixels (~320 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 5, up to 3 major Android upgrades",
+        "Chipset": "Qualcomm SW5100"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {},
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.3, A2DP",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance"
+      },
+      "Battery": {
+        "Type": "Li-Ion 420 mAh",
+        "Charging": "Wired, 50% in 28 min, 80% in 50 min - 45mm model\nWired, 50% in 24 min, 80% in 35 min - 41mm model"
+      },
+      "Misc": {
+        "Colors": "Matte Black, Polished Silver, Champagne Gold, Matte Hazel",
+        "Price": "€ 237.51"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:26:38.340Z"
+  },
+  {
+    "id": "12937",
+    "name": "Google Pixel 8a",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8a.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_8a-12937.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 66 - G6GPR (International)",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 66, 75, 76, 77, 78 SA/NSA/Sub6 - G6GPR (International)",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, May 07",
+        "Status": "Available. Released 2024, May 14"
+      },
+      "Body": {
+        "Dimensions": "152.1 x 72.7 x 8.9 mm (5.99 x 2.86 x 0.35 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front (Gorilla Glass 3), aluminum frame, plastic back",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "OLED, HDR, 120Hz, 2000 nits (peak)",
+        "Size": "6.1 inches, 90.3 cm2 (~81.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~430 ppi density)",
+        "Protection": "Corning Gorilla Glass 3, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G3 (4 nm)",
+        "CPU": "Nona-core (1x3.0 GHz Cortex-X3 & 4x2.45 GHz Cortex-A715 & 4x2.15 GHz Cortex-A510)",
+        "GPU": "Immortalis-G715s MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP (16 MP eff.), f/1.9, 26mm (wide), 1/1.73\", 0.8µm, dual pixel PDAF, OIS\n13 MP, f/2.2, 120˚ (ultrawide), 1.12µm",
+        "Features": "Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, OIS"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, 20mm (ultrawide), 1.12µm",
+        "Features": "HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual/tri-band (market/region dependent)",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 4492 mAh",
+        "Charging": "18W wired, PD3.0\n7.5W wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian, Porcelain, Bay, Aloe",
+        "Models": "GKV4X, G6GPR, G8HHN, G576D",
+        "Price": "€ 249.00 / $ 214.98 / £ 209.00 / ₹ 33,900"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1193520 (v10)\nGeekBench: 4384 (v6)\n3DMark: 2427 (Wild Life Extreme)",
+        "Display": "1508 nits max brightness (measured)",
+        "Loudspeaker": "-26.5 LUFS (Good)",
+        "Battery": "Active use score 11:25h",
+        "Battery (old)": "Endurance rating 83h"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "40:06h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:26:50.562Z"
+  },
+  {
+    "id": "12545",
+    "name": "Google Pixel 8 Pro",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8-pro.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_8_pro-12545.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - G1MNW",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 257, 258, 260, 261 SA/NSA/Sub6/mmWave - G1MNW",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, October 04",
+        "Status": "Available. Released 2023, October 12"
+      },
+      "Body": {
+        "Dimensions": "162.6 x 76.5 x 8.8 mm (6.40 x 3.01 x 0.35 in)",
+        "Weight": "213 g (7.51 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "LTPO OLED, 120Hz, HDR10+, 1600 nits (HBM), 2400 nits (peak)",
+        "Size": "6.7 inches, 108.7 cm2 (~87.4% screen-to-body ratio)",
+        "Resolution": "1344 x 2992 pixels, 20:9 ratio (~489 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G3 (4 nm)",
+        "CPU": "Nona-core (1x3.0 GHz Cortex-X3 & 4x2.45 GHz Cortex-A715 & 4x2.15 GHz Cortex-A510)",
+        "GPU": "Immortalis-G715s MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", 0.7µm, dual pixel PDAF, OIS, 5x optical zoom\n48 MP, f/2.0, 126˚ (ultrawide), 1/2.0\", 0.8µm, dual pixel PDAF",
+        "Features": "Multi-zone Laser AF, Dual-LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "4K@30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "10.5 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.22µm, PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@24/30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5050 mAh",
+        "Charging": "30W wired, PD3.0, PPS, 50% in 30 min\n23W wireless\nReverse wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian, Porcelain, Bay, Mint",
+        "Models": "GC3VE, G1MNW",
+        "Price": "$ 259.99 / C$ 441.74 / £ 248.95 / € 396.00"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 924853 (v9), 1151243 (v10)\nGeekBench: 3613 (v5), 4462 (v6)\nGFXBench: 49fps (ES 3.1 onscreen)",
+        "Display": "1600 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-26.6 LUFS (Good)",
+        "Battery": "Active use score 11:14h",
+        "Battery (old)": "Endurance rating 90h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:26:58.067Z"
+  },
+  {
+    "id": "12546",
+    "name": "Google Pixel 8",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_8-12546.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 46, 48, 66, 71 - GKWS6, G9BQD",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - GKWS6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, October 04",
+        "Status": "Available. Released 2023, October 12"
+      },
+      "Body": {
+        "Dimensions": "150.5 x 70.8 x 8.9 mm (5.93 x 2.79 x 0.35 in)",
+        "Weight": "187 g (6.60 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass Victus), aluminum frame",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "OLED, 120Hz, HDR10+, 1400 nits (HBM), 2000 nits (peak)",
+        "Size": "6.2 inches, 91.1 cm2 (~85.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~428 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G3 (4 nm)",
+        "CPU": "Nona-core (1x3.0 GHz Cortex-X3 & 4x2.45 GHz Cortex-A715 & 4x2.15 GHz Cortex-A510)",
+        "GPU": "Immortalis-G715s MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP (12 MP eff.), f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n12 MP, f/2.2, 126˚ (ultrawide), 1/2.9\", 1.25µm, AF",
+        "Features": "Laser AF, Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take",
+        "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "10.5 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.22µm",
+        "Features": "HDR, panorama",
+        "Video": "4K@24/30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4575 mAh",
+        "Charging": "27W wired, PD3.0, PPS, 50% in 30 min\n18W wireless\nReverse wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian, Hazel, Rose, Mint",
+        "Models": "GKWS6, G9BQD, GA04851-US, GZPFO, GPJ41",
+        "Price": "£ 218.00 / € 256.00 / $ 254.95 / C$ 330.00"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 926801 (v9), 1158631 (v10)\nGeekBench: 3526 (v5), 4404 (v6)\nGFXBench: 73fps (ES 3.1 onscreen)",
+        "Display": "1446 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-26.0 LUFS (Very good)",
+        "Battery": "Active use score 11:17h",
+        "Battery (old)": "Endurance rating 83h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:27:07.661Z"
+  },
+  {
+    "id": "12547",
+    "name": "Google Pixel Watch 2",
+    "brand": "google",
+    "category": "watch",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch-2.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_watch_2-12547.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, October 04",
+        "Status": "Available. Released 2023, October 12"
+      },
+      "Body": {
+        "Dimensions": "41 x 41 x 12.3 mm (1.61 x 1.61 x 0.48 in)",
+        "Weight": "31 g (1.09 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame",
+        "SIM": "eSIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1000 nits (peak)",
+        "Size": "1.2 inches",
+        "Resolution": "450 x 450 pixels (~320 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 4",
+        "Chipset": "Qualcomm 5100"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {},
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance"
+      },
+      "Battery": {
+        "Type": "Li-Ion 306 mAh",
+        "Charging": "Wired, 80% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Polished Silver, Matte Black, Champagne Gold",
+        "Models": "G4TSL, GC3G8, GD2WG",
+        "Price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:27:14.327Z"
+  },
+  {
+    "id": "12265",
+    "name": "Google Pixel Fold",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-fold.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_fold-12265.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 28, 30, 38, 40, 41, 48, 66, 71, 75, 76, 77, 78, 79, 257, 258, 260, 261 SA/NSA/Sub6/mmWave",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 10",
+        "Status": "Available. Released 2023, June 27"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 139.7 x 158.7 x 5.8 mmFolded: 139.7 x 79.5 x 12.1 mm",
+        "Weight": "283 g (9.98 oz)",
+        "Build": "Glass front (Gorilla Glass Victus) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus), aluminum frame",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "Foldable OLED, 120Hz, HDR10+, 1000 nits (HBM), 1450 nits (peak)",
+        "Size": "7.6 inches, 183.3 cm2 (~82.7% screen-to-body ratio)",
+        "Resolution": "1840 x 2208 pixels (~378 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 15, up to 5 major Android upgrades",
+        "Chipset": "Google Tensor G2 (5 nm)",
+        "CPU": "Octa-core (2x2.85 GHz Cortex-X1 & 2x2.35 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+        "GPU": "Mali-G710 MP7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS\n10.8 MP, f/3.1, 112mm (telephoto), 1/3.1\", 1.22µm, dual pixel PDAF, OIS, 5x optical zoom\n10.8 MP, f/2.2, 121˚, (ultrawide), 1/3.0\", 1.25µm",
+        "Features": "Laser AF, Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm\nCover camera:\n9.5 MP, f/2.2, 24mm (wide), 1.22µm, dual pixel PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 4821 mAh",
+        "Charging": "Wired, PD3.0\nWireless"
+      },
+      "Misc": {
+        "Colors": "Porcelain, Obsidian",
+        "Models": "G9FPL",
+        "Price": "€ 620.85 / $ 496.32 / £ 549.99"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:27:23.217Z"
+  },
+  {
+    "id": "11905",
+    "name": "Google Pixel Tablet",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-tablet-1.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_tablet-11905.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, May 10",
+        "Status": "Available. Released 2023, June 20"
+      },
+      "Body": {
+        "Dimensions": "258 x 169 x 8.1 mm (10.16 x 6.65 x 0.32 in)",
+        "Weight": "493 g (1.09 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "10.95 inches, 347.7 cm2 (~79.7% screen-to-body ratio)",
+        "Resolution": "1600 x 2560 pixels, 16:10 ratio (~276 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 15",
+        "Chipset": "Google Tensor G2 (5 nm)",
+        "CPU": "Octa-core (2x2.85 GHz Cortex-X1 & 2x2.35 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+        "GPU": "Mali-G710 MP7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2 (Gen 1), magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Li-Po 7020 mAh (27 Wh)",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Porcelain, Hazel, Rose",
+        "Models": "GA06156-EU, GA06157-EU, GA06158-EU",
+        "Price": "About 670 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:27:34.625Z"
+  },
+  {
+    "id": "12170",
+    "name": "Google Pixel 7a",
+    "brand": "google",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-7a.jpg",
+    "url": "https://www.gsmarena.com/google_pixel_7a-12170.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 71 - GWKK3, G0DZQ",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 28, 30, 38, 41, 48, 66, 71, 77, 78 SA/NSA/Sub6 - GWKK3",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 10",
+        "Status": "Available. Released 2023, May 10"
+      },
+      "Body": {
+        "Dimensions": "152 x 72.9 x 9 mm (5.98 x 2.87 x 0.35 in)",
+        "Weight": "193.5 g (6.84 oz)",
+        "Build": "Glass front (Gorilla Glass 3), aluminum frame, plastic back",
+        "SIM": "Nano-SIM + eSIM"
+      },
+      "Display": {
+        "Type": "OLED, HDR, 90Hz",
+        "Size": "6.1 inches, 90.7 cm2 (~81.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~429 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 16, up to 5 major Android upgrades",
+        "Chipset": "Google Tensor G2 (5 nm)",
+        "CPU": "Octa-core (2x2.85 GHz Cortex-X1 & 2x2.35 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+        "GPU": "Mali-G710 MP7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.9, 26mm (wide), 1/1.73\", 0.8µm, dual pixel PDAF, OIS\n13 MP, f/2.2, 120˚ (ultrawide), 1.12µm",
+        "Features": "Dual-LED flash, Pixel Shift, Auto-HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, OIS"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, 20mm (ultrawide), 1.12µm",
+        "Features": "HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 4385 mAh",
+        "Charging": "18W wired, PD3.0\n7.5W wireless"
+      },
+      "Misc": {
+        "Colors": "Charcoal, Snow, Sea, Coral",
+        "Models": "GWKK3, GHL1X, G0DZQ, G82U8",
+        "Price": "£ 147.22 / € 180.00 / $ 150.00 / C$ 299.99"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 765281 (v9)\nGeekBench: 3191 (v5.1), 3631 (v6)\nGFXBench: 62fps (ES 3.1 onscreen)",
+        "Display": "1070 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-26.5 LUFS (Good)",
+        "Battery (old)": "Endurance rating 76h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:27:39.444Z"
+  }
+]

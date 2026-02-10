@@ -1,0 +1,4985 @@
+[
+  {
+    "id": "14420",
+    "name": "Tecno Spark Go 3",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2026,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go3.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_go_3-14420.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2026, January 16",
+        "Status": "Available. Released 2026, January 23"
+      },
+      "Body": {
+        "Dimensions": "167.7 x 77.8 x 8.1 mm (6.60 x 3.06 x 0.32 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.74 inches, 109.7 cm2 (~84.1% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15",
+        "Chipset": "Unisoc T7250 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "Dual-LED",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Titanium Grey, Ink Black, Galaxy Blue, Aurora Purple",
+        "Models": "KN3",
+        "Price": "₹ 8,999"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:38:11.380Z"
+  },
+  {
+    "id": "14244",
+    "name": "Tecno Megapad Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-megapad-pro.jpg",
+    "url": "https://www.gsmarena.com/tecno_megapad_pro-14244.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "5G bands": "N/A",
+        "Speed": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, September 03",
+        "Status": "Available. Released 2025, October 20"
+      },
+      "Body": {
+        "Dimensions": "6.0 mm thickness",
+        "Weight": "547 g (1.21 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 450 nits",
+        "Size": "12.0 inches, 409.9 cm2",
+        "Resolution": "1200 x 2000 pixels, 5:3 ratio (~194 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "Up to 256GB"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "10000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Sky Gray, Aurora Violet"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:38:18.671Z"
+  },
+  {
+    "id": "14111",
+    "name": "Tecno Pova Slim",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-slim.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_slim_5g-14111.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, September 02",
+        "Status": "Available. Released 2025, October 08"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 75.9 x 6 mm (6.46 x 2.99 x 0.24 in)",
+        "Weight": "156 g (5.50 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), fiber-reinforced plastic back",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 144Hz, 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.1% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15",
+        "Chipset": "Mediatek Dimensity 6400 (6 nm)",
+        "CPU": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, (wide), PDAF\n2 MP",
+        "Features": "LED flash",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5160 mAh",
+        "Charging": "45W wired, 100% in 57 min\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Sky Blue, Slim White, Cool Black",
+        "Models": "KM9",
+        "Price": "₹ 20,099"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:38:23.556Z"
+  },
+  {
+    "id": "14112",
+    "name": "Tecno Spark Slim",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-slim.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_slim-14112.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, September 02",
+        "Status": "Available. Released 2025, October 10"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 75.9 x 5.9 mm (6.46 x 2.99 x 0.23 in)",
+        "Weight": "156 g (5.50 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), fiber-reinforced plastic back",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 144Hz, 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.1% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15",
+        "Chipset": "Mediatek Helio G200 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2 (1.1GHz)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), PDAF",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers (with Dolby Atmos)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro"
+      },
+      "Battery": {
+        "Type": "5160 mAh",
+        "Charging": "45W wired, 100% in 57 min\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Slim White, Cool Black",
+        "Models": "KM7k",
+        "Price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:38:32.767Z"
+  },
+  {
+    "id": "14052",
+    "name": "Tecno Spark 40C",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-40c.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_40c-14052.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, July 19",
+        "Status": "Available. Released 2025, August"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 77 x 8.4 mm (6.52 x 3.03 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15.1",
+        "Chipset": "Mediatek Helio G81 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, 27mm (wide), PDAF",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Veil White, Ripple Blue, Titanium Grey, Ink Black",
+        "Models": "KM4k",
+        "Price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:38:49.831Z"
+  },
+  {
+    "id": "13990",
+    "name": "Tecno Pova 7 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7-pro.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_7_pro_5g-13990.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, July 04",
+        "Status": "Available. Released 2025, July 10"
+      },
+      "Body": {
+        "Dimensions": "163.5 x 75.9 x 8.2 mm (6.44 x 2.99 x 0.32 in)",
+        "Weight": "195 g (6.88 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 144Hz, 2304Hz PWM, 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.4% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15",
+        "Chipset": "Mediatek Dimensity 7300 Ultimate (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, (wide), 1/1.73\", PDAF\n8 MP, (ultrawide)",
+        "Features": "Dual-LED flash",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh",
+        "Charging": "45W wired, 50% in 26 min, 100% in 61 min\n30W wireless (magnetic)\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Geek Black, Dynamic Grey, Neon Cyan",
+        "Models": "LJ8",
+        "Price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:38:58.215Z"
+  },
+  {
+    "id": "13986",
+    "name": "Tecno Spark 40 Pro+",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-pro-plus.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_40_pro+-13986.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, July 02",
+        "Status": "Available. Released 2025, July 07"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 75.8 x 6.5 mm (6.45 x 2.98 x 0.26 in)",
+        "Weight": "160.4 g (5.64 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.3% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, HIOS 15",
+        "Chipset": "Mediatek Helio G200 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2 (1.1GHz)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), 1/2.8\", 0.64µm, PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1440p@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "45W wired, 100% in 55 min\n30W wireless\n5W reverse wireless\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Nebula Black, Aurora White, Moon Titanium, Tundra Green",
+        "Models": "KM7",
+        "Price": "About 180 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 455013 (v10)\nGeekBench: 1903 (v6)\n3DMark: 378 (Wild Life Extreme)",
+        "Display": "1601 nits max brightness (measured)",
+        "Loudspeaker": "-28.7 LUFS (Average)",
+        "Battery": "Active use score 10:48h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:39:12.195Z"
+  },
+  {
+    "id": "13985",
+    "name": "Tecno Spark 40 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-pro.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_40_pro-13985.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, July 02",
+        "Status": "Available. Released 2025, July 07"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.9 x 6.7 mm (6.44 x 2.99 x 0.26 in)",
+        "Weight": "-",
+        "Build": "Glass front (Gorilla Glass 7i), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.3% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15.1",
+        "Chipset": "Mediatek Helio G100 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), 1/2.8\", 0.64µm, PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "45W wired\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Ink Black, Moon Titanium, Lake Blue, Bamboo Green",
+        "Models": "KM6",
+        "Price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:39:16.591Z"
+  },
+  {
+    "id": "13984",
+    "name": "Tecno Spark 40",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/techno-spark-40-4g.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_40_4g-13984.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, July 02",
+        "Status": "Available. Released 2025, July"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 77 x 7.7 mm (6.52 x 3.03 x 0.30 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15",
+        "Chipset": "Mediatek Helio G81 (12 nm)Mediatek Helio G91 (12 nm) - NFC model",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "45W wired, 55 min to 100%"
+      },
+      "Misc": {
+        "Colors": "Ink Black, Titanium Grey, Veil White, Mirage Blue",
+        "Models": "KM5",
+        "Price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:39:27.460Z"
+  },
+  {
+    "id": "13976",
+    "name": "Tecno Pova 7 Ultra",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7-ultra.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_7_ultra_5g-13976.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, June 20",
+        "Status": "Available. Released 2025, July"
+      },
+      "Body": {
+        "Dimensions": "160 x 75.2 x 8.9 mm (6.30 x 2.96 x 0.35 in)",
+        "Weight": "-",
+        "Build": "Glass front (Gorilla Glass 7i), plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2592Hz PWM, 4500 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm2 (~89.3% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~460 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15",
+        "Chipset": "Mediatek Dimensity 8350 Ultimate (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
+        "GPU": "Mali G615-MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, (wide), 0.7µm, PDAF\n8 MP, (ultrawide)",
+        "Features": "Dual-LED flash",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, (wide)",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "70W wired, 50% in 18 min, 100% in 44 min\n30W wireless (magnetic)\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Geek White, Geek Black",
+        "Models": "LJ9"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:39:34.358Z"
+  },
+  {
+    "id": "13974",
+    "name": "Tecno Pova 7 4G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova7.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_7-13974.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, June 20",
+        "Status": "Available. Released 2025, June 25"
+      },
+      "Body": {
+        "Dimensions": "168.6 x 76.6 x 9.3 mm (6.64 x 3.02 x 0.37 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15",
+        "Chipset": "Mediatek Helio G100 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, (wide), 0.7µm, PDAF\n2 MP (macro)",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "7000 mAh",
+        "Charging": "45W wired, 50% in 29 min, 100% in 70 min\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Hyper Titanium, Magic Silver, Geek Black",
+        "Models": "LJ6"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:39:41.176Z"
+  },
+  {
+    "id": "13975",
+    "name": "Tecno Spark Go 2",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go2.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_go_2-13975.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, June 24",
+        "Status": "Available. Released 2025, June"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 77 x 8.3 mm (6.52 x 3.03 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, HIOS 15",
+        "Chipset": "Unisoc T7250 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 3GB RAM, 128GB 4GB RAM, 256GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, 27mm (wide), PDAF",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Ink Black, Titanium Grey, Veil White, Turquoise Green",
+        "Models": "KM4",
+        "Price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:39:48.858Z"
+  },
+  {
+    "id": "13915",
+    "name": "Tecno Pova Curve",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-curve-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_curve_5g-13915.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, May 29",
+        "Status": "Available. Released 2025, June 05"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 74.6 x 7.5 mm (6.47 x 2.94 x 0.30 in)",
+        "Weight": "188.5 g (6.67 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 144Hz, 2304Hz PWM, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, planned upgrade to Android 16, HIOS 15",
+        "Chipset": "Mediatek Dimensity 7300 Ultimate (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.8, (wide), 1/1.73\", 0.8µm, PDAF\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5500 mAh",
+        "Charging": "45W wired, 50% in 15 min, 100% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Neon Cyan, Magic Silver, Geek Black",
+        "Models": "LJ8k",
+        "Price": "About 170 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:39:53.904Z"
+  },
+  {
+    "id": "13694",
+    "name": "Tecno Camon 40 Premier",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-premier.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_40_premier-13694.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, March 03",
+        "Status": "Available. Released 2025, May"
+      },
+      "Body": {
+        "Dimensions": "161 x 75 x 7.7 mm (6.34 x 2.95 x 0.30 in)",
+        "Weight": "193 g (7.41 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 144Hz, 2160Hz PWM, HDR, 1600 nits (HBM)",
+        "Size": "6.67 inches, 107.4 cm2 (~89.0% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~460 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, HIOS 15",
+        "Chipset": "Mediatek Dimensity 8350 (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
+        "GPU": "Mali G615-MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.2, 70mm (periscope telephoto), 1/2.76\", 0.64µm, PDAF (15cm - ∞), 3x optical zoom\n50 MP, f/2.2, 14mm, 114˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps (HDR), 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 24mm (wide), 1/2.8\", 0.64µm, PDAF",
+        "Video": "4K@30fps, 1080p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5100 mAh",
+        "Charging": "70W wired"
+      },
+      "Misc": {
+        "Colors": "Emerald Lake Green, Galaxy Black",
+        "Models": "CM8"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1418376 (v10)\nGeekBench: 4224 (v6)\n3DMark: 2911 (Wild Life Extreme)",
+        "Display": "658 nits max brightness (measured)",
+        "Loudspeaker": "-28.0 LUFS (Good)",
+        "Battery": "Active use score 11:36h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:04.540Z"
+  },
+  {
+    "id": "13695",
+    "name": "Tecno Camon 40 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-pro-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_40_pro_5g-13695.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, March 03",
+        "Status": "Available. Released 2025, May"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 74.6 x 7.3 mm (6.47 x 2.94 x 0.29 in)",
+        "Weight": "179 g (6.31 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 144Hz",
+        "Size": "6.78 inches, 109.9 cm2 (~89.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, HIOS 15",
+        "Chipset": "Mediatek Dimensity 7300 (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n8 MP, (ultrawide), 1/4.0\", 1.12µm, AF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps (HDR), 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 24mm (wide), 1/2.8\", 0.64µm, PDAF",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "45W wired, 50% in 23 min, 100% in 43 min"
+      },
+      "Misc": {
+        "Colors": "Emerald Lake Green, Galaxy Black, Glacier White",
+        "Models": "CM7"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 700909 (v10)\nGeekBench: 3218 (v6)\n3DMark: 873 (Wild Life Extreme)",
+        "Display": "1045 nits max brightness (measured)",
+        "Loudspeaker": "-28.7 LUFS (Average)",
+        "Battery": "Active use score 13:51h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:09.863Z"
+  },
+  {
+    "id": "13696",
+    "name": "Tecno Camon 40 Pro 4G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-pro-4g.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_40_pro-13696.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, March 03",
+        "Status": "Available. Released 2025, May"
+      },
+      "Body": {
+        "Dimensions": "164.4 x 74.3 x 7.3 mm (6.47 x 2.93 x 0.29 in)",
+        "Weight": "178 g (6.28 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.78 inches, 109.9 cm2 (~90.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, HIOS 15",
+        "Chipset": "Mediatek Helio G100 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n8 MP, (ultrawide)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps (HDR), 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 24mm (wide), 1/2.8\", 0.64µm, PDAF",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "45W wired, 50% in 23 min, 100% in 43 min"
+      },
+      "Misc": {
+        "Colors": "Emerald Lake Green, Galaxy Black, Glacier White",
+        "Models": "CM6"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:15.083Z"
+  },
+  {
+    "id": "13697",
+    "name": "Tecno Camon 40",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-40-4g.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_40-13697.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, March 03",
+        "Status": "Available. Released 2025, May"
+      },
+      "Body": {
+        "Dimensions": "164.1 x 74.6 x 7.3 mm (6.46 x 2.94 x 0.29 in)",
+        "Weight": "177.2 g (6.24 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.78 inches, 109.9 cm2 (~89.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Panda King Glass"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, HIOS 15",
+        "Chipset": "Mediatek Helio G100 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "128GB 8GB RAM, 128GB 12GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n8 MP, (ultrawide)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "45W wired, 50% in 23 min, 100% in 43 min"
+      },
+      "Misc": {
+        "Colors": "Emerald Lake Green, Galaxy Black, Glacier White, Emerald Glow Green",
+        "Models": "CM5"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:22.541Z"
+  },
+  {
+    "id": "13648",
+    "name": "Tecno Spark Go 1S",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go1.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_go_1s-13648.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, January 06",
+        "Status": "Available. Released 2025, January"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 77 x 8.4 mm (6.52 x 3.03 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14 (Go edition), HIOS 14",
+        "Chipset": "Mediatek Helio G50",
+        "CPU": "Octa-core 2.2 GHz Cortex-A53",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 3GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, 27mm (wide), PDAF",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Startrail Black, Glittery White",
+        "Models": "KL4h",
+        "Price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:26.870Z"
+  },
+  {
+    "id": "13546",
+    "name": "Tecno Megapad 11",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-megapad-11.jpg",
+    "url": "https://www.gsmarena.com/tecno_megapad_11-13546.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, December 02",
+        "Status": "Available. Released 2025, January 06"
+      },
+      "Body": {
+        "Dimensions": "257.1 x 168.7 x 7.6 mm (10.12 x 6.64 x 0.30 in)",
+        "Weight": "510 g (1.12 lb)",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 440 nits",
+        "Size": "11.0 inches, 350.9 cm2 (~80.9% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "Unspecified",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "8000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Vitality Green, Starfall Grey",
+        "Price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:31.050Z"
+  },
+  {
+    "id": "13509",
+    "name": "Tecno Pop 9 4G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop9-4g.jpg",
+    "url": "https://www.gsmarena.com/tecno_pop_9_4g-13509.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, November 22",
+        "Status": "Available. Released 2024, November 26"
+      },
+      "Body": {
+        "Dimensions": "166 x 77 x 8 mm (6.54 x 3.03 x 0.31 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz (India), 120Hz (International)",
+        "Size": "6.67 inches, 107.4 cm2 (~84.0% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14 (Go edition)",
+        "Chipset": "Unisoc T615 (12 nm) - InternationalMediatek Helio G50 - India",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55) - InternationalOcta-core 2.2 GHz Cortex-A53 - India",
+        "GPU": "Mali-G57 MP1 - InternationalPowerVR GE8320 - India"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 3GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, 27mm (wide), 1.12µm, PDAF",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Glittery White, Lime Green, Startrail Black",
+        "Models": "KL4h",
+        "Price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:41.791Z"
+  },
+  {
+    "id": "13268",
+    "name": "Tecno Megapad",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pad-r.jpg",
+    "url": "https://www.gsmarena.com/tecno_megapad-13268.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2024, October",
+        "Status": "Available. Released 2024, November"
+      },
+      "Body": {
+        "Dimensions": "240.7 x 159.5 x 7.4 mm (9.48 x 6.28 x 0.29 in)",
+        "Weight": "447 g (15.77 oz)",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 450 nits",
+        "Size": "10.1 inches, 295.8 cm2 (~77.0% screen-to-body ratio)",
+        "Resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Helio G80 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 4GB RAM, 256GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "Unspecified",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "7000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Champagne Gold, Space Grey"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:50.435Z"
+  },
+  {
+    "id": "13426",
+    "name": "Tecno Camon 30S",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30s.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_30s-13426.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, October 10",
+        "Status": "Available. Released 2024, October 10"
+      },
+      "Body": {
+        "Dimensions": "164.5 x 74.6 x 7.6 mm (6.48 x 2.94 x 0.30 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz, 1300 nits (HBM)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, HIOS 14",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF, OIS\nAuxiliary lenses",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "13 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 0-100% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Nebula Violet, Blue, Celestial Black, Dawn Gold",
+        "Models": "CLA5",
+        "Price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:40:57.579Z"
+  },
+  {
+    "id": "13385",
+    "name": "Tecno Spark 30C 5G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30c-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_30c_5g-13385.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, October 02",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "165 x 77 x 8 mm (6.50 x 3.03 x 0.31 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 8GB RAM, 256GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "48 MP, (wide), 1/2.0\", 0.8µm, AF\nAuxiliary lens",
+        "Features": "Tripple-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Aurora Cloud, Azure Sky, Midnight Shadow",
+        "Models": "KL8H"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:41:10.353Z"
+  },
+  {
+    "id": "13384",
+    "name": "Tecno Spark 30 5G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_30_5g-13384.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, October 02",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "165.4 x 76.8 x 7.8 mm (6.51 x 3.02 x 0.31 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, HIOS 14.5",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.9, (wide), PDAF\nUnspecified cameras",
+        "Features": "Tripple-LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED dual-tone flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Azure Sky, Midnight Shadow, Aurora Cloud",
+        "Models": "KL8"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:41:22.541Z"
+  },
+  {
+    "id": "13358",
+    "name": "Tecno Pop 9",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop9-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_pop_9-13358.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, September 24",
+        "Status": "Available. Released 2024, October 08"
+      },
+      "Body": {
+        "Dimensions": "165 x 77 x 8 mm (6.50 x 3.03 x 0.31 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~82.4% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "48 MP, (wide), 1/2.0\", 0.8µm, AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Aurora Cloud, Azure Sky, Midnight Shadow",
+        "Models": "KL4",
+        "Price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:41:29.990Z"
+  },
+  {
+    "id": "13357",
+    "name": "Tecno Spark 30 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30-pro.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_30_pro-13357.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, September 23",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "166.6 x 77 x 7.4 mm (6.56 x 3.03 x 0.29 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 2160Hz PWM, 1700 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~85.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, HIOS 14",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "108 MP, f/1.9, (wide), 1/1.52\", PDAF\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, (wide)",
+        "Features": "Dual-LED dual-tone flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Obsidian Edge, Arctic Glow, Magic Skin 3.0, Optimus Prime Edition",
+        "Models": "KL7"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:41:38.416Z"
+  },
+  {
+    "id": "13356",
+    "name": "Tecno Spark 30",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_30-13356.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, September 21",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "168 x 76.4 x 7.7 mm or 7.9 mm",
+        "Weight": "-",
+        "Build": "Glass front, plastic frame, plastic back or silicone polymer (eco leather) back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 800 nits",
+        "Size": "6.78 inches, 109.2 cm2 (~85.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, HIOS 14",
+        "Chipset": "Mediatek Helio G91 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "64 MP, (wide), 1/1.73\", 0.8µm, PDAF\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, (wide)",
+        "Features": "Dual-LED dual-tone flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Stellar Shadow, Astral Ice, Magic Skin 3.0, Bumblebee Edition",
+        "Models": "KL6"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:41:43.319Z"
+  },
+  {
+    "id": "13334",
+    "name": "Tecno Phantom V Fold2",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-fold2-.jpg",
+    "url": "https://www.gsmarena.com/tecno_phantom_v_fold2-13334.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 34, 38, 39, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, September 13",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 159 x 140.4 x 6.1 mmFolded: 159 x 72.2 x 11.8-12 mm",
+        "Weight": "249 g (8.78 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 1B colors, 120Hz",
+        "Size": "7.85 inches, 196.9 cm2 (~88.2% screen-to-body ratio)",
+        "Resolution": "2000 x 2296 pixels (~388 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, HiOS 14 Fold",
+        "Chipset": "Mediatek Dimensity 9000+ (4 nm)",
+        "CPU": "Octa-core (1x3.20 GHz Cortex-X2 & 3x2.85 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+        "GPU": "Mali-G710 MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.3\", 1.2µm, PDAF, OIS\n50 MP, f/2.0, 50mm (telephoto), 1/2.8\", 0.64µm, PDAF, 2x optical zoom\n50 MP, f/2.2, 115˚ (ultrawide), PDAF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, (wide), 1/2.8\", 0.8µm\nCover camera:\n32 MP, f/2.5, (wide), 1/2.8\", 0.8µm",
+        "Video": "1080p@60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio, recording",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5750 mAh",
+        "Charging": "70W wired, 50% in 20 min, 100% in 49 min\n15W wireless"
+      },
+      "Misc": {
+        "Colors": "Karst Green, Rippling Blue",
+        "Models": "AE10",
+        "Price": "₹ 99,999"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1158040 (v10)\nGeekBench: 4327 (v6)\n3DMark: 2559 (Wild Life Extreme)",
+        "Display": "573 nits max brightness (measured)",
+        "Loudspeaker": "-27.1 LUFS (Good)",
+        "Battery": "Active use score 9:34h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:41:53.223Z"
+  },
+  {
+    "id": "13335",
+    "name": "Tecno Phantom V Flip2",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-flip2-5g-.jpg",
+    "url": "https://www.gsmarena.com/tecno_phantom_v_flip2-13335.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 34, 38, 39, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, September 13",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 170.8 x 73.4 x 7.6 mmFolded: 87.8 x 73.4 x 16 mm",
+        "Weight": "196 g (6.91 oz)",
+        "Build": "Eco leather back, aluminum frame, steel hinge",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 120Hz",
+        "Size": "6.9 inches, 107.6 cm2 (~85.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2640 pixels (~413 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, HIOS 14",
+        "Chipset": "Mediatek Dimensity 8020 (6 nm)",
+        "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, (wide), 1/1.57\", 1.0µm, PDAF, OIS\n50 MP, 114˚ (ultrawide)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm, PDAF",
+        "Features": "LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (incl. for accessories), compass"
+      },
+      "Battery": {
+        "Type": "4720 mAh",
+        "Charging": "70W wired, 50% in 15 min, 100% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Travertine Green, Moondust Grey"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 775306 (v10)\nGeekBench: 2544 (v6)\n3DMark: 1247 (Wild Life Extreme)",
+        "Display": "893 nits max brightness (measured)",
+        "Loudspeaker": "-26.6 LUFS (Good)",
+        "Battery": "Active use score 11:37h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:42:02.760Z"
+  },
+  {
+    "id": "13326",
+    "name": "Tecno Pova 6 Neo 5G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6-neo-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_6_neo_5g-13326.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, September 11",
+        "Status": "Available. Released 2024, September 14"
+      },
+      "Body": {
+        "Dimensions": "165.4 x 76.8 x 7.8 mm (6.51 x 3.02 x 0.31 in)",
+        "Weight": "192.3 (6.77 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, HIOS 14.5",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.9, (wide), PDAF\nUnspecified camera",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Azure Sky, Midnight Shadow, Aurora Cloud",
+        "Price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:42:10.244Z"
+  },
+  {
+    "id": "13310",
+    "name": "Tecno Spark 30C",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-30c.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_30c-13310.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, September 09",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Helio G81",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), 1/2.8\", PDAF\nAuxiliary lens",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Orbit Black, Orbit White, Magic Skin 3.0",
+        "Models": "kl5, kl5n",
+        "Price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:42:16.171Z"
+  },
+  {
+    "id": "13274",
+    "name": "Tecno Spark Go 1",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go1.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_go_1-13274.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, August 19",
+        "Status": "Available. Released 2024, August"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 77 x 8.4 mm (6.52 x 3.03 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14 (Go edition), HIOS 14",
+        "Chipset": "Unisoc T615 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 3GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, 27mm (wide), PDAF",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Startrail Black, Glittery White",
+        "Price": "$ 166.23"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:42:25.777Z"
+  },
+  {
+    "id": "13242",
+    "name": "Tecno Camon 30S Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30s-pro.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_30s_pro-13242.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, July 30",
+        "Status": "Available. Released 2024, August"
+      },
+      "Body": {
+        "Dimensions": "164.6 x 74.6 x 7.8 mm (6.48 x 2.94 x 0.31 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 1300 nits (HBM)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, HIOS 14",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF, OIS\nAuxiliary lenses",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, 0-100% in 45 min\n20W wireless"
+      },
+      "Misc": {
+        "Colors": "Interstellar Grey, Pearl Gold, Shim Silver Green",
+        "Models": "CLA6"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:42:35.151Z"
+  },
+  {
+    "id": "13125",
+    "name": "Tecno Spark 20P",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20p-r.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_20p-13125.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, June 13",
+        "Status": "Available. Released 2024, June"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.6 x 8.6 mm (6.44 x 2.98 x 0.34 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek",
+        "CPU": "Octa-core 2.2 GHz Cortex-A53"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), 1/2.8\", PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Alpenglow Gold, Magic Skin",
+        "Price": "About 240 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:42:39.730Z"
+  },
+  {
+    "id": "13124",
+    "name": "Tecno Spark 20 Pro 5G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20-pro-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_20_pro_5g-13124.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, June 17",
+        "Status": "Available. Released 2024, June 20"
+      },
+      "Body": {
+        "Dimensions": "168.5 x 76.2 x 8.3 mm or 8.5 mm",
+        "Weight": "200 g or 201.5 g (7.05 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.78 inches, 109.2 cm2 (~85.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Dimensity 6080 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.8, (wide), 1/1.67\", 0.64µm, PDAF\n2 MP (macro)",
+        "Features": "Quad-LED flash",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Features": "Dual-LED dual-tone flash",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Startrail Black, Glossy White, Neon Green",
+        "Models": "KJ8",
+        "Price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:42:44.829Z"
+  },
+  {
+    "id": "12911",
+    "name": "Tecno Pova 6 Neo",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6-neo.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_6_neo-12911.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, April 04",
+        "Status": "Available. Released 2024, May"
+      },
+      "Body": {
+        "Dimensions": "168.6 x 76.6 x 9.2 mm (6.64 x 3.02 x 0.36 in)",
+        "Weight": "-",
+        "Build": "Glass front",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 1B colors, 120Hz, 580 nits (typ)",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, HIOS 14",
+        "Chipset": "Mediatek Helio G99 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), PDAF",
+        "Features": "Quad-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Features": "Dual-LED dual-tone flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "7000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Starry Silver, Speed Black, Comet Green"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:42:56.463Z"
+  },
+  {
+    "id": "12910",
+    "name": "Tecno Pova 6",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_6-12910.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, April 04",
+        "Status": "Available. Released 2024, May"
+      },
+      "Body": {
+        "Dimensions": "166.2 x 76.8 x 7.9 mm (6.54 x 3.02 x 0.31 in)",
+        "Weight": "195 g (6.88 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.2 cm2 (~85.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, HIOS 14",
+        "Chipset": "Mediatek Helio G99 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Single": "108 MP, (wide), 0.7µm, PDAF",
+        "Features": "Quad-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, (wide)",
+        "Features": "Dual-LED dual-tone flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "70W wired, 50% in 20 min, 100% in 50 min\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Interstellar Blue, Comet Green, Meteorite Grey",
+        "Price": "About 490 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:43:03.795Z"
+  },
+  {
+    "id": "12845",
+    "name": "Tecno Camon 30 Premier",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-premier-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_30_premier-12845.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, February 27",
+        "Status": "Available. Released 2024, May"
+      },
+      "Body": {
+        "Dimensions": "162.7 x 76.2 x 7.9 mm (6.41 x 3.00 x 0.31 in)",
+        "Weight": "210 g (7.41 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame, aluminum back with silicone polymer finish (eco leather)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 120Hz, HDR, 1400 nits (HBM)",
+        "Size": "6.77 inches, 111.4 cm2 (~89.9% screen-to-body ratio)",
+        "Resolution": "1264 x 2780 pixels (~451 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, HIOS 14",
+        "Chipset": "Mediatek Dimensity 8200 Ultimate (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G610 MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.2, 70mm (periscope telephoto), 1/2.76\", 0.64µm, PDAF, 3x optical zoom\n50 MP, f/2.2, 14mm, 114˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps (HDR), 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 24mm (wide), 1/2.8\", 0.64µm, PDAF",
+        "Video": "4K@30fps, 1080p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "70W wired, 100% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Alps Snowy Silver, Hawaii Lava Black",
+        "Models": "CL9",
+        "Price": "₹ 29,999"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 949550 (v10)\nGeekBench: 3930 (v6)\n3DMark: 1740 (Wild Life Extreme)",
+        "Display": "854 nits max brightness (measured)",
+        "Loudspeaker": "-21.9 LUFS (Excellent)",
+        "Battery": "Active use score 13:29h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:43:14.353Z"
+  },
+  {
+    "id": "12846",
+    "name": "Tecno Camon 30 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-pro-new.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_30_pro-12846.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, February 27",
+        "Status": "Available. Released 2024, April 02"
+      },
+      "Body": {
+        "Dimensions": "164 x 74.5 x 7.7 mm (6.46 x 2.93 x 0.30 in)",
+        "Weight": "188.6 g (6.67 oz)",
+        "Build": "Glass front, glass back or silicone polymer back (eco leather)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 144Hz",
+        "Size": "6.78 inches, 109.9 cm2 (~89.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, HIOS 14",
+        "Chipset": "Mediatek Dimensity 8200 Ultimate (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G610 MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n50 MP, f/2.2, 14mm, 114˚ (ultrawide), 1/2.76\", 0.64µm, PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps (HDR), 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 24mm (wide), 1/2.8\", 0.64µm, PDAF",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "70W wired, 0-100% in 47 min"
+      },
+      "Misc": {
+        "Colors": "Iceland Basaltic Dark, Alps Snowy Silver",
+        "Models": "CL8"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 949357 (v10)\nGeekBench: 3931 (v6)\n3DMark: 1727 (Wild Life Extreme)",
+        "Display": "998 nits max brightness (measured)",
+        "Loudspeaker": "-25.5 LUFS (Very good)",
+        "Battery": "Active use score 14:29h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:43:23.055Z"
+  },
+  {
+    "id": "12847",
+    "name": "Tecno Camon 30 5G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon-30-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_30_5g-12847.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, February 27",
+        "Status": "Available. Released 2024, April 02"
+      },
+      "Body": {
+        "Dimensions": "165.4 x 75.9 x 7.8 mm or 8.0 mm",
+        "Weight": "199 g (7.05 oz)",
+        "Build": "Glass front, glass back or silicone polymer back (eco leather)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.78 inches, 109.9 cm2 (~87.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, HIOS 14",
+        "Chipset": "Mediatek Dimensity 7020 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "IMG BXM-8-256"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB, 512GB 8GB, 512GB 12GB"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, (wide), 1/1.57\", PDAF, OIS\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "Yes, 4K@30fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, (wide), AF",
+        "Features": "Dual-LED dual-tone",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "70W wired, 0-100% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Iceland Basaltic Dark, Uyuni Salt White, Emerald Lake Green",
+        "Models": "CL7, CL7k"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:43:31.358Z"
+  },
+  {
+    "id": "12848",
+    "name": "Tecno Camon 30",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon30.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_30-12848.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, February 27",
+        "Status": "Available. Released 2024, April 02"
+      },
+      "Body": {
+        "Dimensions": "165.3 x 75.3 x 7.7 mm (6.51 x 2.96 x 0.30 in)",
+        "Weight": "-",
+        "Build": "Glass front, glass back or silicone polymer back (eco leather)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.78 inches, 109.9 cm2 (~88.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, HIOS 14",
+        "Chipset": "Mediatek Helio G99 Ultimate",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB, 256GB 12GB"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, (wide), 1/1.57\", PDAF, OIS\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, (wide), AF",
+        "Features": "Dual-LED dual-tone",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "70W wired, 0-100% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Iceland Basaltic Dark, Uyuni Salt White, Sahara Sand Brown",
+        "Models": "CL6, CL6k"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:43:36.400Z"
+  },
+  {
+    "id": "12830",
+    "name": "Tecno Pova 6 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-6-pro-11.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_6_pro-12830.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, February 26",
+        "Status": "Available. Released 2024, April 4"
+      },
+      "Body": {
+        "Dimensions": "165.5 x 76.1 x 7.9 mm (6.52 x 3.00 x 0.31 in)",
+        "Weight": "198 g (6.98 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~87.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, HIOS 14",
+        "Chipset": "Mediatek Dimensity 6080 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.9, 24mm (wide), 1/1.52\", 0.7µm, PDAF\nAuxiliary lenses",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 22mm (wide), 1/3.1\", 0.7µm",
+        "Features": "Dual-LED dual-tone flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "70W wired, 50% in 20 min, 100% in 50 min\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Comet Green, Meteorite Grey",
+        "Models": "LI9",
+        "Price": "About 410 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 390556 (v9), 433321 (v10)\n\nGeekBench: 1890 (v5), 2035 (v6)\n3DMark: 373 (Wild Life Extreme)",
+        "Display": "1070 nits max brightness (measured)",
+        "Loudspeaker": "-25.2 LUFS (Very good)",
+        "Battery": "Active use score 14:22h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:43:41.967Z"
+  },
+  {
+    "id": "12770",
+    "name": "Tecno Spark 20 Pro+",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20-pro-plus.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_20_pro+-12770.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, December 29",
+        "Status": "Available. Released 2024, February 09"
+      },
+      "Body": {
+        "Dimensions": "164.7 x 75 x 7.6 mm (6.48 x 2.95 x 0.30 in)",
+        "Weight": "179 g (6.31 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 1000 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Helio G99 Ultimate",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.8, (wide), 1/1.67\", 0.64µm, PDAF\n2 MP (macro)",
+        "Features": "Quad-LED flash, HDR",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.1\", 0.7µm",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Temporal Orbits, Lunar Frost, Radiant Starstream, Magic Skin 2.0 Green",
+        "Models": "KJ7"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 386262 (v9), 433988 (v10)\n\nGeekBench: 1787 (v5), 1953 (v6)\n3DMark: 347 (Wild Life Extreme)",
+        "Display": "549 nits max brightness (measured)",
+        "Loudspeaker": "-25.2 LUFS (Very good)",
+        "Battery": "Active use score 11:56h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:43:47.963Z"
+  },
+  {
+    "id": "12747",
+    "name": "Tecno Spark 20 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20-pro.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_20_pro-12747.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, December 15",
+        "Status": "Available. Released 2023, December"
+      },
+      "Body": {
+        "Dimensions": "168.6 x 76.6 x 8.4 mm (6.64 x 3.02 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 4GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.8, (wide), 1/1.67\", 0.64µm, PDAF\n2 MP (macro)",
+        "Features": "Quad-LED flash, HDR",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Moonlit Black, Frosty Ivory, Sunset Blush, Magic Skin 2.0 Green",
+        "Models": "KJ6",
+        "Price": "About 50 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:43:56.990Z"
+  },
+  {
+    "id": "12722",
+    "name": "Tecno Spark 20",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_20-12722.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, December 01",
+        "Status": "Available. Released 2023, December"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.6 x 8.5 mm (6.44 x 2.98 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 13",
+        "Chipset": "Mediatek MT6769Z Helio G85 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), 0.64µm, PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Gravity Black, Cyber White, Neon Gold, Magic Skin 2.0 (Blue)",
+        "Models": "KJ5, KJ5n"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:44:01.429Z"
+  },
+  {
+    "id": "12710",
+    "name": "Tecno Spark 20C",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-20c.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_20c-12710.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, November 27",
+        "Status": "Available. Released 2023, December"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.6 x 8.6 mm (6.44 x 2.98 x 0.34 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek Helio G36 (12 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), 1/2.8\", PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Mystery White, Alpenglow Gold, Magic Skin, Gravity Black",
+        "Models": "BG7n, BG7",
+        "Price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:44:10.859Z"
+  },
+  {
+    "id": "12702",
+    "name": "Tecno Spark Go 2024",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2024.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_go_2024-12702.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, November 21",
+        "Status": "Available. Released 2023, December 07"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.6 x 8.6 mm (6.44 x 2.98 x 0.34 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13 (Go edition), HIOS 13",
+        "Chipset": "Unisoc T606 (12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, (wide), 1.12µm, AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Mystery White, Alpenglow Gold, Magic Skin, Gravity Black",
+        "Models": "BG6",
+        "Price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:44:15.822Z"
+  },
+  {
+    "id": "12644",
+    "name": "Tecno Pop 8",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop8.jpg",
+    "url": "https://www.gsmarena.com/tecno_pop_8-12644.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, October 30",
+        "Status": "Available. Released 2023, November"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.6 x 8.6 mm (6.44 x 2.98 x 0.34 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13 (Go edition)",
+        "Chipset": "Unisoc T606 (12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, (wide), 1.12µm, AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Mystery White, Alpenglow Gold, Magic Skin, Gravity Black",
+        "Models": "BG6h, BG6i"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:44:25.704Z"
+  },
+  {
+    "id": "12933",
+    "name": "Tecno Camon 20s Pro 5G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_20s_pro_5g-12933.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, November 17",
+        "Status": "Available. Released 2023, November"
+      },
+      "Body": {
+        "Dimensions": "162.7 x 75.9 x 7.8 mm (6.41 x 2.99 x 0.31 in)",
+        "Weight": "193 g (6.81 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~87.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 13",
+        "Chipset": "Mediatek Dimensity 8020 (6 nm)",
+        "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, (wide), 1/1.7\", 0.8µm, PDAF, OIS\n2 MP (macro)\nAuxiliary lens",
+        "Features": "Ring-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Dark Welkin, Serenity Blue",
+        "Models": "CK8nB",
+        "Price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:44:39.958Z"
+  },
+  {
+    "id": "12580",
+    "name": "Tecno Phantom V Flip",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-flip-5g-new.jpg",
+    "url": "https://www.gsmarena.com/tecno_phantom_v_flip-12580.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, September 22",
+        "Status": "Available. Released 2023, October 01"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 171.7 x 74.1 x 7 mmFolded: 88.8 x 74.1 x 15 mm",
+        "Weight": "194 g (6.84 oz)",
+        "Build": "Eco leather back, aluminum frame, steel hinge",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 120Hz, 1000 nits (peak)",
+        "Size": "6.9 inches, 107.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2640 pixels (~413 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 13.5",
+        "Chipset": "Mediatek Dimensity 8050 (6 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.7, 25mm (wide), 1/1.73\", 0.8µm, PDAF\n13 MP, f/2.2, (ultrawide), 1/3.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm, AF",
+        "Features": "LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (incl. for accessories), compass"
+      },
+      "Battery": {
+        "Type": "4000 mAh",
+        "Charging": "45W wired, 50% in 15 min"
+      },
+      "Misc": {
+        "Colors": "Iconic Black, Mystic Dawn",
+        "Models": "AD11",
+        "Price": "About 560 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 565851 (v9), 734846 (v10)\nGeekBench: 2805 (v5.5), 3333 (v6.0)\nGFXBench: 35fps (ES 3.1 onscreen)",
+        "Display": "818 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-22.7 LUFS (Excellent)",
+        "Battery (old)": "Endurance rating 88h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:44:53.746Z"
+  },
+  {
+    "id": "12394",
+    "name": "Tecno Pova Neo 3",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-neo-3.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_neo_3-12394.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, June 29",
+        "Status": "Available. Released 2023, July"
+      },
+      "Body": {
+        "Dimensions": "170.7 x 77.6 x 9.3 mm (6.72 x 3.06 x 0.37 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.82 inches, 110.5 cm2 (~83.4% screen-to-body ratio)",
+        "Resolution": "720 x 1640 pixels (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS",
+        "Chipset": "Mediatek MT6769Z Helio G85 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "16 MP, (wide), AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "7000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Amber Gold, Mecha Black, Hurricane Blue",
+        "Models": "LH6n"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:45:11.122Z"
+  },
+  {
+    "id": "12393",
+    "name": "Tecno Pova 5",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pova-5.jpg",
+    "url": "https://www.gsmarena.com/tecno_pova_5-12393.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, June 29",
+        "Status": "Available. Released 2023, July"
+      },
+      "Body": {
+        "Dimensions": "168.6 x 76.6 x 9 mm (6.64 x 3.02 x 0.35 in)",
+        "Weight": "219.4 g (7.76 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 580 nits (typ)",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 13",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), 1/2.76\", PDAF\nAuxiliary lens",
+        "Features": "Dual LED flash",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "45W wired, 50% in 21 min, 100% in 60 min\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Mecha Black, Amber Gold, Hurricane Blue, Free Fire Edition",
+        "Models": "LH7n",
+        "Price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:45:17.744Z"
+  },
+  {
+    "id": "12256",
+    "name": "Tecno Camon 20 Premier",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-premier-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_20_premier-12256.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 09",
+        "Status": "Available. Released 2023, May 09"
+      },
+      "Body": {
+        "Dimensions": "161.9 x 74.3 x 8.2 mm (6.37 x 2.93 x 0.32 in)",
+        "Weight": "202.5 g (7.16 oz)",
+        "Build": "Glass front, leather back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~89.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 13",
+        "Chipset": "Mediatek Dimensity 8050 (6 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, sensor-shift OIS\n108 MP, f/2.2, 13mm, 115˚ (ultrawide), PDAF\nAuxiliary lens",
+        "Features": "Laser AF, Ring-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Dark Welkin, Serenity Blue",
+        "Models": "CK9n",
+        "Price": "About 410 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 673809 (v9), 802232(v10)\nGeekBench: 3074 (v5), 3348 (v6)\nGFXBench: 39fps (ES 3.1 onscreen)",
+        "Display": "684 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-27.8 LUFS (Good)",
+        "Battery (old)": "Endurance rating 107h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:45:23.672Z"
+  },
+  {
+    "id": "12255",
+    "name": "Tecno Camon 20 Pro 5G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_20_pro_5g-12255.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 09",
+        "Status": "Available. Released 2023, May 09"
+      },
+      "Body": {
+        "Dimensions": "162.7 x 75.9 x 7.8 mm (6.41 x 2.99 x 0.31 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~87.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 13",
+        "Chipset": "Mediatek Dimensity 8050 (6 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, (wide), 1/1.7\", 0.8µm, PDAF, OIS\n2 MP (macro)\nAuxiliary lens",
+        "Features": "Ring-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Dark Welkin, Serenity Blue",
+        "Models": "CK8n",
+        "Price": "About 270 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:45:31.364Z"
+  },
+  {
+    "id": "12254",
+    "name": "Tecno Camon 20 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_20_pro-12254.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, May 09",
+        "Status": "Available. Released 2023, May 09"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 76.7 x 7.8 mm (6.43 x 3.02 x 0.31 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.67 inches, 107.4 cm2 (~85.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 13",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, 25mm (wide), 1/1.7\", 0.8µm, PDAF\nAuxiliary lenses",
+        "Features": "Ring-LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Predawn Black, Serenity Blue",
+        "Models": "CK7n"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:45:41.773Z"
+  },
+  {
+    "id": "12253",
+    "name": "Tecno Camon 20",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-camon20-pro.jpg",
+    "url": "https://www.gsmarena.com/tecno_camon_20-12253.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, May 09",
+        "Status": "Available. Released 2023, May 09"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 76.7 x 7.8 mm (6.43 x 3.02 x 0.31 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.67 inches, 107.4 cm2 (~85.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 13",
+        "Chipset": "Mediatek MT6769Z Helio G85 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, 25mm (wide), 1/1.7\", 0.8µm, PDAF\nAuxiliary lenses",
+        "Features": "Ring-LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Predawn Black, Glacier Glow, Serenity Blue",
+        "Models": "CK6, CK6n"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:45:52.950Z"
+  },
+  {
+    "id": "12202",
+    "name": "Tecno Pop 7",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-pop7.jpg",
+    "url": "https://www.gsmarena.com/tecno_pop_7-12202.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, March 28",
+        "Status": "Available. Released 2023, April"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 75.5 x 8.9 mm (6.45 x 2.97 x 0.35 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12 (Go edition)"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, (wide), AF\nAuxiliary lens",
+        "Features": "Dual-LED flas",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "Yes"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Endless Black, Capri Blue",
+        "Models": "BF6"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:46:00.726Z"
+  },
+  {
+    "id": "12179",
+    "name": "Tecno Spark 10 5G",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark10-5g.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_10_5g-12179.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, March 23",
+        "Status": "Available. Released 2023, April 07"
+      },
+      "Body": {
+        "Dimensions": "164.4 x 75.5 x 8.4 mm (6.47 x 2.97 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~84.3% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 12.6",
+        "Chipset": "Mediatek Dimensity 6020 (7 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, White",
+        "Models": "KI8",
+        "Price": "About 200 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:46:11.777Z"
+  },
+  {
+    "id": "12199",
+    "name": "Tecno Spark 10C",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-10c.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_10c-12199.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, March 23",
+        "Status": "Available. Released 2023, March 29"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 75.5 x 8.5 mm (6.45 x 2.97 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12, HIOS 8.6",
+        "Chipset": "Unisoc T606 (12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "16 MP, (wide), PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Green",
+        "Models": "KI5k, KI5m",
+        "Price": "About 120 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:46:18.859Z"
+  },
+  {
+    "id": "12178",
+    "name": "Tecno Spark 10",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark10.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_10-12178.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, March 23",
+        "Status": "Available. Released 2023, April"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 75.4 x 8.4 mm (6.45 x 2.97 x 0.33 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.6 inches, 104.6 cm2 (~84.7% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 12",
+        "Chipset": "Mediatek MT6765 Helio G37 (12 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), 0.7µm, PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, White, Skin Orange",
+        "Models": "KI5q",
+        "Price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:46:26.741Z"
+  },
+  {
+    "id": "12156",
+    "name": "Tecno Spark 10 Pro",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark10-pro-.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_10_pro-12156.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, March 06",
+        "Status": "Available. Released 2023, March 22"
+      },
+      "Body": {
+        "Dimensions": "168.4 x 76.2 x 8.4 mm (6.63 x 3.00 x 0.33 in)",
+        "Weight": "208 g (7.34 oz)",
+        "Build": "Glass front, plastic frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.8 inches, 109.3 cm2 (~85.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HIOS 12.6",
+        "Chipset": "Mediatek MT6769H Helio G88 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Starry Black, Pearl White",
+        "Models": "KI7",
+        "Price": "£ 139.95"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 249938 (v9)\nGeekBench: 1358 (v5.1), 1376 (v6)\nGFXBench: 8.1fps (ES 3.1 onscreen)",
+        "Display": "1991:1 contrast ratio, 521 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-29.2 LUFS (Average)",
+        "Battery (old)": "Endurance rating 131h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:46:38.695Z"
+  },
+  {
+    "id": "12150",
+    "name": "Tecno Phantom V Fold",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-phantom-v-fold.jpg",
+    "url": "https://www.gsmarena.com/tecno_phantom_v_fold-12150.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, February 28",
+        "Status": "Available. Released 2023, April 12"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 159.4 x 140.4 x 6.9 mmFolded: 159.4 x 72 x 14.2-14.5 mm",
+        "Weight": "299 g (10.55 oz)",
+        "Build": "Glass front folded (Gorilla Glass Victus), plastic back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 1B colors, 120Hz, 1100 nits (peak)",
+        "Size": "7.85 inches, 196.9 cm2 (~88.0% screen-to-body ratio)",
+        "Resolution": "2000 x 2296 pixels (~388 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, HiOS 13 Fold",
+        "Chipset": "Mediatek Dimensity 9000+ (4 nm)",
+        "CPU": "Octa-core (1x3.20 GHz Cortex-X2 & 3x2.85 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+        "GPU": "Mali-G710 MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, (wide), 1/1.3\", 1.2µm, PDAF\n50 MP, f/2.0, (telephoto), 1/2.8\", 0.64µm, PDAF, 2x optical zoom\n13 MP, f/2.2, 120˚ (ultrawide), 1/3.0\", 1.12µm, PDAF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide), 1/2.8\", 1.12µm\nCover camera:\n32 MP, f/2.5, (wide), 1/2.8\", 0.8µm",
+        "Video": "1080p@60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio, recording",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, 40% in 15 min, 100% in 55 min"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "AD10",
+        "Price": "About 1030 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 999348 (v9)\nGeekBench: 3963 (v5.1), 3748 (v6)\nGFXBench: 45fps (ES 3.1 onscreen)",
+        "Display": "492 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-24.3 LUFS (Very good)",
+        "Battery (old)": "Endurance rating 92h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:46:52.454Z"
+  },
+  {
+    "id": "12086",
+    "name": "Tecno Spark Go 2023",
+    "brand": "tecno",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/tecno-spark-go-2023.jpg",
+    "url": "https://www.gsmarena.com/tecno_spark_go_2023-12086.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, January 19",
+        "Status": "Available. Released 2023, January 24"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 75.5 x 8.9 mm (6.45 x 2.97 x 0.35 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.6 inches, 104.4 cm2 (~84.4% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12, HIOS 12",
+        "Chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+        "CPU": "Quad-core 2.0 GHz Cortex-A53",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, f/1.9, (wide), AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Unspecified",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Endless Black, Nebula Purple, Uyuni Blue, Skin Orange",
+        "Models": "BF7n",
+        "Price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:47:05.589Z"
+  }
+]

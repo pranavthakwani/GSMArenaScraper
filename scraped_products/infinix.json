@@ -1,0 +1,4922 @@
+[
+  {
+    "id": "14421",
+    "name": "Infinix Note Edge",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2026,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-edge.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_edge_5g-14421.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, January 19",
+        "Status": "Available. Released 2026, January 31"
+      },
+      "Body": {
+        "Dimensions": "163.1 x 77.4 x 7.2 mm (6.42 x 3.05 x 0.28 in)",
+        "Weight": "190 g (6.70 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 2160Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.78 inches, 112.1 cm2 (~88.8% screen-to-body ratio)",
+        "Resolution": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 3 major Android upgrades, XOS 16",
+        "Chipset": "Mediatek Dimensity 7100 (6 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G610 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), 1/2.0\", 0.8µm,  PDAF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2 (wide)",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6500 mAh",
+        "Charging": "45W wired, 50% in 27 min\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Lunar Titanium, Silk Green, Stellar Blue, Shadow Black, Orange",
+        "Models": "X6887",
+        "Price": "About 170 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 637742 (v10)\nGeekBench: 2815 (v6)\n3DMark: 692 (Wild Life Extreme)",
+        "Display": "1342 nits max brightness (measured)",
+        "Loudspeaker": "-22.7 LUFS (Excellent)",
+        "Battery": "Active use score 11:43h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:28:31.056Z"
+  },
+  {
+    "id": "14116",
+    "name": "Infinix Xpad 20 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-xpad-20-pro.jpg",
+    "url": "https://www.gsmarena.com/infinix_xpad_20_pro-14116.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, September 03",
+        "Status": "Available. Released 2025, September 03"
+      },
+      "Body": {
+        "Dimensions": "278.6 x 173.6 x 6.6 mm (10.97 x 6.83 x 0.26 in)",
+        "Weight": "545 g (1.20 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 450 nits",
+        "Size": "12.0 inches, 409.9 cm2 (~84.7% screen-to-body ratio)",
+        "Resolution": "1200 x 2000 pixels, 5:3 ratio (~194 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15",
+        "Chipset": "Mediatek Helio G100 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, AF",
+        "Features": "LED flash, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers with DTS (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "Unspecified",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "8000 mAh",
+        "Charging": "18W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Titanium Grey, Mist Blue",
+        "Models": "X1201",
+        "Price": "About 290 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:28:40.944Z"
+  },
+  {
+    "id": "14072",
+    "name": "Infinix Hot 60i",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-60i-5g-official.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_60i_5g-14072.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, August 16",
+        "Status": "Available. Released 2025, August 21"
+      },
+      "Body": {
+        "Dimensions": "167.4 x 77.7 x 8.1 mm (6.59 x 3.06 x 0.32 in)",
+        "Weight": "199 g (7.02 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 560 nits (typ), 670 nits (HBM)",
+        "Size": "6.75 inches, 110.0 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, XOS 15.1",
+        "Chipset": "Mediatek Dimensity 6400 (6 nm)",
+        "CPU": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "Yes",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "18W wired\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Shadow Blue, Sleek Black, Monsoon Green, Plum Red",
+        "Models": "X6730",
+        "Price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:28:50.001Z"
+  },
+  {
+    "id": "14044",
+    "name": "Infinix GT 30",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-gt30-5g.jpg",
+    "url": "https://www.gsmarena.com/infinix_gt_30_5g-14044.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, August 08",
+        "Status": "Available. Released 2025, August 11"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.8 x 8 mm (6.44 x 2.98 x 0.31 in)",
+        "Weight": "187 g (6.60 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2304Hz PWM, 700 nits (typ), 1600 nits (peak), 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.4% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, XOS 15",
+        "Chipset": "Mediatek Dimensity 7400 (4 nm)",
+        "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.8, 23mm (wide), 1/1.73\", 0.8μm, PDAF\n8 MP, f/2.2, 111˚, (ultrawide), AF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/120fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, 25mm (wide)",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass, gyro"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "45W wired\n10W reverse wired\nBypass Charging"
+      },
+      "Misc": {
+        "Colors": "Pulse Green, Cyber Blue, Blade White",
+        "Models": "X6876",
+        "Price": "About 190 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:28:58.814Z"
+  },
+  {
+    "id": "14006",
+    "name": "Infinix Hot 60",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot60-5g.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_60_5g-14006.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, July 11",
+        "Status": "Available. Released 2025, July 15"
+      },
+      "Body": {
+        "Dimensions": "166 x 76.8 x 7.8 mm (6.54 x 3.02 x 0.31 in)",
+        "Weight": "193 g (6.81 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 560 nits (typ), 700 nits (HBM)",
+        "Size": "6.7 inches, 108.4 cm2 (~85.0% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, XOS 15.1",
+        "Chipset": "Mediatek Dimensity 7020 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "IMG BXM-8-256"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.6, (wide), AF\nother unspecified cameras",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60/120fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\"",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "18W wired\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Tundra Green, Shadow Blue, Caramel Glow",
+        "Models": "X6726",
+        "Price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:29:09.811Z"
+  },
+  {
+    "id": "14002",
+    "name": "Infinix Hot 60 Pro+",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-60-pro-plus.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_60_pro+-14002.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, July 10",
+        "Status": "Available. Released 2025, July 13"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.8 x 6 mm (6.46 x 2.98 x 0.24 in)",
+        "Weight": "155 g (5.47 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic frame, fiber-reinforced plastic back or silicone polymer (eco leather) back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 144Hz, 2160Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.3% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, XOS 15.1",
+        "Chipset": "Mediatek Helio G200 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2 (1.1GHz)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.0, 22mm (wide), 1/3.1\", 1.12µm",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5160 mAh",
+        "Charging": "45W wired, 50% in 22 min\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Titanium Silver, Coral Tides, Misty Violet, Sonic Yellow, Moco Cyber Green",
+        "Models": "X6886"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 446336 (v10)\nGeekBench: 1945 (v6)\n3DMark: 380 (Wild Life Extreme)",
+        "Display": "1650 nits max brightness (measured)",
+        "Loudspeaker": "-25.1 LUFS (Very good)",
+        "Battery": "Active use score 11:11h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:29:16.090Z"
+  },
+  {
+    "id": "14003",
+    "name": "Infinix Hot 60 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-60-pro.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_60_pro-14003.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, July 10",
+        "Status": "Available. Released 2025, July 13"
+      },
+      "Body": {
+        "Dimensions": "163.5 x 75.9 x 6.6 mm (6.44 x 2.99 x 0.26 in)",
+        "Weight": "170 g (6.00 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 144Hz, 2160Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.4% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, XOS 15.1",
+        "Chipset": "Mediatek Helio G200 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2 (1.1GHz)"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, 27mm (wide), 1/2.8\", 0.64µm, PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, 24mm (wide), 1/3.1\", 1.12µm",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5160 mAh",
+        "Charging": "45W wired, 50% in 22 min\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Titanium Silver, Coral Tides, Sapphire Blue, Jungle Breath, Orange Rose Valley",
+        "Models": "X6885",
+        "Price": "$ 363.01"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:29:23.892Z"
+  },
+  {
+    "id": "13983",
+    "name": "Infinix Hot 60i 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-60i.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_60i-13983.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, July 02",
+        "Status": "Available. Released 2025, July 02"
+      },
+      "Body": {
+        "Dimensions": "166 x 76.6 x 7.7 mm (6.54 x 3.02 x 0.30 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 700 nits (HBM)",
+        "Size": "6.7 inches, 108.4 cm2 (~85.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, XOS 15.1",
+        "Chipset": "Mediatek Helio G81 Ultimate (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes (data transfer only; not for payments - market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5160 mAh",
+        "Charging": "45W wired, 50% in 24 min\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Titanium Silver, Shadow Blue, Neon Red, Meadow Green, Soul Eye Purple",
+        "Models": "X6728, X6728B",
+        "Price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:29:28.475Z"
+  },
+  {
+    "id": "13954",
+    "name": "Infinix Smart 10 HD",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart10-hd.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_10_hd-13954.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, June 16",
+        "Status": "Available. Released 2025, June 16"
+      },
+      "Body": {
+        "Dimensions": "163.6 x 75.6 x 8.5 mm (6.44 x 2.98 x 0.33 in)",
+        "Weight": "184 g (6.49 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14 (Go edition)",
+        "Chipset": "(12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, 27mm (wide), AF",
+        "Features": "Quad-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Timber Black, Shiny Gold, Crystal Green, Galaxy White",
+        "Models": "X6525D",
+        "Price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:29:34.971Z"
+  },
+  {
+    "id": "13953",
+    "name": "Infinix Smart 10 Plus",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-10-plus-.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_10_plus-13953.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, June 16",
+        "Status": "Available. Released 2025, June 16"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 77 x 8 mm (6.52 x 3.03 x 0.31 in)",
+        "Weight": "198 g (6.98 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 700 nits (HBM)",
+        "Size": "6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, XOS 15.1",
+        "Chipset": "Unisoc T7250 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+        "Features": "Dual-LED flash, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (data transfer only; not for payments - market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "18W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Titanium Silver, Iris Blue, Ruby Red",
+        "Models": "X6725B_C, X6725B",
+        "Price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:29:40.244Z"
+  },
+  {
+    "id": "13933",
+    "name": "Infinix Smart 10",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-10.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_10-13933.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, June 16",
+        "Status": "Available. Released 2025, June 16"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 77 x 8.3 mm (6.52 x 3.03 x 0.33 in)",
+        "Weight": "187 g (6.60 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 700 nits (HBM)",
+        "Size": "6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15/15 (Go edition), XOS 15.1",
+        "Chipset": "Unisoc T7250 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm, AF",
+        "Features": "Dual-LED flash, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (data transfer only; not for payments - market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "15W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Sleek Black Titanium Silver, Iris Blue, Twilight Gold",
+        "Models": "X6725",
+        "Price": "About 60 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:29:46.099Z"
+  },
+  {
+    "id": "13922",
+    "name": "Infinix Xpad 20",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-xpad20.jpg",
+    "url": "https://www.gsmarena.com/infinix_xpad_20-13922.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 41, 40, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, May 30",
+        "Status": "Available. Released 2025, June"
+      },
+      "Body": {
+        "Dimensions": "257.7 x 169.2 x 7.9 mm (10.15 x 6.66 x 0.31 in)",
+        "Weight": "498 g (1.10 lb)",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 440 nits",
+        "Size": "11.0 inches, 350.9 cm2 (~80.5% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15",
+        "Chipset": "Mediatek Helio G88 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "7000 mAh",
+        "Charging": "10W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Stellar Grey, Forest Green, Dreamy Purple, Rising Red"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:29:59.474Z"
+  },
+  {
+    "id": "13889",
+    "name": "Infinix GT 30 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-gt30-pro.jpg",
+    "url": "https://www.gsmarena.com/infinix_gt_30_pro_5g-13889.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, May 21",
+        "Status": "Available. Released 2025, June 01"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.8 x 8 mm (6.44 x 2.98 x 0.31 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2304Hz PWM, 700 nits (typ), 1600 nits (peak), 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~89.4% screen-to-body ratio)",
+        "Resolution": "1224 x 2720 pixels, 20:9 ratio (~440 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, XOS 15",
+        "Chipset": "Mediatek Dimensity 8350 Ultimate (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
+        "GPU": "Mali G615-MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.9, (wide), 1/1.33\", 0.8µm, PDAF\n8 MP, f/2.2, 111˚ (ultrawide), 1/4.0\", 1.0µm, AF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass, gyro"
+      },
+      "Battery": {
+        "Type": "5200 mAh or 5500 mAh",
+        "Charging": "45W wired\n30W wireless\n10W reverse wired\n5W reverse wireless\nBypass Charging 2"
+      },
+      "Misc": {
+        "Colors": "Dark Flare, Blade White, Shadow Ash",
+        "Models": "X6873",
+        "Price": "₹ 24,980"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1231878 (v10)\nGeekBench: 4086 (v6)\n3DMark: 2937 (Wild Life Extreme)",
+        "Display": "1897 nits max brightness (measured)",
+        "Loudspeaker": "-25.7 LUFS (Very good)",
+        "Battery": "Active use score 13:24h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:30:06.396Z"
+  },
+  {
+    "id": "13890",
+    "name": "Infinix Xpad GT",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-xpad-gt.jpg",
+    "url": "https://www.gsmarena.com/infinix_xpad_gt-13890.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, May 21",
+        "Status": "Available. Released 2025, June 04"
+      },
+      "Body": {
+        "Dimensions": "291.7 x 191.1 x 6.5 mm (11.48 x 7.52 x 0.26 in)",
+        "Weight": "655 g (1.44 lb)",
+        "Build": "Glass front (Gorilla Glass 3), aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 1B colors, 144Hz, HDR10, 700 nits (peak)",
+        "Size": "13.0 inches, 494.7 cm2 (~88.7% screen-to-body ratio)",
+        "Resolution": "2880 x 1840 pixels (~263 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 660"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "9 MP, f/2.2",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "Unspecified",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG, accessory connector pins"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "10000 mAh",
+        "Charging": "33W wired\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Stellar Gray",
+        "Models": "X1301",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "-20.7 LUFS (Excellent)",
+        "Battery": "Active use score 11:23h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:30:14.183Z"
+  },
+  {
+    "id": "13793",
+    "name": "Infinix Note 50s",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-50s.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_50s_5g-13793.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, April 18",
+        "Status": "Available. Released 2025, April 24"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 74.5 x 7.6 mm (6.47 x 2.93 x 0.30 in)",
+        "Weight": "180 g (6.35 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2304Hz PWM, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, XOS 15",
+        "Chipset": "Mediatek Dimensity 7300 Ultimate (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.8, (wide), 1/1.73\", 0.8µm, PDAF\n2 MP",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, (wide)",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "45W wired, 100% in 60 min\n10W reverse wired\nBypass Charging"
+      },
+      "Misc": {
+        "Colors": "Marine Blue, Titanium Grey,  Ruby Red",
+        "Models": "X6870",
+        "Price": "About 560 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:30:22.216Z"
+  },
+  {
+    "id": "13747",
+    "name": "Infinix Note 50x",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-50x.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_50x-13747.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, March 27",
+        "Status": "Available. Released 2025, April"
+      },
+      "Body": {
+        "Dimensions": "165.4 x 76.4 x 8.0 mm or 8.2 mm",
+        "Weight": "195.4 g or 198.9 g (6.88 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 560 nits (typ)",
+        "Size": "6.67 inches, 107.4 cm2 (~85.0% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, XOS 15",
+        "Chipset": "Mediatek Dimensity 7300 Ultimate (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), PDAF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/120/240fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "45W wired\n10W reverse wired\nBypass Charging"
+      },
+      "Misc": {
+        "Colors": "Titanium Gray, Enchanted Purple, Sea Breeze Green, Sunset Spice Pink",
+        "Models": "X6857B",
+        "Price": "About 130 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:30:31.874Z"
+  },
+  {
+    "id": "13746",
+    "name": "Infinix Note 50 Pro+",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note50-pro-plus-5g.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_50_pro+-13746.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, March 20",
+        "Status": "Available. Released 2025, April"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 74.5 x 8 mm (6.43 x 2.93 x 0.31 in)",
+        "Weight": "209 g (7.37 oz)",
+        "Build": "Glass front, aluminum frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2304Hz PWM, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~90.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, XOS 15",
+        "Chipset": "Mediatek Dimensity 8350 Ultimate (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
+        "GPU": "Mali G615-MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n50 MP, f/2.4, 70mm (periscope telephoto), 1/2.76\", 0.64µm, multi-directional PDAF, OIS, 3x optical zoom\n8 MP, f/2.2, 15mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.1\", 0.7µm",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5200 mAh",
+        "Charging": "100W wired, 100% in 32 min\n50W wireless MagCharge\n10W reverse wired\n7.5w reverse wireless\nBypass Charging"
+      },
+      "Misc": {
+        "Colors": "Titanium Grey, Enchanted Purple, Racing Edition",
+        "Models": "X6856",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1369368 (v10)\nGeekBench: 3965 (v6)\n3DMark: 2905 (Wild Life Extreme)",
+        "Display": "1043 nits max brightness (measured)",
+        "Loudspeaker": "-26.5 LUFS (Good)",
+        "Battery": "Active use score 11:43h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:30:42.284Z"
+  },
+  {
+    "id": "13701",
+    "name": "Infinix Note 50 Pro 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note50-pro.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_50_pro_4g-13701.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 13, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, March 04",
+        "Status": "Available. Released 2025, March"
+      },
+      "Body": {
+        "Dimensions": "163.3 x 74.4 x 7.3 mm (6.43 x 2.93 x 0.29 in)",
+        "Weight": "198 g (6.98 oz)",
+        "Build": "Glass front, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2160Hz PWM, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~90.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, XOS 15",
+        "Chipset": "Mediatek Helio G100 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, (wide), 1/1.57\", 1.0µm, PDAF, OIS\n8 MP, f/2.2, 15mm, 112˚ (ultrawide)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60/240fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.1\"",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "90W wired, 100% in 38 min\n30W wireless MagCharge\n10W Reverse wired\nReverse wireless\nBypass Charging"
+      },
+      "Misc": {
+        "Colors": "Titanium Grey, Enchanted Purple, Racing Edition, Shadow Black",
+        "Models": "X6855",
+        "Price": "About 180 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 437302 (v10)\nGeekBench: 1970 (v6)\n3DMark: 384 (Wild Life Extreme)",
+        "Display": "1054 nits max brightness (measured)",
+        "Loudspeaker": "-25.3 LUFS (Very good)",
+        "Battery": "Active use score 11:26h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:30:49.874Z"
+  },
+  {
+    "id": "13705",
+    "name": "Infinix Note 50 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note50.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_50_4g-13705.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 13, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, March 04",
+        "Status": "Available. Released 2025, March"
+      },
+      "Body": {
+        "Dimensions": "163.3 x 74.4 x 7.6 mm (6.43 x 2.93 x 0.30 in)",
+        "Weight": "199 g (7.02 oz)",
+        "Build": "Glass front, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2160Hz PWM, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~90.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, XOS 15",
+        "Chipset": "Mediatek Helio G100 Ultimate (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, (wide), 1/1.57\", 1.0µm, PDAF, OIS\n2 MP (macro)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60/240fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "45W wired, 100% in 60 min\n30W wireless MagCharge\n10W Reverse wired\nReverse wireless\nBypass Charging"
+      },
+      "Misc": {
+        "Colors": "Titanium Grey, Ruby Red, Mountain Shade, Shadow Black",
+        "Models": "X6858",
+        "Price": "About 160 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:30:56.477Z"
+  },
+  {
+    "id": "13590",
+    "name": "Infinix Smart 9 HD",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-9-hd.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_9_hd-13590.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 41, 40, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, November",
+        "Status": "Available. Released 2024, December"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 77.1 x 8.4 mm (6.52 x 3.04 x 0.33 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14 (Go edition), XOS 14",
+        "Chipset": "Mediatek Helio",
+        "CPU": "Octa-core 8x2.2 GHz Cortex-A53",
+        "GPU": "Mali-G57 MC1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, 27mm (wide), AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Metallic Black, Neo Titanium, Mint Green, Coral Gold",
+        "Models": "X6532C"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:31:13.363Z"
+  },
+  {
+    "id": "13461",
+    "name": "Infinix Hot 50 Pro 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-50-pro-4g.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_50_pro_4g-13461.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, October 20",
+        "Status": "Available. Released 2024, November"
+      },
+      "Body": {
+        "Dimensions": "167 x 76.4 x 7.4 mm (6.57 x 3.01 x 0.29 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 2160Hz PWM, 550 nits (typ), 1800 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~86.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 1 major Android upgrades, XOS 14.5",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 27mm (wide), 1/2.8\", AF\nAuxiliary lenses",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\"",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 50% in 27 min\nReverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Titanium Grey, Glacier Blue",
+        "Models": "X6881"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:31:22.591Z"
+  },
+  {
+    "id": "13408",
+    "name": "Infinix Hot 50 Pro+ 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-50-pro-plus-4g.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_50_pro+_4g-13408.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, October 20",
+        "Status": "Available. Released 2024, November"
+      },
+      "Body": {
+        "Dimensions": "164.1 x 74.4 x 6.8 mm (6.46 x 2.93 x 0.27 in)",
+        "Weight": "162 g (5.71 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 2160Hz PWM, 550 nits (typ), 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~90.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 1 major Android upgrades, XOS 14.5",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.6, 27mm (wide), 1/2.8\", AF\nAuxiliary lenses",
+        "Features": "Dual-LED flash, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, (wide), 1/3.06\"",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes, 360˚",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 50% in 26 min\n10W reverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Titanium Grey, Dreamy Purple",
+        "Models": "X6880",
+        "Price": "About 190 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 436283 (v10)\nGeekBench: 1957 (v6)\n3DMark: 384 (Wild Life Extreme)",
+        "Display": "1190 nits max brightness (measured)",
+        "Loudspeaker": "-27.1 LUFS (Good)",
+        "Battery": "Active use score 10:54h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:31:36.862Z"
+  },
+  {
+    "id": "13460",
+    "name": "Infinix Note 40S",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note40s-x6850b.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_40s-13460.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, September",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "164.1 x 74.6 x 7.8 mm (6.46 x 2.94 x 0.31 in)",
+        "Weight": "176 g (6.21 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 550 nits (typ), 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, XOS 14",
+        "Chipset": "Mediatek Helio G99 Ultimate",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.9, 24mm (wide), 1/1.52\", PDAF\n2 MP (macro)\n3rd unspecified camera",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.1\"",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 50% in 31 min\n20W wireless MagCharge\nReverse wired\nReverse wireless\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian Black, Vintage Green",
+        "Models": "X6850B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:31:41.599Z"
+  },
+  {
+    "id": "13375",
+    "name": "Infinix Hot 50i",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-50i.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_50i-13375.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 41, 40, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, September 23",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 77.1 x 8.1 mm (6.52 x 3.04 x 0.32 in)",
+        "Weight": "184 g (6.49 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 500 nits (peak)",
+        "Size": "6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14.5",
+        "Chipset": "Mediatek Helio G81",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 4GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired\nReverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Sage Green, Titanium Grey",
+        "Models": "X6531, X6531B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:31:50.875Z"
+  },
+  {
+    "id": "13374",
+    "name": "Infinix Smart 9",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart9.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_9-13374.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 41, 40, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, September 23",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 77.1 x 8.4 mm (6.52 x 3.04 x 0.33 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 500 nits (peak)",
+        "Size": "6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14 (Go edition), XOS 14",
+        "Chipset": "Mediatek Helio G81",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 3GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, 27mm (wide), 1/3.07\", 1.12µm, AF\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 26mm (wide), 1/3.96\", 1.12µm",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Metallic Black, Neo Titanium, Mint Green, Sandstone Gold",
+        "Models": "X6532",
+        "Price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:32:00.039Z"
+  },
+  {
+    "id": "13367",
+    "name": "Infinix Hot 50 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-50-4g.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_50_4g-13367.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 41, 40",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, September 30",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "167.9 x 75.6 x 7.7 mm (6.61 x 2.98 x 0.30 in)",
+        "Weight": "187 g (6.60 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 800 nits (typ)",
+        "Size": "6.78 inches, 109.2 cm2 (~86.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14.5",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 27mm (wide), 1/2.76\", AF\nother unspecified cameras",
+        "Features": "Dual-LED flash, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\"",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired\nReverse wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Sleek Black, Sage Green, Titanium Grey",
+        "Models": "X6882, X6882B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:32:06.320Z"
+  },
+  {
+    "id": "13347",
+    "name": "Infinix Zero Flip",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-zero-flip-.jpg",
+    "url": "https://www.gsmarena.com/infinix_zero_flip-13347.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 28, 34, 38, 39, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, September 27",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 170.4 x 73.4 x 7.6 mmFolded: 87.5 x 73.4 x 16 mm",
+        "Weight": "195 g (6.88 oz)",
+        "SIM": "· Nano-SIM· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 120Hz, 1400 nits (peak)",
+        "Size": "6.9 inches, 107.6 cm2 (~86.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2640 pixels (~413 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, XOS 14.5",
+        "Chipset": "Mediatek Dimensity 8020 (6 nm)",
+        "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, 24mm (wide), 1/1.57\", 1.0µm, PDAF, OIS\n50 MP, f/2.2, 115˚ (ultrawide), 1/2.8\", 0.64µm, PDAF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 25mm (wide), 1/2.76\", 0.64µm, PDAF",
+        "Features": "Dual-LED flash",
+        "Video": "4K@30/60fps, 1080p@30/60/120fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4720 mAh",
+        "Charging": "70W wired\n10W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Rock Black, Blossom Glow",
+        "Models": "X6962",
+        "Price": "About 580 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "-24.6 LUFS (Very good)",
+        "Battery": "Active use score 11:01h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:32:10.541Z"
+  },
+  {
+    "id": "13305",
+    "name": "Infinix Hot 50",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-50-5g-x6720-.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_50-13305.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, September 05",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 77.1 x 7.8 mm (6.52 x 3.04 x 0.31 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 480 nits (typ)",
+        "Size": "6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14.5",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, AF\nAuxiliary lenses",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\"",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "18W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Vibrant Blue, Sleek Black, Sage Green, Dreamy Purple",
+        "Models": "X6720",
+        "Price": "About 350 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:32:24.237Z"
+  },
+  {
+    "id": "13290",
+    "name": "Infinix Zero 40",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-zero40-5g-.jpg",
+    "url": "https://www.gsmarena.com/infinix_zero_40-13290.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, August 29",
+        "Status": "Available. Released 2024, September 08"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 74.8 x 7.9 mm (6.47 x 2.94 x 0.31 in)",
+        "Weight": "195 g (6.88 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, HDR, 144Hz, 1300 nits (HBM)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, XOS 14.5",
+        "Chipset": "Mediatek Dimensity 8200 Ultimate (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G610 MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), 1/1.67\", PDAF, OIS\n50 MP, f/2.0, 120˚, (ultrawide), 1/2.76\", PDAF\nAuxiliary lens",
+        "Features": "Triple-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 21mm (wide), 1/2.76\", PDAF",
+        "Features": "Dual-LED flash",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, 60% in 25 min\n20W wireless\n10W reverse wired\nBypass Charging 2.0"
+      },
+      "Misc": {
+        "Colors": "Rock Black, Violet Garden, Moving Titanium",
+        "Models": "X6861",
+        "Price": "About 360 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:32:34.121Z"
+  },
+  {
+    "id": "13276",
+    "name": "Infinix Zero 40 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-zero-40-4g-.jpg",
+    "url": "https://www.gsmarena.com/infinix_zero_40_4g-13276.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, August 29",
+        "Status": "Available. Released 2024, September 08"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 74.6 x 7.7 mm (6.47 x 2.94 x 0.30 in)",
+        "Weight": "180 g (6.35 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 1300 nits (HBM)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, XOS 14.5",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), 1/1.67\", PDAF, OIS\n50 MP, f/2.0, 120˚, (ultrawide), 1/2.76\", PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 21mm (wide), 1/2.76\", PDAF",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, 50% in 25 min\n10W reverse wired\nBypass Charging 2.0"
+      },
+      "Misc": {
+        "Colors": "Misty Aqua, Rock Black, Blossom Glow",
+        "Models": "X6860",
+        "Price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:32:38.453Z"
+  },
+  {
+    "id": "13263",
+    "name": "Infinix Xpad",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/ulefone-xpad.jpg",
+    "url": "https://www.gsmarena.com/infinix_xpad-13263.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2024, August 12",
+        "Status": "Available. Released 2024, August 18"
+      },
+      "Body": {
+        "Dimensions": "257 x 168.6 x 7.6 mm (10.12 x 6.64 x 0.30 in)",
+        "Weight": "496 g (1.09 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 440 nits",
+        "Size": "11.0 inches, 350.9 cm2 (~81.0% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 4GB RAM, 256GB 4GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP",
+        "Features": "Quad-LED flash",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS - cellular model only",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 7000 mAh",
+        "Charging": "18W wired, 50% in 40 min"
+      },
+      "Misc": {
+        "Colors": "Titan Gold, Frost Blue, Stellar Grey",
+        "Models": "X1101",
+        "Price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:32:48.997Z"
+  },
+  {
+    "id": "13246",
+    "name": "Infinix Note 40X 5G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note40x-5g.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_40x_5g-13246.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, August 05",
+        "Status": "Available. Released 2024, August 09"
+      },
+      "Body": {
+        "Dimensions": "168.9 x 76.5 x 8.3 mm (6.65 x 3.01 x 0.33 in)",
+        "Weight": "201 g (7.09 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 500",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), PDAF\n2 MP (macro)\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired, 50% in 31 min\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Palm Blue, Lime Green, Starlit Black",
+        "Models": "X6838",
+        "Price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:32:54.447Z"
+  },
+  {
+    "id": "13035",
+    "name": "Infinix Note 40 5G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note40-5g-.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_40_5g-13035.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, May 22",
+        "Status": "Available. Released 2024, May 22"
+      },
+      "Body": {
+        "Dimensions": "165.5 x 75.9 x 7.9 mm (6.52 x 2.99 x 0.31 in)",
+        "Weight": "185 g (6.53 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~87.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14",
+        "Chipset": "Mediatek Dimensity 7020 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "IMG BXM-8-256"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB RAM, 512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, 24mm (wide), PDAF\n2 MP, f/2.4\n2 MP, f/2.4",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 50% in 31 min\n15W wireless MagCharge\nReverse wired\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Obsidian Black, Titan Gold, Racing Edition",
+        "Models": "X6852",
+        "Price": "About 220 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:33:02.131Z"
+  },
+  {
+    "id": "12962",
+    "name": "Infinix GT 20 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-gt20-pro.jpg",
+    "url": "https://www.gsmarena.com/infinix_gt_20_pro-12962.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, April 26",
+        "Status": "Available. Released 2024, April 26"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 75.4 x 8.2 mm (6.47 x 2.97 x 0.32 in)",
+        "Weight": "194 g (6.84 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2304Hz PWM, 1300 nits (peak)",
+        "Size": "6.78 inches, 112.7 cm2 (~91.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~388 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14",
+        "Chipset": "Mediatek Dimensity 8200 Ultimate (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G610 MC6"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, 24mm (wide), 1/1.67\", 0.64µm, AF, OIS\n2 MP (macro)\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 22mm (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass, gyro"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, PD3"
+      },
+      "Misc": {
+        "Colors": "Mecha Blue, Mecha Orange, Mecha Silver",
+        "Models": "X6871",
+        "Price": "About 250 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:33:11.958Z"
+  },
+  {
+    "id": "12874",
+    "name": "Infinix Note 40 Pro+",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-40-pro-plus-5g-.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_40_pro+-12874.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, March 18",
+        "Status": "Available. Released 2024, March 19"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 74.5 x 8.1 mm (6.47 x 2.93 x 0.32 in)",
+        "Weight": "190 g or 196 g (6.70 oz)",
+        "Build": "Glass front, plastic frame, silicone polymer (eco leather) back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, XOS 14",
+        "Chipset": "Mediatek Dimensity 7020 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "IMG BXM-8-256"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, 24mm (wide), 1/1.67\", 0.64µm, PDAF, OIS\n2 MP, f/2.4\n2 MP, f/2.4",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.1\", 0.7µm",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4600 mAh",
+        "Charging": "100W wired, 50% in 12 min\n20W wireless MagCharge\nReverse wired\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Obsidian Black, Vintage Green, Racing Edition",
+        "Models": "X6851B",
+        "Price": "About 290 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 459546 (v10)\nGeekBench: 2233 (v6)",
+        "Display": "1130 nits max brightness (measured)",
+        "Loudspeaker": "-26.5 LUFS (Good)",
+        "Battery": "Active use score 12:23h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:33:19.724Z"
+  },
+  {
+    "id": "12875",
+    "name": "Infinix Note 40 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-40-pro-5g-.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_40_pro-12875.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, March 18",
+        "Status": "Available. Released 2024, March 19"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 74.5 x 8.1 mm (6.47 x 2.93 x 0.32 in)",
+        "Weight": "190 g or 196 g (6.70 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 2160Hz PWM, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14",
+        "Chipset": "Mediatek Dimensity 7020 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "IMG BXM-8-256"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), PDAF, OIS\n2 MP, f/2.4\n2 MP, f/2.4",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.1\"",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, 50% in 26 min\n20W wireless MagCharge\nReverse wired\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Vintage Green, Titan Gold, Racing Edition",
+        "Models": "X6851",
+        "Price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:33:24.804Z"
+  },
+  {
+    "id": "12876",
+    "name": "Infinix Note 40 Pro 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-40-pro-4g-.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_40_pro_4g-12876.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 13, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, March 18",
+        "Status": "Available. Released 2024, March 19"
+      },
+      "Body": {
+        "Dimensions": "164.4 x 74.6 x 7.8 mm (6.47 x 2.94 x 0.31 in)",
+        "Weight": "190 g (6.70 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14",
+        "Chipset": "Mediatek Helio G99 Ultimate",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), 1/1.67\", PDAF, OIS\n2 MP, f/2.4\n2 MP, f/2.4",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.1\"",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "70W wired, 50% in 20 min\n20W wireless MagCharge\nReverse wired\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Vintage Green, Titan Gold, Racing Edition",
+        "Models": "X6850",
+        "Price": "About 240 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:33:31.335Z"
+  },
+  {
+    "id": "12877",
+    "name": "Infinix Note 40",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-40-4g-.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_40-12877.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 13, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, March 18",
+        "Status": "Available. Released 2024, March 19"
+      },
+      "Body": {
+        "Dimensions": "164.1 x 74.5 x 7.8 mm (6.46 x 2.93 x 0.31 in)",
+        "Weight": "190 g (6.70 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz, 1300 nits (peak)",
+        "Size": "6.78 inches, 109.9 cm2 (~89.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2436 pixels (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 14, XOS 14",
+        "Chipset": "Mediatek Helio G99 Ultimate",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.9, (wide), 1/1.52\", PDAF\n2 MP, f/2.4\n3rd unspecified camera",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.1\"",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, 50% in 26 min\n20W wireless MagCharge\nReverse wired\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Titan Gold, Obsidian Black, Racing Edition",
+        "Models": "X6853",
+        "Price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:33:36.398Z"
+  },
+  {
+    "id": "12817",
+    "name": "Infinix Smart 8 Plus",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-8-plus.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_8_plus-12817.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 41, 40",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, January 30",
+        "Status": "Available. Released 2024, February"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.7 x 9 mm (6.44 x 2.98 x 0.35 in)",
+        "Weight": "204 g (7.20 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.6 inches, 104.6 cm2 (~84.4% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13 (Go edition), XOS 13",
+        "Chipset": "Mediatek Helio G36 (12 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.9, (wide), AF\nAuxiliary lens",
+        "Features": "Ring-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "18W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Galaxy White, Shiny Gold, Timber Black",
+        "Models": "X6526",
+        "Price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:33:45.599Z"
+  },
+  {
+    "id": "12812",
+    "name": "Infinix Smart 8 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-8-pro.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_8_pro-12812.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 41, 40",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, January 29",
+        "Status": "Available. Released 2024, February"
+      },
+      "Body": {
+        "Dimensions": "163.6 x 75.6 x 8.5 mm (6.44 x 2.98 x 0.33 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13 (Go edition), XOS 13",
+        "Chipset": "Mediatek Helio G36 (12 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 8GB RAM, 256GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.9, (wide), AF\nAuxiliary lens",
+        "Features": "Ring-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Rainbow Blue, Galaxy White, Shiny Gold, Timber Black",
+        "Models": "X6525B",
+        "Price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:33:54.838Z"
+  },
+  {
+    "id": "12792",
+    "name": "Infinix Smart 8 (India)",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-8-india.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_8_(india)-12792.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, January 13",
+        "Status": "Available. Released 2024, January 17"
+      },
+      "Body": {
+        "Dimensions": "163.6 x 75.6 x 8.5 mm (6.44 x 2.98 x 0.33 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13 (Go edition), XOS 13",
+        "Chipset": "Mediatek Helio G36 (12 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), AF\nAuxiliary lens",
+        "Features": "Ring-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Rainbow Blue, Galaxy White, Shiny Gold, Timber Black",
+        "Models": "X6525B",
+        "Price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:34:02.774Z"
+  },
+  {
+    "id": "12736",
+    "name": "Infinix Smart 8 HD",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-8-hd.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_8_hd-12736.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, December 08",
+        "Status": "Available. Released 2023, December 13"
+      },
+      "Body": {
+        "Dimensions": "163.6 x 75.6 x 8.5 mm (6.44 x 2.98 x 0.33 in)",
+        "Weight": "184 g (6.49 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13",
+        "Chipset": "Unisoc T606 (12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, 27mm (wide), AF\nAuxiliary lens",
+        "Features": "Ring-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Timber Black, Shiny Gold, Crystal Green, Galaxy White",
+        "Models": "X6525",
+        "Price": "About 70 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:34:09.124Z"
+  },
+  {
+    "id": "12733",
+    "name": "Infinix Hot 40 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-40-pro.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_40_pro-12733.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, December 05",
+        "Status": "Available. Released 2023, December"
+      },
+      "Body": {
+        "Dimensions": "168.6 x 76.6 x 8.3 mm (6.64 x 3.02 x 0.33 in)",
+        "Weight": "199 g (7.02 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 500 nits (peak)",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13.5",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.8, (wide), 1/1.67\", 0.64µm, AF\n2 MP (macro)\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.15\", 0.7µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 20-75% in 35 min\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Palm Blue, Horizon Gold, Starlit Black, Starfall Green, Free Fire",
+        "Models": "X6837",
+        "Price": "£ 184.16 / € 188.95"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 428551 (v10)\nGeekBench: 1975 (v6)",
+        "Display": "1822:1 contrast ratio, 534 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-24.5 LUFS (Very good)",
+        "Battery": "Active use score 12:56h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:34:17.318Z"
+  },
+  {
+    "id": "12732",
+    "name": "Infinix Hot 40",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-40.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_40-12732.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, December 05",
+        "Status": "Available. Released 2023, December"
+      },
+      "Body": {
+        "Dimensions": "168.6 x 76.6 x 8.3 mm (6.64 x 3.02 x 0.33 in)",
+        "Weight": "196 g (6.91 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13.5",
+        "Chipset": "Mediatek MT6769H Helio G88 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.6, (wide), AF\n2 MP (macro)\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 20-75% in 35 min\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Palm Blue, Horizon Gold, Starlit Black, Starfall Green",
+        "Models": "X6836"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:34:24.640Z"
+  },
+  {
+    "id": "12731",
+    "name": "Infinix Hot 40i",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-40i.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_40i-12731.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, December 05",
+        "Status": "Available. Released 2023, December"
+      },
+      "Body": {
+        "Dimensions": "163.6 x 75.6 x 8.3 mm (6.44 x 2.98 x 0.33 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 480 nits (peak)",
+        "Size": "6.56 inches, 103.4 cm2 (~83.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13",
+        "Chipset": "Unisoc T606 (12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, 27mm (wide), 1/2.75\", 0.64µm, AF\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 22mm (wide), 1/3.15\", 0.7µm",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Starlit Black, Palm Blue, Horizon Gold, Starfall Green",
+        "Models": "X6528B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:34:32.162Z"
+  },
+  {
+    "id": "12642",
+    "name": "Infinix Smart 8",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart8.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_8-12642.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, November 09",
+        "Status": "Available. Released 2023, November 09"
+      },
+      "Body": {
+        "Dimensions": "163.6 x 75.6 x 8.5 mm (6.44 x 2.98 x 0.33 in)",
+        "Weight": "184 g (6.49 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Unisoc T606 (12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, 27mm (wide), 1/3.05\", 1.12µm, AF\nAuxiliary lens",
+        "Features": "Ring-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 26mm (wide), 1/3.94\", 1.12µm",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Timber Black, Shiny Gold, Crystal Green, Galaxy White",
+        "Models": "X6525, X6525D",
+        "Price": "About 100 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:34:37.628Z"
+  },
+  {
+    "id": "12641",
+    "name": "Infinix Zero 30 4G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-zero-30-4g.jpg",
+    "url": "https://www.gsmarena.com/infinix_zero_30_4g-12641.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 41, 40",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, October 26",
+        "Status": "Available. Released 2023, October 26"
+      },
+      "Body": {
+        "Dimensions": "164.5 x 75 x 7.9 mm (6.48 x 2.95 x 0.31 in)",
+        "Weight": "182 g (6.42 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 950 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~90.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.7, (wide), 1/1.67\", PDAF\n2 MP, f/2.4\n2 MP, f/2.4",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, (wide), 1/2.76\", PDAF",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, PD3.0, 75% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Sunset Gold, Misty Green, Pearly White",
+        "Models": "X6731B",
+        "Price": "About 180 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:34:43.062Z"
+  },
+  {
+    "id": "12518",
+    "name": "Infinix Zero 30",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-zero30-5g.jpg",
+    "url": "https://www.gsmarena.com/infinix_zero_30-12518.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, September 01",
+        "Status": "Available. Released 2023, September"
+      },
+      "Body": {
+        "Dimensions": "164.5 x 75 x 7.9 mm (6.48 x 2.95 x 0.31 in)",
+        "Weight": "185 g (6.53 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5) or eco leather back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 950 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm2 (~90.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13",
+        "Chipset": "Mediatek Dimensity 8020 (6 nm)",
+        "CPU": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.7, (wide), 1/1.67\", PDAF, OIS\n13 MP, f/2.2, 120˚ (ultrawide)\n2 MP, f/2.4",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, (wide), 1/2.76\", PDAF",
+        "Features": "LED flash",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "68W wired, 80% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Rome Green, Golden Hour, Fantasy Purple",
+        "Models": "X6731"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 635016 (v9), 758738 (v10)\nGeekBench: 2952 (v5), 3122 (v6)\nGFXBench: 39fps (ES 3.1 onscreen)",
+        "Display": "764 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-26.6 LUFS (Good)",
+        "Battery (old)": "Endurance rating 102h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:34:56.429Z"
+  },
+  {
+    "id": "12451",
+    "name": "Infinix GT 10 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-gt10-pro-5g.jpg",
+    "url": "https://www.gsmarena.com/infinix_gt_10_pro-12451.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 66",
+        "5G bands": "1, 3, 5, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, August 03",
+        "Status": "Available. Released 2023, August 13"
+      },
+      "Body": {
+        "Dimensions": "162.7 x 75.9 x 8.1 mm (6.41 x 2.99 x 0.32 in)",
+        "Weight": "187 g (6.60 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 900 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm2 (~87.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 1 major Android upgrades, XOS 13",
+        "Chipset": "Mediatek Dimensity 8050 (6 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), 1/1.67\", 0.64µm, AF\n2 MP (macro)\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass, gyro"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, PD3"
+      },
+      "Misc": {
+        "Colors": "Cyber Black, Mirage Silver",
+        "Models": "X6739",
+        "Price": "About 260 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 666948 (v9), 802301 (v10)\nGeekBench: 3080 (v5.5), 3303 (v6.0)\nGFXBench: 40fps (ES 3.1 onscreen)",
+        "Display": "701 nits max brightness (measured)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-25.1 LUFS (Very good)",
+        "Battery (old)": "Endurance rating 112h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:35:05.138Z"
+  },
+  {
+    "id": "12424",
+    "name": "Infinix Hot 30 5G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-30-5g.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_30_5g-12424.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, July 14",
+        "Status": "Available. Released 2023, July 18"
+      },
+      "Body": {
+        "Dimensions": "168.5 x 76.5 x 9.2 mm (6.63 x 3.01 x 0.36 in)",
+        "Weight": "215 g (7.58 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 580 nits (peak)",
+        "Size": "6.78 inches, 109.2 cm2 (~84.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13",
+        "Chipset": "Mediatek Dimensity 6020 (7 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), 1/2.55\", AF\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Knight Black, Aurora Blue",
+        "Models": "X6832",
+        "Price": "About 140 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:35:13.594Z"
+  },
+  {
+    "id": "12365",
+    "name": "Infinix Note 30 VIP",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-x6710-note-30-vip.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_30_vip-12365.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, June 12",
+        "Status": "Available. Released 2023, June 13"
+      },
+      "Body": {
+        "Dimensions": "162.7 x 75.9 x 8.2 mm (6.41 x 2.99 x 0.32 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front, plastic frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 900 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm2 (~87.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13",
+        "Chipset": "Mediatek Dimensity 8050 (6 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), 1/1.67\", PDAF\n2 MP, f/2.4\n2 MP, f/2.4",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "68W wired, PD3.0, PPS, 80% in 30 min, bypass charging\n50W wireless, 50% in 30 min\nReverse wired\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Magic Black, Glacier White, Racing Edition",
+        "Models": "X6710",
+        "Price": "About 280 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:35:20.571Z"
+  },
+  {
+    "id": "12289",
+    "name": "Infinix Hot 30 Play NFC",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-30-play-nfc.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_30_play_nfc-12289.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, May 22",
+        "Status": "Available. Released 2023, May 22"
+      },
+      "Body": {
+        "Dimensions": "170.6 x 77.5 x 8.6 mm (6.72 x 3.05 x 0.34 in)",
+        "Weight": "205 g (7.23 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.82 inches, 110.5 cm2 (~83.5% screen-to-body ratio)",
+        "Resolution": "720 x 1640 pixels (~263 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 12.6",
+        "Chipset": "Mediatek MT6765 Helio G37 (12 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.7 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "16 MP, f/1.8, (wide), PDAF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Mirage Black, Blade White, Bora Purple",
+        "Models": "X6835B, X6835"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:35:32.442Z"
+  },
+  {
+    "id": "12273",
+    "name": "Infinix Note 30 Pro",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-30-pro.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_30_pro-12273.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, May 22",
+        "Status": "Available. Released 2023, May 22"
+      },
+      "Body": {
+        "Dimensions": "162.7 x 76 x 8.2 mm (6.41 x 2.99 x 0.32 in)",
+        "Weight": "203 g (7.16 oz)",
+        "Build": "Glass front, plastic frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 900 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm2 (~86.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, (wide), 1/1.67\", PDAF\n2 MP (macro)\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, (wide), 1/2.8\"",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "68W wired, PD3.0, 80% in 30 min\n15W wireless\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Magic Black, Variable Gold",
+        "Models": "X678B"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:35:44.555Z"
+  },
+  {
+    "id": "12288",
+    "name": "Infinix Note 30",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note30-4g.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_30-12288.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, May 22",
+        "Status": "Available. Released 2023, May 22"
+      },
+      "Body": {
+        "Dimensions": "168.6 x 76.6 x 8.6 mm (6.64 x 3.02 x 0.34 in)",
+        "Weight": "219 g (7.72 oz)",
+        "Build": "Glass front, plastic frame, glass or leather back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 580 nits (peak)",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, (wide), 1/2.0\", 0.7µm, PDAF\nAuxiliary lenses",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, (wide)",
+        "Features": "LED flash, HDR",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Obsidian Black, Interstellar Blue, Sunset Gold",
+        "Models": "X6833B, X6716B"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 374263 (v9)\nGeekBench: 1792 (v5.5), 1971 (v6.0)\nGFXBench: 12fps (ES 3.1 onscreen)",
+        "Display": "Contrast ratio: 1521:1 (nominal)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "-26.9 LUFS (Good)",
+        "Battery (old)": "Endurance rating 119h"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:35:49.675Z"
+  },
+  {
+    "id": "12272",
+    "name": "Infinix Note 30 5G",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-30-5g.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_30_5g-12272.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 12, 22, 28, 38, 40, 41, 66, 77, 78",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 22",
+        "Status": "Available. Released 2023, May 22"
+      },
+      "Body": {
+        "Dimensions": "168.5 x 76.5 x 8.5 mm (6.63 x 3.01 x 0.33 in)",
+        "Weight": "205 g (7.23 oz)",
+        "Build": "Glass front, plastic frame, glass or leather back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 580 nits (peak)",
+        "Size": "6.78 inches, 109.2 cm2 (~84.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek Dimensity 6080 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.75, 26mm (wide), 1/1.67\", 0.64µm, PDAF\nAuxiliary lenses",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, (wide)",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired, bypass charging"
+      },
+      "Misc": {
+        "Colors": "Magic Black, Interstellar Blue, Sunset Gold",
+        "Models": "X6711"
+      },
+      "Our Tests": {
+        "Display": "1521:1 contrast ratio, 607 nits max brightness (measured)"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:35:59.418Z"
+  },
+  {
+    "id": "12274",
+    "name": "Infinix Note 30i",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-note-30i.jpg",
+    "url": "https://www.gsmarena.com/infinix_note_30i-12274.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, May 16",
+        "Status": "Available. Released 2023, June"
+      },
+      "Body": {
+        "Dimensions": "164.5 x 76.7 x 8.2 mm (6.48 x 3.02 x 0.32 in)",
+        "Weight": "198 g (6.98 oz)",
+        "Build": "Glass front, plastic frame, glass back or eco leather back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.66 inches, 107.1 cm2 (~84.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 13",
+        "Chipset": "Mediatek MT6769 Helio G85 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.7, (wide), 1/2.0\", PDAF\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, PD3.0, 95% in 60 min\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Variable Gold, Obsidian Black, Impression Green",
+        "Models": "X6716"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:36:04.663Z"
+  },
+  {
+    "id": "12243",
+    "name": "Infinix Smart 7 HD",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart7-hd.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_7_hd-12243.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, April 14",
+        "Status": "Available. Released 2023, April 14"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 75.5 x 8.7 mm (6.45 x 2.97 x 0.34 in)",
+        "Weight": "196.5 g (6.95 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 500 nits",
+        "Size": "6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12 (Go edition)",
+        "CPU": "Octa-core 1.6 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Ink Black, Silk Blue, Jade White, Green Apple",
+        "Models": "X6516",
+        "Price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:36:16.019Z"
+  },
+  {
+    "id": "14011",
+    "name": "Infinix Hot 30i (50 MP)",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-30i.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_30i_(50_mp)-14011.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, March 27",
+        "Status": "Available. Released 2023, March 27"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.8 x 8.4 mm (6.46 x 2.98 x 0.33 in)",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.56 inches, 103.4 cm2 (~83.2% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)",
+        "Protection": "Panda Glass"
+      },
+      "Platform": {
+        "OS": "Android 12, XOS 12",
+        "Chipset": "Mediatek Helio G37 (12 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Mirror Black, Glacier Blue, Diamond White, Marigold",
+        "Models": "X669C",
+        "Price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:36:26.557Z"
+  },
+  {
+    "id": "12216",
+    "name": "Infinix Hot 30i",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-30i.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_30i-12216.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, March 31",
+        "Status": "Available. Released 2023, March 31"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.8 x 8.4 mm (6.46 x 2.98 x 0.33 in)",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (peak)",
+        "Size": "6.56 inches, 103.4 cm2 (~83.2% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12, XOS 10.6",
+        "Chipset": "Unisoc T606 (12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, (wide), 1/3.07\", AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/3.94\"",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes (Hot 30i NFC only)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Mirror Black, Glacier Blue, Diamond White, Marigold",
+        "Models": "X669, X669D"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:36:36.228Z"
+  },
+  {
+    "id": "12214",
+    "name": "Infinix Hot 30",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-hot-30.jpg",
+    "url": "https://www.gsmarena.com/infinix_hot_30-12214.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, March 31",
+        "Status": "Available. Released 2023, March 31"
+      },
+      "Body": {
+        "Dimensions": "168.7 x 76.6 x 8.4 mm (6.64 x 3.02 x 0.33 in)",
+        "Weight": "196 g (6.91 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (typ), 600 nits (peak)",
+        "Size": "6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2460 pixels (~396 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, XOS 12.6",
+        "Chipset": "Mediatek MT6769H Helio G88 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.6, (wide), 1/2.55\", AF\nAuxiliary lens",
+        "Features": "Quad-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.5, (wide)",
+        "Features": "Dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 55% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Racing Black, Surfing Green, Sonic White, Free Fire",
+        "Models": "X6831"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:36:49.842Z"
+  },
+  {
+    "id": "12131",
+    "name": "Infinix Smart 7 (India)",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-7-india.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_7_(india)-12131.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, February 22",
+        "Status": "Available. Released 2023, February 27"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 75.6 x 9.4 mm (6.46 x 2.98 x 0.37 in)",
+        "Weight": "207 g (7.30 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 500 nits",
+        "Size": "6.6 inches, 104.6 cm2 (~84.3% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12, XOS 12",
+        "Chipset": "Unisoc SC9863A1 (22 nm)",
+        "CPU": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+        "GPU": "IMG8322"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Azure Blue, Emerald Green, Night Black",
+        "Models": "X6517",
+        "Price": "About 80 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:37:01.303Z"
+  },
+  {
+    "id": "12116",
+    "name": "Infinix Smart 7",
+    "brand": "infinix",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/infinix-smart-7.jpg",
+    "url": "https://www.gsmarena.com/infinix_smart_7-12116.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, February 09",
+        "Status": "Available. Released 2023, February 22"
+      },
+      "Body": {
+        "Dimensions": "163.8 x 75.6 x 8.7 mm (6.45 x 2.98 x 0.34 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 500 nits",
+        "Size": "6.6 inches, 104.6 cm2 (~84.5% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12",
+        "Chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+        "CPU": "Quad-core 2.0 GHz Cortex-A53",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, AF\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Polar Black, Coastal Green, Iceland White, Peacock Blue",
+        "Models": "X6515",
+        "Price": "About 90 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T09:37:09.972Z"
+  }
+]

@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "14214",
+    "name": "Lenovo Idea Tab Plus",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-idea-tab-plus.jpg",
+    "url": "https://www.gsmarena.com/lenovo_idea_tab_plus_5g-14214.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1900 / 2100 / 1800 - cellular model only",
+        "4G bands": "1, 3, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41 - cellular model only",
+        "5G bands": "1, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 71, 77, 78 SA/NSA/Sub6 - cellular model only",
+        "Speed": "HSPA, LTE, 5G - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2025, September 05",
+        "Status": "Available. Released 2025, October"
+      },
+      "Body": {
+        "Dimensions": "278.8 x 181.1 x 6.3 mm (10.98 x 7.13 x 0.25 in)",
+        "Weight": "530 g (1.17 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "Nano-SIM - cellular model only"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 600 nits (typ), 800 nits (HBM)",
+        "Size": "12.1 inches, 424.5 cm2 (~84.1% screen-to-body ratio)",
+        "Resolution": "2560 x 1600 pixels, 16:10 ratio (~249 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades",
+        "Chipset": "Mediatek Dimensity 6400 (6 nm)",
+        "CPU": "Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, (wide), AF",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, DisplayPort, accessory connector pins"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 10200 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Cloud grey, Luna grey, Sand rose",
+        "Models": "TB361ZU, TB361FU, ZAG70922US",
+        "Price": "$ 299.99"
+      },
+      "EU LABEL": {
+        "Energy": "Class F",
+        "Battery": "107:53h endurance, 1000 cycles",
+        "Free fall": "Class E (5 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:40:22.724Z"
+  },
+  {
+    "id": "14215",
+    "name": "Lenovo Idea Tab",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-idea-tab.jpg",
+    "url": "https://www.gsmarena.com/lenovo_idea_tab_5g-14215.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 / 1800 - cellular model only",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 18, 19, 20, 25, 26, 28, 38, 40, 41, 66 - cellular model only",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6 - cellular model only",
+        "Speed": "HSPA, LTE, 5G - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2025, September 07",
+        "Status": "Available. Released 2025, October"
+      },
+      "Body": {
+        "Dimensions": "254.6 x 166.2 x 7 mm (10.02 x 6.54 x 0.28 in)",
+        "Weight": "480 g (1.06 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "Nano-SIM - cellular model only"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits",
+        "Size": "11.0 inches, 350.9 cm2 (~82.9% screen-to-body ratio)",
+        "Resolution": "2560 x 1600 pixels, 16:10 ratio (~274 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 4GB RAM, 256GB 4GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, (wide), AF",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, accessory connector pins"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 7040 mAh",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Luna grey, Polar blue",
+        "Models": "TB336FU, TB336ZU",
+        "Price": "$ 199.99"
+      },
+      "EU LABEL": {
+        "Energy": "Class E",
+        "Battery": "94:01h endurance, 1000 cycles",
+        "Free fall": "Class E (9 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:40:36.473Z"
+  },
+  {
+    "id": "14213",
+    "name": "Lenovo Yoga Tab",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tab.jpg",
+    "url": "https://www.gsmarena.com/lenovo_yoga_tab-14213.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, September 05",
+        "Status": "Available. Released 2025, September"
+      },
+      "Body": {
+        "Dimensions": "255.5 x 165.8 x 8.3 mm (10.06 x 6.53 x 0.33 in)",
+        "Weight": "458 g (1.01 lb)",
+        "Build": "Glass front (Gorilla Glass 7i), aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 144Hz, Dolby Vision, 650 nits (typ), 800 nits (peak)",
+        "Size": "11.1 inches, 357.3 cm2 (~84.3% screen-to-body ratio)",
+        "Resolution": "3200 x 2000 pixels, 16:10 ratio (~340 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, f/2.2, (wide), AF\n2 MP (macro)",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, 101˚ (ultrawide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, DisplayPort, magnetic accessory connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 8860 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Luna Grey, Seashell",
+        "Models": "ZAG60266US, TB710FU",
+        "Price": "About 570 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class F",
+        "Battery": "101:55h endurance, 1000 cycles",
+        "Free fall": "Class E (7 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:40:45.385Z"
+  },
+  {
+    "id": "14075",
+    "name": "Lenovo Tab",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab-14075.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA 850 / 900 / 2100 - cellular model only",
+        "4G bands": "LTE - cellular model only",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2025, August 14",
+        "Status": "Available. Released 2025, August 18"
+      },
+      "Body": {
+        "Dimensions": "235.7 x 154.5 x 7.5 mm (9.28 x 6.08 x 0.30 in)",
+        "Weight": "425 g (14.99 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 400 nits (typ)",
+        "Size": "10.1 inches, 295.8 cm2 (~81.2% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Helio G85 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Video": "1080p"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS - cellular model only",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5100 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Polar Blue, Luna Grey",
+        "Models": "ZAEH0019IN, ZAEH0180IN, ZAEJ0054IN",
+        "Price": "About 110 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:40:54.703Z"
+  },
+  {
+    "id": "14073",
+    "name": "Lenovo Tab One",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-k9.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab_one-14073.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 40, 41, 66 - cellular model only",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2025, March",
+        "Status": "Available. Released 2025, March"
+      },
+      "Body": {
+        "Dimensions": "211 x 124.8 x 8.5 mm (8.31 x 4.91 x 0.33 in)",
+        "Weight": "320 g (11.29 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "TFT LCD, 480 nits (typ)",
+        "Size": "8.7 inches, 214.9 cm2 (~81.6% screen-to-body ratio)",
+        "Resolution": "800 x 1340 pixels, 5:3 ratio (~179 ppi density)",
+        "Protection": "Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Helio G85 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Video": "1080p"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS - cellular model only",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5100 mAh",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Luna grey, Seafoam green",
+        "Models": "TB305FU",
+        "Price": "About 90 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class D",
+        "Battery": "80:53h endurance, 1000 cycles",
+        "Free fall": "Class E (3 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:41:06.229Z"
+  },
+  {
+    "id": "13993",
+    "name": "Lenovo Legion Y700 (Gen 4)",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y700-gen4.jpg",
+    "url": "https://www.gsmarena.com/lenovo_legion_y700_(gen_4)-13993.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, May 08",
+        "Status": "Available. Released 2025, May"
+      },
+      "Body": {
+        "Dimensions": "7 mm thickness",
+        "Weight": "340 g (11.99 oz)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, 165Hz, HDR, 600 nits (typ)",
+        "Size": "8.8 inches, 224.8 cm2",
+        "Resolution": "1904 x 3040 pixels, 16:10 ratio (~408 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM"
+      },
+      "Main Camera": {
+        "Single": "50 MP, (wide), PDAF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "1x USB Type-C 2.0 & 1x USB Type-C 3.2 Gen2, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Unspecified"
+      },
+      "Battery": {
+        "Type": "Li-Po 7600 mAh",
+        "Charging": "68W wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "TB322FC, ZAG40002CN",
+        "Price": "About 400 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:41:16.364Z"
+  },
+  {
+    "id": "13733",
+    "name": "Lenovo Idea Tab Pro",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-idea-tab-pro.jpg",
+    "url": "https://www.gsmarena.com/lenovo_idea_tab_pro-13733.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, March 14",
+        "Status": "Available. Released 2025, March 14"
+      },
+      "Body": {
+        "Dimensions": "291.8 x 189.1 x 6.9 mm (11.49 x 7.44 x 0.27 in)",
+        "Weight": "620 g (1.37 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 144Hz, HDR10, 400 nits",
+        "Size": "12.7 inches, 467.7 cm2 (~84.8% screen-to-body ratio)",
+        "Resolution": "2944 x 1840 pixels, 16:10 ratio (~273 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades",
+        "Chipset": "Mediatek Dimensity 8300 (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)",
+        "GPU": "Mali G615-MC6"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, (wide), AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, DisplayPort, OTG, accessory connector pins"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only), compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 10200 mAh",
+        "Charging": "45W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Luna grey, Green",
+        "Models": "ZAE40142GR, TB373FU",
+        "Price": "About 390 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class F",
+        "Battery": "112:43h endurance, 1000 cycles",
+        "Free fall": "Class E (14 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:41:25.601Z"
+  },
+  {
+    "id": "13666",
+    "name": "Lenovo Yoga Tab Plus",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2025,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-yoga-tab-plus.jpg",
+    "url": "https://www.gsmarena.com/lenovo_yoga_tab_plus-13666.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, January 07",
+        "Status": "Available. Released 2025, February 01"
+      },
+      "Body": {
+        "Dimensions": "290.9 x 188.3 x 8.5 mm (11.45 x 7.41 x 0.33 in)",
+        "Weight": "640 g (1.41 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 144Hz, Dolby Vision, 650 nits (typ), 900 nits (peak)",
+        "Size": "12.7 inches, 467.7 cm2 (~85.4% screen-to-body ratio)",
+        "Resolution": "2944 x 1840 pixels, 16:10 ratio (~273 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 3 major Android upgrades",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 16GB RAM, 512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, (wide), AF\n2 MP (macro)",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, 101˚ (ultrawide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (6 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG, DisplayPort, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Li-Po 10200 mAh",
+        "Charging": "45W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Seashell, Tidal teal",
+        "Models": "ZAEG0096US, TB520FU",
+        "Price": "$ 769.99"
+      },
+      "EU LABEL": {
+        "Energy": "Class F",
+        "Battery": "123:10h endurance, 1000 cycles",
+        "Free fall": "Class E (13 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:41:32.750Z"
+  },
+  {
+    "id": "13438",
+    "name": "Lenovo Legion Y700 (2025)",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-tab-gen3.jpg",
+    "url": "https://www.gsmarena.com/lenovo_legion_y700_(2025)-13438.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, October 16",
+        "Status": "Available. Released 2024, October"
+      },
+      "Body": {
+        "Dimensions": "208.5 x 129.5 x 7.8 mm (8.21 x 5.10 x 0.31 in)",
+        "Weight": "350 g (12.35 oz)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 165Hz, Dolby Vision, HDR10, 500 nits (typ), 900 nits (HBM)",
+        "Size": "8.8 inches, 224.5 cm2 (~83.2% screen-to-body ratio)",
+        "Resolution": "1600 x 2560 pixels, 16:10 ratio (~343 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 3 major Android upgrades",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, (wide)\n2 MP (macro)",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band or tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "1x USB Type-C & 1x USB Type-C 3.1 Gen2, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6550 mAh",
+        "Charging": "68W wired\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Eclipse Black",
+        "Models": "TB321FU",
+        "Price": "About 550 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class D",
+        "Battery": "103:52h endurance, 1000 cycles",
+        "Free fall": "Class E (13 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:41:39.462Z"
+  },
+  {
+    "id": "13266",
+    "name": "Lenovo Legion Tab",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y700-2023.jpg",
+    "url": "https://www.gsmarena.com/lenovo_legion_tab-13266.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, August 15"
+      },
+      "Body": {
+        "Dimensions": "208.5 x 129.5 x 7.6 mm (8.21 x 5.10 x 0.30 in)",
+        "Weight": "350 g (12.35 oz)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 144Hz, Dolby Vision, HDR10, 500 nits (typ)",
+        "Size": "8.8 inches, 224.5 cm2 (~83.2% screen-to-body ratio)",
+        "Resolution": "1600 x 2560 pixels, 16:10 ratio (~343 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Qualcomm SM8475P Snapdragon 8+ Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, (wide)\n2 MP (macro)",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "2x USB Type-C 3.1 Gen2, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6550 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Storm Grey",
+        "Models": "ZACW0029IN",
+        "Price": "About 380 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:41:47.799Z"
+  },
+  {
+    "id": "13186",
+    "name": "Lenovo Tab K11 Plus",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-k-11-plus.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab_k11_plus-13186.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 19, 20, 26, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2024, July 01",
+        "Status": "Available. Released 2024, July"
+      },
+      "Body": {
+        "Dimensions": "169 x 268.7 x 7.2 mm (6.65 x 10.58 x 0.28 in)",
+        "Weight": "520 g (1.15 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 400 nits (typ)",
+        "Size": "11.45 inches, 373.2 cm2 (~82.2% screen-to-body ratio)",
+        "Resolution": "1200 x 2000 pixels, 5:3 ratio (~204 ppi density)",
+        "Protection": "Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, (wide), AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS - cellular model only",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, magnetic connector pins"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 8600 mAh",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Luna grey",
+        "Models": "TB352FU",
+        "Price": "About 200 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class F",
+        "Battery": "92:26h endurance, 1000 cycles",
+        "Free fall": "Class E (3 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:42:02.769Z"
+  },
+  {
+    "id": "13164",
+    "name": "Lenovo Tab Plus",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-plus.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab_plus-13164.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, June 20",
+        "Status": "Available. Released 2024, June"
+      },
+      "Body": {
+        "Dimensions": "268.3 x 174.3 x 7.7 - 13.6 mm",
+        "Weight": "650 g (1.43 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 400 nits (typ)",
+        "Size": "11.5 inches, 376.4 cm2 (~80.5% screen-to-body ratio)",
+        "Resolution": "1200 x 2000 pixels, 5:3 ratio (~203 ppi density)",
+        "Protection": "Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (8 JBL Hi-Fi speakers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro"
+      },
+      "Battery": {
+        "Type": "Li-Po 8600 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Luna grey",
+        "Models": "TB351FU",
+        "Price": "About 280 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class D",
+        "Battery": "134:05h endurance, 1000 cycles",
+        "Free fall": "Class D (72 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:42:11.550Z"
+  },
+  {
+    "id": "12783",
+    "name": "Lenovo Tab M11",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2024,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m11.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab_m11-12783.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 66, 71",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, January 09",
+        "Status": "Available. Released 2024, April"
+      },
+      "Body": {
+        "Dimensions": "166.3 x 255.3 x 7.2 mm (6.55 x 10.05 x 0.28 in)",
+        "Weight": "465 g (1.03 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 400 nits (typ)",
+        "Size": "11.0 inches, 350.9 cm2 (~82.6% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek MT6769H Helio G88 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, (wide)\nor\n8 MP, f/2.0, (wide)",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Li-Po 7040 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Luna grey, Seafoam green",
+        "Models": "TB330FU, TB330KU",
+        "Price": "About 140 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class F",
+        "Battery": "76:08h endurance, 1000 cycles",
+        "Free fall": "Class E (1 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:42:26.171Z"
+  },
+  {
+    "id": "12476",
+    "name": "Lenovo Legion Y700 (2023)",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-legion-y700-2023.jpg",
+    "url": "https://www.gsmarena.com/lenovo_legion_y700_(2023)-12476.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, July 22",
+        "Status": "Available. Released 2023, July 22"
+      },
+      "Body": {
+        "Dimensions": "208.9 x 129.5 x 7.6 mm (8.22 x 5.10 x 0.30 in)",
+        "Weight": "350 g (12.35 oz)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 144Hz, Dolby Vision, HDR10, 500 nits (typ)",
+        "Size": "8.8 inches, 224.5 cm2 (~83.0% screen-to-body ratio)",
+        "Resolution": "1600 x 2560 pixels, 16:10 ratio (~343 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, ZUI 14",
+        "Chipset": "Qualcomm SM8475P Snapdragon 8+ Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, (wide)\n2 MP (macro)",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "2x USB Type-C 3.1 Gen2, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6550 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "Price": "About 600 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:42:31.059Z"
+  },
+  {
+    "id": "12443",
+    "name": "Lenovo Tab P12",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p12-new.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab_p12-12443.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, July 28",
+        "Status": "Available. Released 2023, July 28"
+      },
+      "Body": {
+        "Dimensions": "293.3 x 190.7 x 6.9 mm (11.55 x 7.51 x 0.27 in)",
+        "Weight": "615 g (1.36 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "12.7 inches, 467.7 cm2 (~83.6% screen-to-body ratio)",
+        "Resolution": "1840 x 2944 pixels, 16:10 ratio (~273 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek Dimensity 7050 (6 nm)",
+        "CPU": "Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MC4"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, (wide), AF",
+        "Features": "LED flash",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, (ultrawide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 10200 mAh",
+        "Charging": "30W wired, QC4"
+      },
+      "Misc": {
+        "Colors": "Storm Grey, Oat",
+        "Models": "ZACH0165US",
+        "Price": "About 400 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:42:41.248Z"
+  },
+  {
+    "id": "12425",
+    "name": "Lenovo Tab M10",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m10-5g-10.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab_m10-12425.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE / 5G",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, July 14",
+        "Status": "Available. Released 2023, July 15"
+      },
+      "Body": {
+        "Dimensions": "160.3 x 252.7 x 8.3 mm (6.31 x 9.95 x 0.33 in)",
+        "Weight": "490 g (1.08 lb)",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 400 nits",
+        "Size": "10.6 inches, 319.8 cm2 (~79.0% screen-to-body ratio)",
+        "Resolution": "1200 x 2000 pixels, 5:3 ratio (~220 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Unspecified"
+      },
+      "Battery": {
+        "Type": "Li-Po 7700 mAh",
+        "Charging": "20W, PD3.0, QC3"
+      },
+      "Misc": {
+        "Colors": "Abyss Blue",
+        "Price": "About 400 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:42:45.863Z"
+  },
+  {
+    "id": "12071",
+    "name": "Lenovo Tab Extreme",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-extreme.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab_extreme-12071.php",
+    "specs": {
+      "Network": {
+        "Technology": "No cellular connectivity",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, January 05",
+        "Status": "Available. Released 2023, June 13"
+      },
+      "Body": {
+        "Dimensions": "327.8 x 210.8 x 5.9 mm (12.91 x 8.30 x 0.23 in)",
+        "Weight": "740 g (1.63 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "OLED, 120Hz, HDR10+, Dolby Vision",
+        "Size": "14.5 inches, 609.8 cm2 (~88.2% screen-to-body ratio)",
+        "Resolution": "1876 x 3000 pixels, 16:10 ratio (~244 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek Dimensity 9000 (4 nm)",
+        "CPU": "Octa-core (1x3.05 GHz Cortex-X2 & 3x2.85 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510)",
+        "GPU": "Mali-G710 MC10"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, f/2.4, (wide), AF\n5 MP, f/2.2, (ultrawide)",
+        "Features": "LED flash",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, (ultrawide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "Unspecified",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2 and USB Type-C 2.0, OTG, DisplayPort, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 12300 mAh",
+        "Charging": "68W wired\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Storm Grey",
+        "Price": "About 880 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:42:58.163Z"
+  },
+  {
+    "id": "12521",
+    "name": "Lenovo Tab M8 (4th Gen)",
+    "brand": "lenovo",
+    "category": "tablet",
+    "launchYear": 2023,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-m8-4th-gen.jpg",
+    "url": "https://www.gsmarena.com/lenovo_tab_m8_(4th_gen)-12521.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 19, 20, 26, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2023, April 22",
+        "Status": "Available. Released 2023, May"
+      },
+      "Body": {
+        "Dimensions": "197.8 x 119.8 x 9 mm (7.79 x 4.72 x 0.35 in)",
+        "Weight": "320 g (11.29 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 350 nits (typ)",
+        "Size": "8.0 inches, 185.6 cm2 (~78.3% screen-to-body ratio)",
+        "Resolution": "800 x 1280 pixels, 16:10 ratio (~189 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13",
+        "Chipset": "Mediatek MT8768 Helio A22 (12 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF or 8MP, AF",
+        "Video": "1080p"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS - cellular model only",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5100 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Abyss blue, Arctic grey",
+        "Price": "About 150 EUR"
+      }
+    },
+    "scrapedAt": "2026-02-10T10:43:18.806Z"
+  }
+]
