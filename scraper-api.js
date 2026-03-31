@@ -15,7 +15,7 @@ dotenv.config();
 // =========================
 
 const app = express();
-const PORT = process.env.PORT || 6000;
+const PORT = process.env.PORT || 5020;
 const BASE = "https://www.gsmarena.com";
 const API_KEY = process.env.SCRAPERAPI_KEY;
 const MIN_DELAY = 1000; // 1 second for API (faster than batch scraping)
@@ -337,16 +337,13 @@ async function uploadToDatabase(product) {
 // SCRAPING LOGIC
 // =========================
 
-async function scrapeProduct(productUrl, seenProducts) {
+async function scrapeProduct(productUrl, seenProducts, forceRescrape = false) {
   const productId = extractProductId(productUrl);
   if (!productId) {
     throw new Error(`Could not extract product ID from URL: ${productUrl}`);
   }
   
-  // Check if already seen
-  if (seenProducts[productId]) {
-    return { success: false, message: "Product already scraped" };
-  }
+  // Always scrape - no duplicate checking
   
   try {
     console.log(`🔍 Scraping product: ${productUrl}`);
@@ -354,13 +351,6 @@ async function scrapeProduct(productUrl, seenProducts) {
     const product = parseProductPage(html, productUrl);
     
     // No launch year validation - scrape all products
-    
-    // Mark as seen
-    seenProducts[productId] = {
-      id: productId,
-      name: product.name,
-      scrapedAt: product.scrapedAt
-    };
     
     // Save to local file
     if (!fs.existsSync(OUTPUT_DIR)) {
@@ -443,7 +433,6 @@ app.post('/scrape', async (req, res) => {
     const result = await scrapeProduct(productUrl, seenProducts);
     
     if (result.success) {
-      saveSeenProducts(seenProducts);
       console.log(`✅ Successfully scraped and stored: ${result.product.name}`);
       return res.json({
         success: true,
@@ -473,10 +462,11 @@ app.post('/scrape', async (req, res) => {
 
 // Bulk scraping endpoint
 app.post('/scrape-bulk', async (req, res) => {
-  const { productUrls } = req.body;
+  const { productUrls, forceRescrape = false } = req.body;
   
   console.log(`📦 Bulk scrape request received from IP: ${req.ip}`);
   console.log(`📋 Number of URLs: ${productUrls ? productUrls.length : 0}`);
+  console.log(`🔄 Force re-scrape: ${forceRescrape}`);
   
   if (!productUrls || !Array.isArray(productUrls)) {
     console.log(`❌ Invalid productUrls array`);
@@ -509,8 +499,6 @@ app.post('/scrape-bulk', async (req, res) => {
         results.push({ url, success: false, message: error.message });
       }
     }
-    
-    saveSeenProducts(seenProducts);
     
     const successCount = results.filter(r => r.success).length;
     
@@ -566,9 +554,10 @@ app.listen(PORT, '0.0.0.0', () => {
   console.log(`🌐 Local access: http://localhost:${PORT}`);
   console.log(`🌐 Network access: http://192.168.190.1:${PORT}`);
   console.log(`🌐 External access: http://182.16.16.202:${PORT}`);
-  console.log(`📊 Health check: GET http://182.16.16.202:${PORT}/health`);
-  console.log(`🔍 Single scrape: POST http://182.16.16.202:${PORT}/scrape`);
-  console.log(`📦 Bulk scrape: POST http://182.16.16.202:${PORT}/scrape-bulk`);
+  console.log(`🌐 External access: http://182.16.16.189:${PORT}`);
+  console.log(`📊 Health check: GET http://182.16.16.189:${PORT}/health`);
+  console.log(`🔍 Single scrape: POST http://182.16.16.189:${PORT}/scrape`);
+  console.log(`📦 Bulk scrape: POST http://182.16.16.189:${PORT}/scrape-bulk`);
   console.log(`💰 Credits limit: ${MAX_CREDITS}`);
 });
 
