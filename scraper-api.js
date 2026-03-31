@@ -1,10 +1,9 @@
 import express from 'express';
-import axios from 'axios';
-import * as cheerio from 'cheerio';
-import fs from 'fs';
-import path from 'path';
-import os from 'os';
-import dotenv from 'dotenv';
+import axios from "axios";
+import * as cheerio from "cheerio";
+import fs from "fs";
+import path from "path";
+import dotenv from "dotenv";
 import sql from 'mssql';
 import cors from 'cors';
 
@@ -553,33 +552,6 @@ app.use((req, res) => {
 });
 
 // =========================
-// IP DETECTION FUNCTIONS
-// =========================
-
-function getLocalIP() {
-  const interfaces = os.networkInterfaces();
-  
-  for (const name of Object.keys(interfaces)) {
-    for (const iface of interfaces[name]) {
-      if (iface.family === "IPv4" && !iface.internal) {
-        return iface.address;
-      }
-    }
-  }
-  
-  return "localhost";
-}
-
-async function getPublicIP() {
-  try {
-    const res = await axios.get("https://api.ipify.org?format=json");
-    return res.data.ip;
-  } catch {
-    return null;
-  }
-}
-
-// =========================
 // START SERVER
 // =========================
 
@@ -588,23 +560,15 @@ if (!API_KEY) {
   process.exit(1);
 }
 
-app.listen(PORT, '0.0.0.0', async () => {
-  const localIP = getLocalIP();
-  const publicIP = await getPublicIP();
-  
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`🚀 GSM Arena Scraper API running on port ${PORT}`);
   console.log(`📅 Scraping all products (no year limit)`);
-  
   console.log(`🌐 Local access: http://localhost:${PORT}`);
-  console.log(`🌐 Network access: http://${localIP}:${PORT}`);
-  
-  if (publicIP) {
-    console.log(`🌐 External access: http://${publicIP}:${PORT}`);
-  }
-  
-  console.log(`📊 Health check: GET http://${localIP}:${PORT}/health`);
-  console.log(`🔍 Single scrape: POST http://${localIP}:${PORT}/scrape`);
-  console.log(`📦 Bulk scrape: POST http://${localIP}:${PORT}/scrape-bulk`);
+  console.log(`🌐 Network access: http://192.168.190.1:${PORT}`);
+  console.log(`🌐 External access: http://182.16.16.202:${PORT}`);
+  console.log(`📊 Health check: GET http://182.16.16.202:${PORT}/health`);
+  console.log(`🔍 Single scrape: POST http://182.16.16.202:${PORT}/scrape`);
+  console.log(`📦 Bulk scrape: POST http://182.16.16.202:${PORT}/scrape-bulk`);
   console.log(`💰 Credits limit: ${MAX_CREDITS}`);
 });
 
