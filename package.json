@@ -7,6 +7,8 @@
   "scripts": {
     "dev": "node GSMArena.js",
     "scrape": "node GSMArena-Refactored.js",
+    "api": "node scraper-api.js",
+    "direct-scrape": "node direct-scraper.js",
     "extract-media": "node media-extractor.js",
     "convert-excel": "node excel-converter.js",
     "upload-sql": "node upload-to-sql.js",
@@ -21,7 +23,9 @@
   "dependencies": {
     "axios": "^1.13.3",
     "cheerio": "^1.2.0",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.4",
+    "express": "^4.18.2",
     "fs": "^0.0.1-security",
     "mssql": "^12.2.0",
     "xlsx": "^0.18.5"

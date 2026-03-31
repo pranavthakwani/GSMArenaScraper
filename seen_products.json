@@ -1,4 +1,59 @@
 {
+  "1827": {
+    "id": "1827",
+    "name": "Apple iPhone",
+    "scrapedAt": "2026-03-31T11:42:43.638Z"
+  },
+  "2826": {
+    "id": "2826",
+    "name": "Apple iPhone 3GS",
+    "scrapedAt": "2026-03-31T12:19:04.901Z"
+  },
+  "3275": {
+    "id": "3275",
+    "name": "Apple iPhone 4",
+    "scrapedAt": "2026-03-31T12:28:31.184Z"
+  },
+  "3621": {
+    "id": "3621",
+    "name": "Samsung I9100 Galaxy S II",
+    "scrapedAt": "2026-03-31T12:16:55.842Z"
+  },
+  "4238": {
+    "id": "4238",
+    "name": "Samsung I9300 Galaxy S III",
+    "scrapedAt": "2026-03-31T12:13:35.241Z"
+  },
+  "6033": {
+    "id": "6033",
+    "name": "Samsung Galaxy S5",
+    "scrapedAt": "2026-03-31T12:07:10.331Z"
+  },
+  "6849": {
+    "id": "6849",
+    "name": "Samsung Galaxy S6",
+    "scrapedAt": "2026-03-31T12:09:47.804Z"
+  },
+  "8161": {
+    "id": "8161",
+    "name": "Samsung Galaxy S8",
+    "scrapedAt": "2026-03-31T12:04:51.990Z"
+  },
+  "8966": {
+    "id": "8966",
+    "name": "Samsung Galaxy S9",
+    "scrapedAt": "2026-03-31T11:59:13.571Z"
+  },
+  "9536": {
+    "id": "9536",
+    "name": "Samsung Galaxy S10",
+    "scrapedAt": "2026-03-31T11:55:56.180Z"
+  },
+  "10170": {
+    "id": "10170",
+    "name": "Apple iPhone SE (2020)",
+    "scrapedAt": "2026-03-31T11:45:42.043Z"
+  },
   "11290": {
     "id": "11290",
     "name": "Samsung Galaxy M34 5G",
@@ -2350,6 +2405,11 @@
     "category": "tablet",
     "launchYear": 2023,
     "scrapedAt": "2026-02-10T11:00:18.031Z"
+  },
+  "12650": {
+    "id": "12650",
+    "name": "Oukitel WP23Pro",
+    "scrapedAt": "2026-03-31T11:21:38.652Z"
   },
   "12683": {
     "id": "12683",

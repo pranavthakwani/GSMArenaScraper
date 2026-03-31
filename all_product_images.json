@@ -1,0 +1,2573 @@
+{
+  "total_products": 210,
+  "scraped_at": "2026-02-12T11:35:05.633Z",
+  "products": [
+    {
+      "name": "APPLE iPhone 15",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX1W1XY",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/71657TiFeHL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51brdXeugJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/712CBkmhLhL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61f4dTush1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81BnjSLm2oL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/617JW0DrG8L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "APPLE iPhone 16",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/iPhone-16-128-GB-Ultramarine/dp/B0DGJ7TGDR",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/712SuRmHG4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51g2H4pmpwL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PMoPfbWKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kahbX9OlL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81YnXfZ-NwL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/610Wp+uURFL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "APPLE iPhone 16 Plus",
+      "status": "ERROR",
+      "error": "Request failed with status code 404",
+      "images": []
+    },
+    {
+      "name": "APPLE iPhone 16 Pro Max",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/iPhone-16-Pro-Max-TB/dp/B0DGJD75G2",
+      "color": "SQUARE",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/61PBLEFPoKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61PAfRk2C0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71YIi+0qWUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ta3jyFvIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81d1Ih5UHDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61QhmWzbyJL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "APPLE iPhone 16E",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/iPhone-16e-128-Intelligence-Supersized/dp/B0DXQH1DBS",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/61FMZ9rSZUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71oGxcr-c9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+WS9ij7SL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nY5YEi8uL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ofTWx5rPL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61uWn7-nj3L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "APPLE iPhone 17",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/iPhone-17-256-Promotion-Resistance/dp/B0FQFYXCC4",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/617O+RkwdPL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91T1qDc+uGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/715MT7SzKiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716ITcuqXLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZC8eeHaNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61RT4wGIoQL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "APPLE iPhone 17 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQFYYPZF",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/618vU2qKXQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91JZmCrB9aL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71FKiQAdCKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81MxB61jptL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71zwfwSC3EL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61GINuBf3JL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "APPLE iPhone 17 Pro Max",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Apple-iPhone-Pro-Max-256GB/dp/B0G6KNFJDH",
+      "color": "Unknown",
+      "image_count": 2,
+      "images": [
+        "https://m.media-amazon.com/images/I/413ctjANOjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413QDpMh-qL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "APPLE iPhone Air",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/iPhone-Air-256-GB-Promotion/dp/B0FQFJGP8S",
+      "color": "SQUARE",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/61Ce-6B6x+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61izXOz7xLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51mq9k3RAFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71qmq2lXNuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71t3D5mhhiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61lyhbxf2PL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/614MsdnfBxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61knPJtYRpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61+0aSXsyGL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "GOOGLE Pixel 9A",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Google-Pixel-Obsidian-256-RAM/dp/B0F6CY1S9Z",
+      "color": "SQUARE",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/61vPDPr-RzL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/518I6it12pL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61GXW4s1TKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71nKDN-aLzL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71OWxR5itAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71e7E8aaNjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ByiuWzU6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Tcv-2K3hL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "GOOGLE Pixel 10",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Google-Pixel-Indigo-256GB-Storage/dp/B0FP31YRSF",
+      "color": "Unknown",
+      "image_count": 1,
+      "images": [
+        "https://m.media-amazon.com/images/I/41CV2313l5L._SL1200_.jpg"
+      ]
+    },
+    {
+      "name": "GOOGLE Pixel 10 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Google-Pixel-10-Pro-Moonstone/dp/B0FPFM8HPN",
+      "color": "Unknown",
+      "image_count": 1,
+      "images": [
+        "https://m.media-amazon.com/images/I/51mfJk2KdML._SL1080_.jpg"
+      ]
+    },
+    {
+      "name": "GOOGLE Pixel 10 Pro XL",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Google-Pixel-Pro-Obsidian-256/dp/B0FQNBZ6MF",
+      "color": "Unknown",
+      "image_count": 4,
+      "images": [
+        "https://m.media-amazon.com/images/I/51TvUow3bKL._SL1024_.jpg",
+        "https://m.media-amazon.com/images/I/61aHXPY67xL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-UpS30XuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61L8e0iT6ML._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "GOOGLE Pixel 10 Pro Fold",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Google-Pixel-Pro-Fold-Moonstone/dp/B0G4MZXHJX",
+      "color": "Unknown",
+      "image_count": 3,
+      "images": [
+        "https://m.media-amazon.com/images/I/51qDiwQ62HL._SL1382_.jpg",
+        "https://m.media-amazon.com/images/I/91TWoBPvQML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61wC8dXP3+L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "INFINIX Hot 30 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Infinix-HOT-128-Aurora-Blue/dp/B0CC5DS739",
+      "color": "Unknown",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/812WxBUUxDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71nxMxFg9cL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7146ZzfpyKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71GwnivmoJL._SL1082_.jpg",
+        "https://m.media-amazon.com/images/I/71pKgydI1jL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71H4lCR2DZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61g2WRwcfXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/711vmsMXK9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71w4GZrhKvL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "INFINIX GT 30 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Infinix-Storage-MediaTek-Ultimate-Triggers/dp/B0FH2GC38C",
+      "color": "Unknown",
+      "image_count": 21,
+      "images": [
+        "https://m.media-amazon.com/images/I/71Y6oJz3JmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61A8tz3hloL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61F5jyL+rDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71s1ggGxCoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81d7BH6ZJlL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818i37GbpuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71mbfBhqfJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Myi4OUAjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rx5kgEYUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81aCoQkf95L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81GI+73TbDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714bF+12CeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81t+a-N9wuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71JsabxMFdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71-OQPXcxZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71WyaD7VoOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/814O4iFJkCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71jCM+4O7YL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61b2Wdp7iEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41yEliz0PgL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61yuVfBX3ZL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "INFINIX Smart 9 HD",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Infinix-Smart-HD-Storage-Display/dp/B0DPHV7GPG",
+      "color": "Unknown",
+      "image_count": 14,
+      "images": [
+        "https://m.media-amazon.com/images/I/71LEdAu9VAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61cLZROfzJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61tH9TylplL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71hKINOEBNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91DC+GbBPlL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71lIq2I84lL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61dVxcD+gEL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61fdGlX8aML._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61+tO04iloL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61Bki7YtLUL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/713vVSnUbNL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71CaxcJi+6L._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61R7PvaplmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ATuZWyhKL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "INFINIX Hot 60",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Infinix-Caramel-Storage-Gaming-One-Tap/dp/B0FLXMBT48",
+      "color": "SQUARE",
+      "image_count": 24,
+      "images": [
+        "https://m.media-amazon.com/images/I/81zrnVvk3OL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61A5DrWpnBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61oMvw5LwxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81hw3PGxq8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811gmdatIFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Yv7V+WFmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EoOthyqIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81GI6f+HnuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NMVGBNRKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Wb1bo8AIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fF+WZSvFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Qg5RaFR7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7180p9rkL0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Jp57UQmWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81utSrHPMdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/610v5FsY0lL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ZxOuZc-bL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714qg9fYNeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71N84suGPjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ZbTQu+I+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/717Q+DV-PhL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ZSVHhzlrL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61cVBE9MrHL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71I-GnbnV4L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "INFINIX Smart 10",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Infinix-Smart-Sleek-Black-RAM/dp/B0FN7KF2BF",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/519QeB5bMEL._SL1176_.jpg",
+        "https://m.media-amazon.com/images/I/61iSAyBmLKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Szli4zNQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rlszD+10L._SL1152_.jpg",
+        "https://m.media-amazon.com/images/I/518k5ZTgmEL._SL1088_.jpg",
+        "https://m.media-amazon.com/images/I/51hkrAOga8L._SL1084_.jpg",
+        "https://m.media-amazon.com/images/I/61CJ00vMHEL._SL1108_.jpg",
+        "https://m.media-amazon.com/images/I/51z1dXg-K8L._SL1096_.jpg"
+      ]
+    },
+    {
+      "name": "INFINIX GT 30",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Infinix-Storage-MediaTek-Ultimate-Triggers/dp/B0FP2PDV44",
+      "color": "Unknown",
+      "image_count": 3,
+      "images": [
+        "https://m.media-amazon.com/images/I/61ajKCIadLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61GYV2i4xcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61AQF6tuMHL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "INFINIX Hot 60i",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Infinix-Storage-6000mAh-Biggest-Advanced/dp/B0FN4GTCVP",
+      "color": "SQUARE",
+      "image_count": 23,
+      "images": [
+        "https://m.media-amazon.com/images/I/71kTh5GsauL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/619fl-NsRSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61NrLgGubhL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61AxNioYcrL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81S8sFjyrOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71RNw+wBp+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71A28v7v47L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81csP5WTEBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71nmEF6UdyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71h5EtJ3T6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/812fFcBOBEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81MNyvk0MgL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81G+2muwPKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NomjpnkXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/817ASeYVnSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Srna7V1pL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EHTbLFz1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71N84suGPjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61MiEnC6vIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61hzipQPznL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61edISUYOeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71lwa-2TZ6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/718vEe5ySzL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "IQOO Neo 10R",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW47JCHW",
+      "color": "SQUARE",
+      "image_count": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/71Vdww6kzhL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61T-WBv27iL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61zZATvUU2L._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61wL8Qbo0HL._SL1200_.jpg"
+      ]
+    },
+    {
+      "name": "IQOO 15 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/TheGiftKart-Shockproof-Compatible-MagSafe-Translucent/dp/B0FXH5MN1N",
+      "color": "Unknown",
+      "image_count": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/51CcYsO72uL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61ZoYxOk6YL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/516xsgD+LiL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61sSMvM3ayL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/613gLtoaYdL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/512MAlS8ACL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61rGr1lpV6L._SL1000_.jpg"
+      ]
+    },
+    {
+      "name": "ITEL P40+",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/itel-7000mAh-Charging-Faceunlock-Fingerprint/dp/B0C8VZ2JM5",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/6177VBLqO7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61egqNrEC-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51BGtR-onSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/513lU33b5xL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81leaBu+EEL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/61Ok0s0Z-kL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6161xqXmzaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41DpsGBI3KL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ITEL S23+",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Display-Display-Fingerprint-Charging-Energetic/dp/B0CSKKJK88",
+      "color": "Unknown",
+      "image_count": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/71ULCuIo+aL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61SOkLYuzvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ZprvkmfoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LrhcN1RNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7108CoxoC6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51hvqK39jnL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51zeC1at1cL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ITEL P55",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Dimensity-Memory-5000mAh-Battery-Warranty/dp/B0CHJN2HNZ",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/71UxGrhiy+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ajfWfiITL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+fG9077jL._SL1480_.jpg",
+        "https://m.media-amazon.com/images/I/61gIDaY3bBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-SyimqnrL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71QRFidi6CL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/612H8AKYv9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Lf9I8qN+L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ITEL A90",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/itel-a90/s?k=itel+a90",
+      "color": "Unknown",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "name": "MI Redmi 13C 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Redmi-Startrail-Storage-MediaTek-Dimensity/dp/B0CNX7K9NC",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/81Z1scL6HvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811mRpwWjJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Lo6IAE5bL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81mw0VeB4AL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51IGGF-582L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51aFZI2UUTL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MI Redmi 13 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Redmi-Orchid-128GB-Without-Offer/dp/B0F2MLLPQB",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/81uX-W-UaoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71szqdh2+DL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71CgI7hYXGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71leOBQ6M1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZZuBS2mvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81yHIE2RXpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71yXwVDmQiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+hHWjEhyL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MI Redmi 14C 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/redmi-14c-5g-cover/s?k=redmi+14c+5g+cover",
+      "color": "Unknown",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "name": "MI Redmi Note 14 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Redmi-Note-14-5G-Dimensity/dp/B0DPFSJV2Z",
+      "color": "SQUARE",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/71IIxHUk3pL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/819ZuIODhpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ILbBEwP3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818UBXbozWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710KCMuoecL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LCkb6X-XL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71gFvRAk8aL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+a1GKFXSL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MI Redmi Note 14 Pro 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/mi-redmi-note-14-pro/s?k=mi+redmi+note+14+pro",
+      "color": "Unknown",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "name": "MI Redmi Note 14 Pro+ 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Exclusive-Plus-Redmi-Note-Pro/dp/B0DRM6VMSL",
+      "color": "Unknown",
+      "image_count": 1,
+      "images": [
+        "https://m.media-amazon.com/images/I/81-4tnJnbHL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MI Redmi A5",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/amazon-basics-Compatible-Protection-Lavender/dp/B0F5HQCR5H",
+      "color": "SQUARE",
+      "image_count": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/71N6IXwTjfL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71hur1+xeCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71foPeKPjWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71yhDiEtfaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Da3+KeO1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71GryifRn8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71wnxkW-QJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/8157PfXgT6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714i192V5wL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71TLHi709nL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71BtZVGz-GL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71JGgmGGXaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71oJ7fVwxiL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MI Redmi 15",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Redmi-Midnight-Segments-7000mAhA-Snapdragon/dp/B0FJFT4VDY",
+      "color": "SQUARE",
+      "image_count": 16,
+      "images": [
+        "https://m.media-amazon.com/images/I/81dblfYZOYL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/819Zin05rLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71TWHLiHe3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UX6b4nvbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71futxDbi5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71UZY-Z9wbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71HVTmr68BL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Uzv5jIbkL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iuyacAPmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71PG40V41NL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Q8EXFLv0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/810lQDe-5aL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81b-nTDFvRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71jnI5DPi-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71v4+LA3M6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/812OvmyYPmL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MI Redmi 15C",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Midnight-Segments-MediaTek-Dimensity-Charging/dp/B0G2BBWKCP",
+      "color": "SQUARE",
+      "image_count": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/71hOqmhz9RL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71lvfW+vheL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81BsFW8qDEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Slfw0e+UL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/810hfPxXtOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81mcndhorBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81BkN-5aZuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/718pN0ymL0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Ml1C5WKbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81JqBxHE+gL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81K9476FucL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81eElSw1tJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/719GNPKA8OL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G24 Power",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Motorola-Power-128GB-Storage-Blue/dp/B0CV48QSRV",
+      "color": "Unknown",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/71TIhnmTxRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71MYVeAwXuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71uGzHw9fiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71t1K-O579L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710m6g6zjiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/715BuGfeoJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Z35MUWsEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/711ZU94Z7xL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71AtfrjpBJL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G64",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Motorola-G64-Expandable-Dimensity-Processor/dp/B0DJ7Y929W",
+      "color": "SQUARE",
+      "image_count": 24,
+      "images": [
+        "https://m.media-amazon.com/images/I/71ot0jYihEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61QH04sdmLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714SYsLvyVL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61fVEcZyMQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/713LZYMpgSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/812Vqq0NVqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Ax1qatSDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61hrLALtfzL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61uwy2JCN7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61hwtds3G8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61hWPpMmR6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/911BArDAkWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71mY-JrwPML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/616IGf+xJKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/616Dwcmi6UL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71SDxaHNtPL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41oGuSnRFHL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/417uCLS4TcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q9vBNn08L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41xTOKc4GZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mPJ89DaBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6127t7BJDnL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61V6yv0NCaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61pWahR9JAL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G85",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Moto-G85-128-Cobalt-Blue/dp/B0D9LS6MVV",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/61UAzHouDKL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/51nIIzw9OAL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/51SZ-Hcp9jL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/51Tg46SfD+L._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/51Wgq-AJTNL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/71kvfdqzj2L._SL1280_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G45",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Motorola-Brilliant-Blue-128GB-Storage/dp/B0DDY9HMJG",
+      "color": "Unknown",
+      "image_count": 1,
+      "images": [
+        "https://m.media-amazon.com/images/I/61E47wrJycL._SL1318_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G35",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/-/hi/Motorola-%E0%A4%9C%E0%A5%80-%E0%A4%B2%E0%A5%80%E0%A4%AB-%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8-128/dp/B0DPW2M4JR",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/61s1+nNRFbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61reU8OD5xL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71UMJz-JpzL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61BP2BPDn+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LTIY77pNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41i8KKTx6jL._SL1477_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G05",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/-/hi/Motorola-G05-%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A4%AE-64GB-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%B0%E0%A5%87%E0%A4%9C/dp/B0DSTM3NYN",
+      "color": "SQUARE",
+      "image_count": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/61gaGBL+6UL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61kCH3LHCnL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71qMce6N5oL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61IeARhIRiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81f4fgWNiCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51MxwQh+63L._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61xBynqDfVL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/51tgs6FmoQL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71xL856087L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61NsPikkMBL._SL1200_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G86 Power",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Motorola-TurboPower-Charging-Dimensity-Processor/dp/B0FKN6PJN9",
+      "color": "Unknown",
+      "image_count": 3,
+      "images": [
+        "https://m.media-amazon.com/images/I/516OBPGnZTL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/617ik1TDaaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71qDv4ICijL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G06 Power",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Motorola-Pantone-Tendril-Storage-MediaTek/dp/B0FVWFSWD7",
+      "color": "Unknown",
+      "image_count": 1,
+      "images": [
+        "https://m.media-amazon.com/images/I/51dC2j6AEfL._SL1000_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G67 Power",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Motorola-Power-Pantone-Cilantro-Storage/dp/B0G1Q6YVHW",
+      "color": "Unknown",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/51fxouUp5kL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51zN3R4e7XL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/412WABVHq1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51DFCOFENpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ArOGwXLaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41kKGEM47iL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71QCEm7IU7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41VxpQGAD0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61gUkuUSuqL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "MOTOROLA Moto G57 Power",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/iWishKart%C2%AE-Moto-Power-protector-Installation/dp/B0G2YWM9BL",
+      "color": "Unknown",
+      "image_count": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/71KdPbCimcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71uzy7OV62L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71n3EumzRfL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61j5xzoru8L._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/51PiCIYITKL._SL1070_.jpg",
+        "https://m.media-amazon.com/images/I/51MZLHEgNSL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71aIb5iKAZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ATTXQw4cL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71KpjqysANL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fpYuT5TDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/615NvHjwugL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61k5hC61AUL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71ftPa3wv7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613e8fsjOJL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71aNPZfdcML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/711d41fTfXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+TZEJR8+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iTta9afGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Kk-OMCJ6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716ZJX-RwyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71XZreiLSLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61GSPPN7ufL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LgMNT+B8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Iv+v--5LL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71mmMtp8j7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZKZiMmCVL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71uYegnVFOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-ZR3GhSoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ShC-kR-DL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71TJigbk5qL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "NARZO 50",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Storage-Dimensity-Processor-Camera/dp/B09ZBFDQ9F",
+      "color": "SQUARE",
+      "image_count": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/91Bh6Tr88NL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/810OwHg0nkL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81bNlLiVx0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81aW2pyV59L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71vIWj2fITL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71PplMGisQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61HqjG3JpZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71U-NPBPUCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81gRC3KTeaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91p5L+GitZL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "NOKIA C30",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/NOKIA-C30-TA-1345-DS-White/dp/B09JGHCQ4C",
+      "color": "Unknown",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/61wYispT41L._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/61kSVBm1H4L._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/615w6GLD6IL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/31FL8YWEFxL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/71nKvGBBlFL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/711DSCl76gL._SL1080_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS Nord CE4 Lite",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-Nord-Lite-128GB-Storage/dp/B0D5YFZ946",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/5155PFA2N+L._SL1013_.jpg",
+        "https://m.media-amazon.com/images/I/51OL4bX7NsL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61sxKi8sR5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51hUdofDBML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/514DAPo4xjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51VMyvmT7ML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/510Q9JxTnpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51TyYF1kpFL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS Nord 4",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-Oasis-Green-256GB-Storage/dp/B0D7VGZS69",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/616wnQmPQ-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61HslPOLr1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71zJpaFqtwL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61sxKi8sR5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51kSMKsOB3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Fiehk-xlL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51g0A4NMD8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51WnML6+3fL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS 13R",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-13R-Smarter-Lifetime-Warranty/dp/B0DPS62DYH",
+      "color": "SQUARE",
+      "image_count": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/61muVCIy-uL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51KYAzenTfL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61XtpELvh4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rPMsQJv2L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LT5BuXKCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61caBJjbpKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61++T836jiL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS 13",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-13-256GB-Midnight-Ocean/dp/B0DPS7FB4J",
+      "color": "SQUARE",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/71N4hshhfNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/611z5CM++VL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61kL-kPUl-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71764JNKQML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LT5BuXKCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71lmHCjMRKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/715k0WQtg9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61oir+alYlL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS 13S",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-Snapdragon%C2%AE-Battery-Lifetime-Warranty/dp/B0F5WTG8RG",
+      "color": "SQUARE",
+      "image_count": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/61BTIyv+XdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/614YQC5wmZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61TR6VcUueL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51iTn4gjhSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71922DGw1eL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71G5pVr7rOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71-BkL4tWtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/611t14QBvuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/617MerYwNcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61lChRIngvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61cNdwti0QL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ngWlk3zjL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS Nord CE5",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-Nord-MediaTek-Dimensity-Infinity/dp/B0FCMKNCJ4",
+      "color": "SQUARE",
+      "image_count": 19,
+      "images": [
+        "https://m.media-amazon.com/images/I/61IOa9IrlaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61KXK2EWTXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41E9KxvmcpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71JhIAUTDnL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6147QpIrXcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61zmSAIBD1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61vGfOC3uLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71vWRFtTZbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ELzaMWcgL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Qb6k+bHxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q+46sIHyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61B2bDmvERL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/619qfLPLThL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51zJwbgKQRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51RPb52s1nL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41DFmKfFjRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41AGiDrQuZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61TFhTNYuhL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/616ZzloUDIL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS Nord 5",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-Snapdragon-Stable-Flagship-Powered/dp/B0FC6TYPPX",
+      "color": "SQUARE",
+      "image_count": 21,
+      "images": [
+        "https://m.media-amazon.com/images/I/613QG2pV3iL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61lcC71wj0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/511Z8+cP7EL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71G64iERhbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71f0CwWl-XL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nVJs+l8UL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61uH06nNKTL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61u-0lJTHcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/717M6ifhjwL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mYQWX6gqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iiSIV7ywL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q+46sIHyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6109LQFmqRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Tujr1evFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51GfPSgVPAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51DumL+IPqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51jb1Cl2PjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41wuAdRF8FL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51qK9yz+rxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61qKkGW41SL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61OtOTTpzxL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS 15",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-Snapdragon%C2%AE-7300mAh-Personalised-Game-Changing/dp/B0FTR2PJTV",
+      "color": "SQUARE",
+      "image_count": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/616kkUbRg4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51lePOvNgZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ZEoJcB+NL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rPlphLv6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71RNIuQlTfL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fuTMEOPVL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61DVqrG71hL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61P1OwU-6OL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51kuFI5mPqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/610WmoMELSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51YxNS7ouWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Q1T3BGCNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61MWxzsHzGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61KXgizurpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-FxePR8IL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "ONEPLUS 15R",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OnePlus-Charcoal-Snapdragon%C2%AE-Personalised-Game-Changing/dp/B0FZSWZZW2",
+      "color": "SQUARE",
+      "image_count": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/61AsNTuJ6mL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fIC58EC7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51hK7-DGeqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71TBMeEl00L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mfUOOC3wL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61iF1CsmKaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71VjXoJS6fL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/618-dKPPS-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-O1SVo1oL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61N1k82LIsL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61PIvQwyTeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61h53LtSVVL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61LJzaQRUyL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO A3",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OPPO-Nebula-Red-128GB-Storage/dp/B0D9HPWZS1",
+      "color": "SQUARE",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/81Xl10tx7hL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81p-rAAYcIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81nZ3NzVXEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61VyfyRa07L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61mVEatgzfL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81dmR3obsjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81yQV69v7oL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81dkhLiCZcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818YeLG3cJL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO A3 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Oppo-Moonlight-Purple-128Gb-Storage/dp/B0D83H2DF6",
+      "color": "Unknown",
+      "image_count": 4,
+      "images": [
+        "https://m.media-amazon.com/images/I/51A+YaFYKnL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61q5z9ZxyyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZMwRhMBSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Si-2F7MhL._SL1000_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO A3x",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Starlight-Storage-SUPERVOOC-Additional-Exchange/dp/B0D9HPQCF6",
+      "color": "SQUARE",
+      "image_count": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/719YgMLrtjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81sPQdo52-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61wYXBRjq5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Ub4hvzc8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61e8PgUd2kL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Imyfz37DL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71F2Vkrq4XL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/513GKT99UwL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81KH1T4WGGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Tx+kozw2L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO A5",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OPPO-Storage-Additional-Exchange-Offers/dp/B0FCMNMY7G",
+      "color": "SQUARE",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/71iMn-H6MsL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Ow6UarBoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61NmSt7XFdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71VOp6G6BQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61bnfzZVjgL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ruaiLIy+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ALz11sEWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61T4eZdWCuL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO A5 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/oppo-a5-pro/s?k=oppo+a5+pro",
+      "color": "Unknown",
+      "image_count": 0,
+      "images": []
+    },
+    {
+      "name": "OPPO A5X",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OPPO-Laser-White-128GB-Storage/dp/B0F7X3QPRS",
+      "color": "SQUARE",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/81YKEeqg2EL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81vxKoMLdJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/616w1XydVLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71yfdMH-K+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61xye8jWWSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71tQtuGPr+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ywgnihTdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61VGNayqe9L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO A6",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/256GB-Storage-Additional-Exchange-Offers/dp/B0G8Y52PXT",
+      "color": "SQUARE",
+      "image_count": 16,
+      "images": [
+        "https://m.media-amazon.com/images/I/71Lc-CE7aUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81aUWrBRN8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81qtSyxFa-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/719CZaVlUvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kDVQO2+zL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61QqxTZQEML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81MweBaFcNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71tInm5NYQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81NfpnR7Y3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71beJffxiyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811vKL0JzmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71qExIw7-fL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71sNBGmhBmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81QZjFfd02L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kHezo0+HL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iJ802AmvL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO A6 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/256GB-Storage-Additional-Exchange-Offers/dp/B0G8Y52PXT",
+      "color": "SQUARE",
+      "image_count": 16,
+      "images": [
+        "https://m.media-amazon.com/images/I/71Lc-CE7aUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81aUWrBRN8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81qtSyxFa-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/719CZaVlUvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kDVQO2+zL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61QqxTZQEML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81MweBaFcNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71tInm5NYQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81NfpnR7Y3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71beJffxiyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811vKL0JzmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71qExIw7-fL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71sNBGmhBmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81QZjFfd02L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kHezo0+HL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iJ802AmvL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO A6X",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Oppo-Storage-Additional-Exchange-Offers/dp/B0G3XGKMJX",
+      "color": "SQUARE",
+      "image_count": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/71X5ugQq8sL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81P3nl2DLoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61M5RKCX5kL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71J-rgy5P-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/614A+aJLRsL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/816zFMMYRUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71S2LsFKKGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71JpWIPQNAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eVj9Az37L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/819QgI+FnBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81gc8bh970L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71u5hmzetsL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71CuZfYKtZL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO K12x",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Oppo-K12x-SUPERVOOC-Charger-Breeze/dp/B0DHCXDHWQ",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/51oDDYRMifL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/41fTCyzMUCL._SL1054_.jpg",
+        "https://m.media-amazon.com/images/I/41Ip8R1FB5L._SL1036_.jpg",
+        "https://m.media-amazon.com/images/I/51HlVnTthYL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/51TnGrTyAKL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/61oblGywUbL._SL1080_.jpg",
+        "https://m.media-amazon.com/images/I/511qzd2zydL._SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/41Q94qi5w6L._SL1036_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO K13",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Oppo-K13-5G-Prism-Storage/dp/B0F8W2D943",
+      "color": "Unknown",
+      "image_count": 11,
+      "images": [
+        "https://m.media-amazon.com/images/I/51KMBLVX9cL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/512xcnLKFUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61WcIzcIQYL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41fosPkqZAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71CuZfYKtZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51DB7BYoScL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41TJ02nXWHL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51LswDG188L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41J9tJVTTLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31-IpUojYrL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51N3r9B6anL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO K13x",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OPPO-5G-6000mAh-SUPERVOOC-Midnight/dp/B0FG7G4TCN",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/51uTgqZ5X8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51G2HmZSLJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41fosPkqZAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41WaS4jAtaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/3187E4--3HL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31cLMLqr6NL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41tvkxWv0tL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41FMZY5rLuL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO K13 Turbo",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OPPO-K13-Turbo-5G-Phantom/dp/B0FNLRR81F",
+      "color": "Unknown",
+      "image_count": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41Uc0VP3KxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51KMBLVX9cL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41zW5Zk72rL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41cMCxQUjtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/512xcnLKFUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51JJUHDcndL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41xk2-LTUeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41wUYNx4EVL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41w6YbX9K5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41a1vEGm4uL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO K13 Turbo Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OPPO-Turbo-Midnight-Maverick-256GB/dp/B0FY5ZN34M",
+      "color": "Unknown",
+      "image_count": 11,
+      "images": [
+        "https://m.media-amazon.com/images/I/41PNMv6bnfL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81bBSl-BpdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51KMBLVX9cL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71R8ISPeYGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71nAb6iFAfL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41qP8YN94-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/417QKTqPqmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41WMh8TzRXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41-r-6DQ15L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413B5NZDI6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31dXwYR0f7L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO Find X9",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/White-Storage-Additional-Exchange-Offers/dp/B0FXXDGTWQ",
+      "color": "SQUARE",
+      "image_count": 16,
+      "images": [
+        "https://m.media-amazon.com/images/I/71wiSch+E8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/713adlmBx6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/813lcz1al0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61uOmPZdIIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71KHquTKKXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/8178mYOLKeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71v35yBYmqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6102ck7CDaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71qDRWQJiRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71cM-VjYKKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71M0Ob9XtML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71BhkYGut9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UuMHoNUOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eJgDCxF3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PGTF-mPWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NqN92-ilL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO Find X9 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/White-Storage-Additional-Exchange-Offers/dp/B0FXXDGTWQ",
+      "color": "SQUARE",
+      "image_count": 16,
+      "images": [
+        "https://m.media-amazon.com/images/I/71wiSch+E8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/713adlmBx6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/813lcz1al0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61uOmPZdIIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71KHquTKKXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/8178mYOLKeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71v35yBYmqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/6102ck7CDaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71qDRWQJiRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71cM-VjYKKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71M0Ob9XtML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71BhkYGut9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UuMHoNUOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eJgDCxF3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PGTF-mPWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NqN92-ilL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO F27",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Emerald-Green-128GB-Storage-Without/dp/B0DCGJ94R9",
+      "color": "SQUARE",
+      "image_count": 1,
+      "images": [
+        "https://m.media-amazon.com/images/I/71qMNzaUlcL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO F27 Pro+",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Toughest-Featured-SUPERVOOC-Additional-Exchange/dp/B0D53FBV6F",
+      "color": "SQUARE",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/91AnvgyG1sL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/916v5OasBCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71PU2a4DY1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81lobp8t1oL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/711OBtBO7+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81FHeOZ+gbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Vqfgj+prL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91wPh6RMcdL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO F29",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OPPO-Purple-Storage-Additional-Exchange/dp/B0DY1M4GG8",
+      "color": "SQUARE",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/81LlPWpcBvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61TAV7VrdxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81v-UvlN-NL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81YlseTuuUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ay6qV16-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91dJWHlZRRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71DgFy4mPxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81oAFbPy3jL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/615ragZYXNL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO F29 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/OPPO-Granite-Storage-Additional-Exchange/dp/B0DY1KM2G4",
+      "color": "SQUARE",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/81OUcnvQM5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/615oUGeMlpL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/816pgNYvrRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81r4V7aAo-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ASSoFXBIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91WXMA3L8QL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fpUAi0yWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/8113aIdABQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ZEzqiqrUL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO F31",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Oppo-Midnight-Blue-128GB-Storage/dp/B0FP8QFLGC",
+      "color": "Colour",
+      "image_count": 2,
+      "images": [
+        "https://m.media-amazon.com/images/I/71M5OWNdteL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71G1QirNiaL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO F31 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Oppo-Space-Grey-128GB-Storage/dp/B0FP8WF4SG",
+      "color": "SQUARE",
+      "image_count": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/81bBSl-BpdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81+7NdcIKWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PlZsjMqcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81m3JmC+esL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81OC6EB+YmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81O1HypNPtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710RjnQbbAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Zmx3S6f8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fyY5zfUmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81FCjzzx71L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71L4ojJLWkL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rm-sa8L4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/813ovSCN-6L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "OPPO F31 Pro+",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Oppo-Space-Grey-128GB-Storage/dp/B0FP8WF4SG",
+      "color": "SQUARE",
+      "image_count": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/81bBSl-BpdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81+7NdcIKWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PlZsjMqcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81m3JmC+esL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81OC6EB+YmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81O1HypNPtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710RjnQbbAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Zmx3S6f8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fyY5zfUmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81FCjzzx71L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71L4ojJLWkL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rm-sa8L4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/813ovSCN-6L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 8S",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Universe-128GB-Storage-Medium/dp/B09G66NF4N",
+      "color": "Unknown",
+      "image_count": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/41KIduDt8mL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51eCPBKGI3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51vxnoiRj8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/21TuNz7nGtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31Ef4-BLVXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/21GcluiJBlL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31OdDlPgkzL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME C65 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-C65-Feather-Green-128/dp/B0D2DNDQZW",
+      "color": "Unknown",
+      "image_count": 2,
+      "images": [
+        "https://m.media-amazon.com/images/I/61XMALUnLKL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/619ftFJ6sNL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME C61",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Smartphone-6-74-inch-Display-Octa-Core/dp/B0F62WCN7C",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/71cysCjfoHL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LXcUWdbeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61XlQhrIVqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61D2PLDELxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61QGWzoE8mL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61l1DJ+0tYL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61se0ZJzrML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61AAoHp4koL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 14X",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Smartphone-6-67-inch-ArmorShell-Protection/dp/B0F3VXY89H",
+      "color": "SQUARE",
+      "image_count": 11,
+      "images": [
+        "https://m.media-amazon.com/images/I/71KSbXmTdcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71M8mEwUXUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Vy2Msiu8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71teYQ7YdFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NxKbGPKOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716X-K5sdeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/619X2IMRo9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fu1tDu3TL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71dOmIrmCGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/7144Y5k6J4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61iCAZXiRTL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 14 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Storage-Dimensity-Processor-Charging/dp/B0DT763C82",
+      "color": "Unknown",
+      "image_count": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/71XrFcshkGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61KROFVD5JL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71gagWvk7WL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61BMhWiWB0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/819fSdMW02L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71RvU0DXa9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81rT7Eu0oBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81B4jk9OVRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Ney8sCLIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81QC4cEdKjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZvuRmU3aL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/711xT1nG-mL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81scTrUGC5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61qyDlqI0VL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61oxxbRHpCL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 14 Pro Lite",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Smartphone-Display-5200mAh-Snapdragon%C2%AE/dp/B0F8453G7V",
+      "color": "Unknown",
+      "image_count": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/71LGujNWT7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61se5SmwCCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Q-hxM-7DL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61d1S7BzNuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/611Yfcd2l4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61fNyJL4L0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61dbL38B2XL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 14T",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Realme-Elegant-Luxurious-Display-Resistance/dp/B0F5WT1HYF",
+      "color": "Unknown",
+      "image_count": 1,
+      "images": [
+        "https://m.media-amazon.com/images/I/61EV5HfeH+L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME C75 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-C75-Smartphone-Android-Fingerprint/dp/B0FHW17K8V",
+      "color": "SQUARE",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/614O0QiK5+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71-MOQbrDJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71U7FIUFd1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71vstvRGbTL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51OCa3rFnxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51F006-dlbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Xa+VxCQZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41GvT0wjfJL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME GT 7",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-IceSense-MediaTek-Dimensity-Strongest/dp/B0F6YPX2X5",
+      "color": "Unknown",
+      "image_count": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/712g+qxRj4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81USi2XTHIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/819Bb0GTsNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81JA4IZozFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ihR3qTznL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71IV5QHnS8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71xXJZJsKLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81zQI9PP7hL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81o0IUYLWZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81o2ryRWpRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71F9ukGFfmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71FHnvHAwUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Jmx1VfN0L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME GT 7T",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-IceSense-MediaTek-Strongest-Graphene/dp/B0F6YQBZF5",
+      "color": "SQUARE",
+      "image_count": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/81IytpoiMjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Gujsi29KL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81VHR-KXuML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81EifiYGWdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71XtETfXHsL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/811WcXiIZ1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ZnGCKRGHL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71JdD0EBUOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Fa3vpb3wL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61pWT+Mam7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51FADLgEXlL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Y4pt71PdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Cnw4w17dL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Q9a9CUW0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81zuJJkLoEL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME C71",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Smartphone-Obsidian-Comfort-Display/dp/B0FHP3Q2QY",
+      "color": "SQUARE",
+      "image_count": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/61JZr5lcZaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61aputr+E9L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/711ZB1VSJbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71CoP2IPjeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61rMNsNWH4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nXHCtPW3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Yb0IBrUFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+XLfIHAdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/717QOpS9qUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61RWG+THTuL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 15",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Smartphone-HyperGlow-SuperVOOC-Dimensity/dp/B0FJL6QHSF",
+      "color": "SQUARE",
+      "image_count": 11,
+      "images": [
+        "https://m.media-amazon.com/images/I/61Pscd4w3IL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71KPZiD4sdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71SAqUMvATL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61DPCvBgjLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71IZrHeV5tL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/711i1nGvDeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613L6MFf8qL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Sp-b+9zXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/718tPYQBq1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/617UD3qI1vL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nuwUPgM1L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 15 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-15-Smartphone-Snapdragon-Waterproof/dp/B0FLW656XW",
+      "color": "SQUARE",
+      "image_count": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/619rzSnrYQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ZdYnnb2OL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71K0dYzu-FL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61KLzVJUJ4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71pXZrBKy2L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61yN9TEVYkL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61JzsQuo1QL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81fFyyW4UjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Mx1e2xhWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61jSTRLVxkL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 15T",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Smartphone-Titanium-6-67inch-Dimensity/dp/B0FMKC5V43",
+      "color": "SQUARE",
+      "image_count": 11,
+      "images": [
+        "https://m.media-amazon.com/images/I/713rlnjqQzL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71DZynA99XL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61fGyUkX78L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71kFkUHLqgL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61gCKnDwuxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61oiQaN0+ML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Vz1dNotZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61ii2xBHEdL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61iE6vikLjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61I4LSxIHbL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61J-yZNAc9L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 15 Lite",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Realme-Smartphone-Display-SuperVOOC-Dimensity/dp/B0FR36HKL6",
+      "color": "Unknown",
+      "image_count": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/51MS6zJRGUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nB9DwIXkL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71okPWkcjZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/410yYqY2ZjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51xBdsJ0fLL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 15X",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-15X-Smartphone-Dimensity-Octa-core/dp/B0FR8WZMJR",
+      "color": "SQUARE",
+      "image_count": 11,
+      "images": [
+        "https://m.media-amazon.com/images/I/71UZy1ePRiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/8180vGNQaAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/715nMbBlPyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71lszmbMgDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71xFASwiMoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61j66qb8CkL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71q4-UPI6ML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eDbNgXjNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71bosKDzRXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71DwKrlwrcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Kmy3FL6LL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME P4",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-P4-Smartphone-Engine-128-0/dp/B0FMDXKDDF",
+      "color": "SQUARE",
+      "image_count": 3,
+      "images": [
+        "https://m.media-amazon.com/images/I/61mkRqXGr8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71igVlFS0dL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61pDGl1zEyL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME P4x",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-P4X-Smartphone-Dimensity-Waterproof/dp/B0G3X99DLF",
+      "color": "SQUARE",
+      "image_count": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/71+nUkNc2rL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71uqWJgiuwL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71X+mKq31CL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61cxDN8k38L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61J1LyaEW1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EOHucSehL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71pKiG80jeL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Ztw1Pt++L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71jQQEp8bkL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71e1UTxoEOL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME P3 Lite",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Lite-Charger-Lily-White/dp/B0FV912SVG",
+      "color": "Unknown",
+      "image_count": 11,
+      "images": [
+        "https://m.media-amazon.com/images/I/41EAmbRxKIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Vjn1DfArL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81iDmqegt4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tPqZ4NExL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61C39BaUhFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71VAcKY6luL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ZeES-rtJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41eBWW8hr6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41t4yu3tJvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41wW6NyR0ZL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31pMQSOf-4L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 16 Pro",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Smartphone-SuperVOOC-MediaTek-Processor/dp/B0GC5L4PND",
+      "color": "SQUARE",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/718Tiu616gL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71FgXqBz3HL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Nafoj8xAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ud+y0iF0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81WpxUnjvUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61PoV0VQlyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71d6xQtvC2L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71C5l89dSaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61tVX8g5EzL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "REALME 16 Pro+",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/realme-Smartphone-SuperVOOC-MediaTek-Processor/dp/B0GC5L4PND",
+      "color": "SQUARE",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/718Tiu616gL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71FgXqBz3HL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Nafoj8xAL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ud+y0iF0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81WpxUnjvUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61PoV0VQlyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71d6xQtvC2L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71C5l89dSaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61tVX8g5EzL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy A14 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Galaxy-Storage-Without-Charger/dp/B0BS16FS5K",
+      "color": "Unknown",
+      "image_count": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/812-qrt9U3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81kfiM81r5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81zkapLh+6L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61NZpMGQFRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71yZgCKyIyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81avoOIuACL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51hPWZhZdvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51McbVQMkEL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy A05s",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Galaxy-Storage-Snapdragon-Battery/dp/B0CJ2G3GJG",
+      "color": "SQUARE",
+      "image_count": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/71lUA8DvOmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81TK--uhbIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81QJ4cvhByL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81C8OYy6mEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81293gebcFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61i3fmsergL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy F15",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Galaxy-F15-Black-Storage/dp/B0CY8FR4R7",
+      "color": "Unknown",
+      "image_count": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/71qFJqFePsL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71yAxl7iq0L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81MR17zLHuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41J4dPS8QuL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Z2Z0KXptL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71bs78gH+NL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61EWPUBPLmL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy M15",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Storage-MediaTek-Dimensity-Security/dp/B0CYQ3D6VJ",
+      "color": "SQUARE",
+      "image_count": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/81BTRVfsuFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710WNOZaxDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81+Md+CbJmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81rxJGhteqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71np-8Y0tsL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-HTvSgJWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/818Voe9yzCL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy S24",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Galaxy-Smartphone-Yellow-Storage/dp/B0CS5ZZMN8",
+      "color": "SQUARE",
+      "image_count": 19,
+      "images": [
+        "https://m.media-amazon.com/images/I/71jOyQ1HLqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NZ+NZ-1xL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71FdPbeWivL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71dxjkr7VOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71IlwC38vPL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71sTGi3vsyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71P-APspxML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71OrAOOks+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61fItCd5oNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71KSuaLf9mL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/517JUt1GuOL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71SVRdsgY-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/719PYirSevL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/714DutH6IBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/617rH1xpQTL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71o99NYxvVL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61jSc40Zs8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/710Y-NFojSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61+g6KrDXdL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy A06",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Galaxy-Storage-Camera-Upgrades/dp/B0DXDZZCTR",
+      "color": "SQUARE",
+      "image_count": 14,
+      "images": [
+        "https://m.media-amazon.com/images/I/71LnNBLykaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716cIhndr+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UT4iIl6CL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71O+lYHEGaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81lZrIccrYL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71c-VbQu4kL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61RzaKdJgBL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rI53V4HXL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Sk5ZU7-IL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51cfD9XgE3L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Z7KLmqwaL._SL1440_.jpg",
+        "https://m.media-amazon.com/images/I/71tTKVvpiEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71UAv33oazL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/613f7Yr-YwL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy A16 5G",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Storage-Security-Updates-5000mAh/dp/B0DJML1GKY",
+      "color": "SQUARE",
+      "image_count": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/71wWlLQTNoL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81-oCNiR8KL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ypJ4chDFL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+dS2udMcL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81n5-stnqQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71bFsT4QbtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61rbj6eOXiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Re99eM7XL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61SqLS2Av+L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/610iUCBnvlL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/616yY7Wo-mL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71dBNt4+g7L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71OT7Wr67zL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy M35",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Daybreak-Storage-Corning-Gorilla/dp/B0D8123CLN",
+      "color": "SQUARE",
+      "image_count": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/81nt-RGKpyL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91D+qr0-trL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81CbuifaRRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81-gXNd2sNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/813ONVE8UUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81nfcfEL8eL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61QC+eEdiqL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy S25",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Smartphone-Storage-Snapdragon-ProVisual/dp/B0DSKNLFBG",
+      "color": "SQUARE",
+      "image_count": 18,
+      "images": [
+        "https://m.media-amazon.com/images/I/61D3EdXKG5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61tLhXIzMtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71pDQ+941HL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/718aS26cC5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71PrkZz2itL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81aGUVkeY-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71mTxksOEvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71g9GyM+cOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71fBa2lSAVL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61nSiQu5zYL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rP2Wk6USL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81lRyRWFTCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/618hQ6ZlKTL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61+faPj4QUL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61z1jcPdbiL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61X8Ib+ovtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61p3FwE31-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61w7JQ+BFOL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy S25 Ultra",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Smartphone-Titanium-Snapdragon-ProVisual/dp/B0DSKMV3ZC",
+      "color": "SQUARE",
+      "image_count": 22,
+      "images": [
+        "https://m.media-amazon.com/images/I/71L4Bb3ebvL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81aLyQ2-WjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71VNuwoQtxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EsuFcmBEL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71R6mTgFvmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71ht4GbxD2L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81X+lXNqlPL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71hkZOmib5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Ey3Ql81bL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71AUJGsLFRL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71jDIPCxiIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61abRWzMVLL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71NDSpgJbSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71N4mLUnBqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/816OjT1RrTL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61-g46cjguL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61isPIHrHgL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71T10gT0BSL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61sU8OqBs4L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71tz3adVWaL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/711G25h1U1L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iZ+fdoI9L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy F16",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Galaxy-F16-Vibing-128GB/dp/B0F746RSTG",
+      "color": "Unknown",
+      "image_count": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/612kDvZl5pL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51v6804CPAL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/41-0qRdXq8L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/516pgfKlmGL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BJQbMUsxL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy F06",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Galaxy-Bahama-Blue-128GB/dp/B0DYKC512N",
+      "color": "Unknown",
+      "image_count": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/51tudnVGxWL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61DpMnZcpzL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51KWOGSjepL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61Wjmtk2riL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/61-wIsCbZLL._SL1000_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy M06",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-MediaTek-Dimensity-Charging-Upgrades/dp/B0DX655V11",
+      "color": "SQUARE",
+      "image_count": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/71evPv-TvmL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91LuP1FV6jL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81UhBwEm1TL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81fZLOULy5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71eBG26rWnL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81PDotGUKJL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81v8FX-xxqL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71CxA2aHogL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71aALBKLpCL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71XaqGnpDNL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61EliH0aDDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iMTdPA34L._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy F56",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Storage-Display-Features-Battery/dp/B0FZCGBXZL",
+      "color": "Unknown",
+      "image_count": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/515alPqzvkL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/41MLKyUNxfL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/41gged4NqIL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51uY8ADYWUL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51wPpnJsQJL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51oZ3s7BoaL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/512ohDz7d6L._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/519FSTVkgWL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/616rXxEE-WL._SL1000_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy M56",
+      "status": "SUCCESS",
+      "amazon_link": "https://www.amazon.in/Samsung-Slimmest-Enhanced-Nightography-Processor/dp/B0F43WXC8K",
+      "color": "SQUARE",
+      "image_count": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/71Acpnvfu2L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81QEg5100oL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61puJeU2j5L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81iQ07aBoDL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81b1dFZFEtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71W-xLtkBQL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81Lov2oRlPL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81qBcVvk9kL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71I85GiTqtL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71hN1gfzDcL._SL1500_.jpg"
+      ]
+    },
+    {
+      "name": "SAMSUNG Galaxy M36",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy F36",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy F17",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy S25 FE",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy A07",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy M17",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Camon 20",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Spark 20",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Spark Go",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Spark 30C",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Pova 6 Neo",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Pova Curve",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Pova 7",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Pova 7 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "TECNO Pova Slim",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y35",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO T3",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO T3X",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO V30E",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y28S",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO V40 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y18T",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y300",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y29",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO V50",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO T4X",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y39",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO V50E",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO T4",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO T4 Ultra",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y400 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO T4 Lite",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO X200",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y400",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO T4R",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO V60",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO T4 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y31 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y31",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO V60E",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y19s",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO X300",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO X300 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "AI+ Pulse",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "AI+ Nova 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "APPLE iPhone 13",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "HONOR Magic 6 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "INFINIX Note 50X 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "INFINIX Note 50S 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "ITEL Color Pro 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "ITEL A95 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MI Redmi 11 Prime",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MI Redmi Note 12 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MI Redmi A4 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MI Redmi 15 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MI Redmi Note 15 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto G32",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto Edge 50 Fusion",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto Edge 50 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto Edge 60 Fusion",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto Edge 60 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto Edge 60 Stylus",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto Edge 60",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto Edge 70",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto Razr 60 Ultra",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "MOTOROLA Moto G96",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "NOTHING Phone 3a Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "NOTHING Phone 3a Lite",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO A78 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO F23 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO Reno 10",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO Reno 10 Pro Plus",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO Reno 12 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO Reno 13",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO Reno 14",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO Reno 15 Pro",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "OPPO Reno 15 Pro Mini",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "REALME C73 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "REALME C85 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy A13",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy A04E",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy A54 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy A56 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy A36 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy A26 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy Z Fold 7",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy Z Flip 7",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy Z Flip 7 FE",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "SAMSUNG Galaxy A17 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y100A",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y56 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y200E 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y19E",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    },
+    {
+      "name": "VIVO Y19 5G",
+      "status": "NO_LINK_FOUND",
+      "images": []
+    }
+  ]
+}

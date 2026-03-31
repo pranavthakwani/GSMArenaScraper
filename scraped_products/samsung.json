@@ -8497,5 +8497,632 @@
       }
     },
     "scrapedAt": "2026-02-10T11:40:01.679Z"
+  },
+  {
+    "id": "9536",
+    "name": "Samsung Galaxy S10",
+    "brand": "Samsung",
+    "category": "tablet",
+    "launchYear": 2019,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10.jpg",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s10-9536.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global, USA",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - Global",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (7CA) Cat20 2000/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2019, February 20. Released 2019, March 08",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "149.9 x 70.4 x 7.8 mm (5.90 x 2.77 x 0.31 in)",
+        "Weight": "157 g (5.54 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Dynamic AMOLED, HDR10+",
+        "Size": "6.1 inches, 93.2 cm2 (~88.3% screen-to-body ratio)",
+        "Resolution": "1440 x 3040 pixels, 19:9 ratio (~550 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 12, One UI 4.1",
+        "Chipset": "Exynos 9820 (8 nm) - EMEA/LATAMQualcomm SM8150 Snapdragon 855 (7 nm) - USA/China",
+        "CPU": "Octa-core (2x2.73 GHz Mongoose M4 & 2x2.31 GHz Cortex-A75 & 4x1.95 GHz Cortex-A55) - EMEA/LATAMOcta-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485) - USA/China",
+        "GPU": "Mali-G76 MP12 - EMEA/LATAMAdreno 640 - USA/China"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 512GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "12 MP, f/1.5-2.4, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS\n12 MP, f/2.4, 52mm (telephoto), 1/3.6\", 1.0µm, AF, OIS, 2x optical zoom\n16 MP, f/2.2, 12mm (ultrawide), 1/3.1\", 1.0µm, Super Steady video",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@60fps (no EIS), 4K@30fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS & OIS"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/1.9, 26mm (wide), 1/3\", 1.22µm, dual pixel PDAF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio (USA & Canada only)",
+        "USB": "USB Type-C 3.1, OTG, DisplayPort"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3400 mAh, non-removable",
+        "Charging": "15W wired, PD2.0\n15W wireless (Qi)\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Prism White, Prism Black, Prism Green, Prism Blue, Canary Yellow, Flamingo Pink, Cardinal Red, Smoke Blue",
+        "Models": "SM-G973F, SM-G973U, SM-G973W, SM-G973U1, SM-G9730, SM-G973N, SM-G973X, SCV41, SM-G973C",
+        "SAR": "0.93 W/kg (head)     0.79 W/kg (body)",
+        "SAR EU": "0.48 W/kg (head)     1.59 W/kg (body)",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 328366 (v7)\nGeekBench: 10174 (v4.4)\nGFXBench: 23fps (ES 3.1 onscreen)",
+        "Display": "Contrast ratio: Infinite (nominal), 4.498 (sunlight)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 82dB / Noise 74dB / Ring 85dB",
+        "Audio quality": "Noise -92.2dB / Crosstalk -92.7dB",
+        "Battery (old)": "Endurance rating 79h"
+      }
+    },
+    "scrapedAt": "2026-03-31T11:55:56.180Z"
+  },
+  {
+    "id": "8966",
+    "name": "Samsung Galaxy S9",
+    "brand": "Samsung",
+    "category": "tablet",
+    "launchYear": 2018,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-.jpg",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s9-8966.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global, USA",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - Global",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (6CA) Cat18 1200/200 Mbps"
+      },
+      "Launch": {
+        "Announced": "2018, February 25. Released 2018, March 09",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "147.7 x 68.7 x 8.5 mm (5.81 x 2.70 x 0.33 in)",
+        "Weight": "163 g (5.75 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, HDR10",
+        "Size": "5.8 inches, 84.8 cm2 (~83.6% screen-to-body ratio)",
+        "Resolution": "1440 x 2960 pixels, 18.5:9 ratio (~570 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 8.0 (Oreo), upgradable to Android 10, One UI 2.5",
+        "Chipset": "Exynos 9810 (10 nm) - EMEAQualcomm SDM845 Snapdragon 845 (10 nm) - USA/LATAM, China",
+        "CPU": "Octa-core (4x2.7 GHz Mongoose M3 & 4x1.8 GHz Cortex-A55) - EMEAOcta-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver) - USA/LATAM, China",
+        "GPU": "Mali-G72 MP18 - EMEAAdreno 630 - USA/LATAM, China"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 256GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.5-2.4, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR, stereo sound rec., gyro-EIS & OIS (30fps)"
+      },
+      "Selfie camera": {
+        "Dual": "8 MP, f/1.7, 25mm (wide), 1/3.6\", 1.22µm, AF\n2 MP (dedicated iris scanner camera)",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio (USA & Canada only)",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable (11.55 Wh)",
+        "Charging": "15W wired, QC2\nWireless (Qi) (market dependent)"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Coral Blue, Titanium Gray, Lilac Purple, Burgundy Red, Sunrise Gold, Ice Blue",
+        "Models": "SM-G960F, SM-G960, SM-G960F, SM-G960U, SM-G960W, SM-G9600, SM-G960U1, SM-G960N, SCV38, SM-G960X, SC-02K",
+        "SAR": "0.63 W/kg (head)     0.96 W/kg (body)",
+        "SAR EU": "0.36 W/kg (head)     1.18 W/kg (body)",
+        "Price": "About 110 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 250156 (v7)\nGeekBench: 8830 (v4.4)\nGFXBench: 14fps (ES 3.1 onscreen)",
+        "Display": "Contrast ratio: Infinite (nominal), 4.630 (sunlight)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 68dB / Noise 74dB / Ring 81dB",
+        "Audio quality": "Noise -93.4dB / Crosstalk -93.9dB",
+        "Battery (old)": "Endurance rating 78h"
+      }
+    },
+    "scrapedAt": "2026-03-31T11:59:13.571Z"
+  },
+  {
+    "id": "8161",
+    "name": "Samsung Galaxy S8",
+    "brand": "Samsung",
+    "category": "tablet",
+    "launchYear": 2017,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-.jpg",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 66, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat16 1024/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2017, March 29. Released 2017, April 24",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "148.9 x 68.1 x 8 mm (5.86 x 2.68 x 0.31 in)",
+        "Weight": "155 g (5.47 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, HDR10",
+        "Size": "5.8 inches, 84.8 cm2 (~83.6% screen-to-body ratio)",
+        "Resolution": "1440 x 2960 pixels, 18.5:9 ratio (~570 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI",
+        "Chipset": "Exynos 8895 (10 nm) - EMEAQualcomm MSM8998 Snapdragon 835 (10 nm) - USA & China",
+        "CPU": "Octa-core (4x2.3 GHz Mongoose M2 & 4x1.7 GHz Cortex-A53) - EMEAOcta-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo) - USA & China",
+        "GPU": "Mali-G71 MP20 - EMEAAdreno 540 - USA & China"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.7, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@240fps, HDR, stereo sound rec., gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Dual": "8 MP, f/1.7, 25mm (wide), 1/3.6\", 1.22µm, AF\n2 MP (dedicated iris scanner camera)",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable (11.55 Wh)",
+        "Charging": "15W wired, QC2\nWireless (Qi) (market dependent)",
+        "Talk time": "Up to 20 h (3G)",
+        "Music play": "Up to 67 h"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Orchid Gray, Arctic Silver, Coral Blue, Maple Gold, Rose Pink, Burgundy Red",
+        "Models": "SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+        "SAR": "0.44 W/kg (head)     0.75 W/kg (body)",
+        "SAR EU": "0.32 W/kg (head)     1.27 W/kg (body)",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 199022 (v7)\nGeekBench: 6656 (v4.4)\nGFXBench: 13fps (ES 3.1 onscreen)",
+        "Display": "Contrast ratio: Infinite (nominal), 4.768 (sunlight)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 66dB / Noise 70dB / Ring 72dB",
+        "Audio quality": "Noise -92.5dB / Crosstalk -92.8dB",
+        "Battery (old)": "Endurance rating 84h"
+      }
+    },
+    "scrapedAt": "2026-03-31T12:04:51.990Z"
+  },
+  {
+    "id": "6849",
+    "name": "Samsung Galaxy S6",
+    "brand": "Samsung",
+    "category": "tablet",
+    "launchYear": 2015,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6.jpg",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2015, March 01. Released 2015, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "143.4 x 70.5 x 6.8 mm (5.65 x 2.78 x 0.27 in)",
+        "Weight": "138 g (4.87 oz)",
+        "Build": "Glass front (Gorilla Glass 4), glass back (Gorilla Glass 4), aluminum frame",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.1 inches, 71.5 cm2 (~70.7% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~577 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 5.0.2 (Lollipop), upgradable to Android 8.0 (Oreo), TouchWiz UI",
+        "Chipset": "Exynos 7420 Octa (14 nm)",
+        "CPU": "Octa-core (4x2.1 GHz Cortex-A57 & 4x1.5 GHz Cortex-A53)",
+        "GPU": "Mali-T760MP8"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 128GB 3GB RAM"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/1.9, 28mm (wide), 1/2.6\", 1.12µm, AF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@120fps, HDR, stereo sound rec., OIS, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/1.9, 22mm (wide), 1/4.1\", 1.34µm",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.1, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2550 mAh, non-removable",
+        "Charging": "15W wired\nWireless (Qi) (market dependent)",
+        "Talk time": "Up to 17 h (3G)",
+        "Music play": "Up to 49 h"
+      },
+      "Misc": {
+        "Colors": "White Pearl, Black Sapphire, Gold Platinum, Blue Topaz",
+        "Models": "SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+        "SAR": "1.15 W/kg (head)     1.16 W/kg (body)",
+        "SAR EU": "0.38 W/kg (head)     0.50 W/kg (body)",
+        "Price": "About 240 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1641Basemark X: 22752",
+        "Display": "Contrast ratio: Infinite (nominal), 4.124 (sunlight)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 68dB / Noise 66dB / Ring 73dB",
+        "Audio quality": "Noise -95.6dB / Crosstalk -94.5dB",
+        "Battery (old)": "Endurance rating 73h"
+      }
+    },
+    "scrapedAt": "2026-03-31T12:09:47.804Z"
+  },
+  {
+    "id": "6033",
+    "name": "Samsung Galaxy S5",
+    "brand": "Samsung",
+    "category": "tablet",
+    "launchYear": 2014,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s5-g900f.jpg",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA / LTE",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, February. Released 2014, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "142 x 72.5 x 8.1 mm (5.59 x 2.85 x 0.32 in)",
+        "Weight": "145 g (5.11 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.1 inches, 71.7 cm2 (~69.6% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~432 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat), upgradable to 6.0 (Marshmallow), TouchWiz UI",
+        "Chipset": "Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.5 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.2, 31mm (standard), 1/2.6\", 1.12µm, PDAF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@60fps, 720p@120fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "2 MP, f/2.4, 22mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 3.0 (MHL 2.1 TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, gesture, heart rate"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2800 mAh, removable",
+        "Charging": "Wireless (Qi) (market dependent)",
+        "Stand-by": "Up to 390 h",
+        "Talk time": "Up to 21 h",
+        "Music play": "Up to 67 h"
+      },
+      "Misc": {
+        "Colors": "Charcoal Black, Copper Gold, Electric Blue, Shimmery White",
+        "Models": "SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+        "SAR": "1.20 W/kg (head)     1.58 W/kg (body)",
+        "SAR EU": "0.56 W/kg (head)     0.41 W/kg (body)",
+        "Price": "About 250 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1060Basemark X: 11744",
+        "Display": "Contrast ratio: Infinite (nominal),  3.549 (sunlight)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 75dB",
+        "Audio quality": "Noise -96.3dB / Crosstalk -95.2dB",
+        "Battery (old)": "Endurance rating 83h"
+      }
+    },
+    "scrapedAt": "2026-03-31T12:07:10.331Z"
+  },
+  {
+    "id": "4238",
+    "name": "Samsung I9300 Galaxy S III",
+    "brand": "Samsung",
+    "category": "tablet",
+    "launchYear": 2012,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i9300-galaxy-s-iii-ofic.jpg",
+    "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, May. Released 2012, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "136.6 x 70.6 x 8.6 mm (5.38 x 2.78 x 0.34 in)",
+        "Weight": "133 g (4.69 oz)",
+        "Build": "Glass front (Gorilla Glass 2), plastic back, plastic frame",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.8 inches, 63.5 cm2 (~65.9% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~306 ppi density)",
+        "Protection": "Corning Gorilla Glass 2"
+      },
+      "Platform": {
+        "OS": "Android 4.0.4 (Ice Cream Sandwich), 4.3 (Jelly Bean), TouchWiz UI",
+        "Chipset": "Exynos 4412 Quad (32 nm)",
+        "CPU": "Quad-core 1.4 GHz Cortex-A9",
+        "GPU": "Mali-400MP4"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 1GB RAM, 32GB 1GB RAM, 64GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.6, 1/3.0\", AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "1.9 MP, f/2.6",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, aptX",
+        "Positioning": "GPS, A-GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 2100 mAh battery",
+        "Stand-by": "Up to 590 h (2G) / Up to 790 h (3G)",
+        "Talk time": "Up to 21 h 40 min (2G) / Up to 11 h 40 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Pebble blue, Marble white, Amber brown, Garnet red, Sapphire black, Titanium grey, La Fleur",
+        "Models": "GT-I9300, GT-I9300I, SHV-E210S, SHW-M440S",
+        "SAR": "0.55 W/kg (head)     1.49 W/kg (body)",
+        "SAR EU": "0.21 W/kg (head)",
+        "Price": "About 190 EUR"
+      },
+      "Our Tests": {
+        "Display": "Contrast ratio: Infinite (nominal) / 3.419:1 (sunlight)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 75dB / Noise 66dB / Ring 75dB",
+        "Audio quality": "Noise -90.3dB / Crosstalk -92.6dB",
+        "Battery (old)": "Endurance rating 50h"
+      }
+    },
+    "scrapedAt": "2026-03-31T12:13:35.241Z"
+  },
+  {
+    "id": "3621",
+    "name": "Samsung I9100 Galaxy S II",
+    "brand": "Samsung",
+    "category": "tablet",
+    "launchYear": 2011,
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-ii-real-ofic.jpg",
+    "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+    "specs": {
+      "Network": {
+        "Technology": "GSM / HSPA",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, February. Released 2011, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "125.3 x 66.1 x 8.5 mm (4.93 x 2.60 x 0.33 in)",
+        "Weight": "116 g (4.09 oz)",
+        "Build": "Glass front (Gorilla Glass), plastic back, plastic frame",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED Plus",
+        "Size": "4.3 inches, 52.6 cm2 (~63.5% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 2.3.4 (Gingerbread), upgradable to 4.1 (Jelly Bean), TouchWiz UI 4",
+        "Chipset": "Exynos 4210 Dual",
+        "CPU": "Dual-core 1.2 GHz Cortex-A9",
+        "GPU": "Mali-400MP4"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 1GB RAM, 32GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.6, 1/3.2\", AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "3.0, A2DP, aptX",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Optional",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Browser": "HTML, Adobe Flash"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1650 mAh battery",
+        "Stand-by": "Up to 710 h (2G) / Up to 610 h (3G)",
+        "Talk time": "Up to 18 h 20 min (2G) / Up to 8 h 40 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White, Pink",
+        "Models": "GT-I9100, GT-I9100G, GT-I9100T",
+        "SAR": "0.16 W/kg (head)     0.96 W/kg (body)",
+        "SAR EU": "0.34 W/kg (head)",
+        "Price": "About 170 EUR"
+      },
+      "Our Tests": {
+        "Display": "Contrast ratio: Infinite (nominal) / 2.832:1 (sunlight)",
+        "Camera": "Photo / Video",
+        "Loudspeaker": "Voice 70dB / Noise 66dB / Ring 75dB",
+        "Audio quality": "Noise -91.4dB / Crosstalk -89.7dB",
+        "Battery (old)": "Endurance rating 40h"
+      }
+    },
+    "scrapedAt": "2026-03-31T12:16:55.842Z"
   }
 ]

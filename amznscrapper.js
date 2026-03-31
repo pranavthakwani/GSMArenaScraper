@@ -10,7 +10,7 @@ dotenv.config();
 // ================= CONFIG =================
 
 const SCRAPER_API_KEY = process.env.SCRAPERAPI_KEY;
-const AMAZON_DOMAIN = "amazon.com"; // change if needed
+const AMAZON_DOMAIN = "amazon.in"; // change if needed
 const OUTPUT_DIR = "amazon_image_results";
 const MIN_MATCH_SCORE = 0.3;
 
@@ -20,34 +20,192 @@ if (!SCRAPER_API_KEY) {
 }
 
 // ================= YOUR PRODUCTS ARRAY =================
-// Read product URLs from .env file
-// Add your URLs to .env like: PRODUCT_URLS=https://amazon.com/dp/ASIN1,https://amazon.com/dp/ASIN2,...
-const productUrls = process.env.PRODUCT_URLS ? 
-  process.env.PRODUCT_URLS.split(',').map(url => url.trim()).filter(url => url) : [];
+// Read product names from productlist.txt file
+const productNames = fs.readFileSync("productlist.txt", "utf8")
+  .split("\n")
+  .map(line => line.trim())
+  .filter(line => line && !line.startsWith("."))
+  .slice(116); // Resume from product 117 (0-indexed)
 
-const products = productUrls.map(url => ({ url }));
+const products = productNames.map(name => ({ name }));
 
 // ================= UTIL =================
 
-function saveResult(productName, data) {
+function saveAllResults(allProductsData) {
   if (!fs.existsSync(OUTPUT_DIR)) {
     fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   }
 
-  const safeName = productName.replace(/[^\w]/g, "_");
-  const filePath = path.join(OUTPUT_DIR, `${safeName}.json`);
-
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-  console.log(`💾 Saved → ${filePath}`);
+  const filePath = path.join(OUTPUT_DIR, "all_products_images.json");
+  fs.writeFileSync(filePath, JSON.stringify(allProductsData, null, 2));
+  console.log(`💾 Saved all results → ${filePath}`);
 }
 
 // ================= SCRAPER =================
+
+async function searchGoogleForAmazonLink(productName) {
+  // Try direct Amazon search first (no Google)
+  console.log("  🔍 Trying direct Amazon search...");
+  const directLink = await tryDirectAmazonSearch(productName);
+  if (directLink) {
+    return directLink;
+  }
+  
+  // If direct search fails, try Google
+  console.log("  📱 Searching Google for Amazon link...");
+  const query = `site:amazon.in "${productName}"`;
+  const googleUrl = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
+
+  const url = `https://api.scraperapi.com?api_key=${SCRAPER_API_KEY}` +
+              `&url=${encodeURIComponent(googleUrl)}` +
+              `&country_code=in` +
+              `&device_type=desktop` +
+              `&premium=true`;
+
+  try {
+    const response = await axios.get(url);
+    const html = response.data;
+    
+    // Extract the first Amazon link from Google search results
+    const amazonLink = extractFirstAmazonLink(html);
+    
+    return amazonLink;
+    
+  } catch (err) {
+    console.error(`    ❌ Google search error: ${err.message}`);
+    return null;
+  }
+}
+
+async function tryDirectAmazonSearch(productName) {
+  // Try direct Amazon search URL
+  const searchQuery = productName.replace(/\s+/g, '+');
+  const amazonSearchUrl = `https://www.amazon.in/s?k=${encodeURIComponent(searchQuery)}`;
+  
+  const scraperUrl = `https://api.scraperapi.com?api_key=${SCRAPER_API_KEY}` +
+                      `&url=${encodeURIComponent(amazonSearchUrl)}` +
+                      `&country_code=in` +
+                      `&device_type=desktop`;
+  
+  try {
+    const response = await axios.get(scraperUrl);
+    const html = response.data;
+    
+    // Extract first product link from Amazon search results
+    const productRegex = /href="\/dp\/([A-Z0-9]{10})"/g;
+    const matches = [...html.matchAll(productRegex)];
+    
+    if (matches.length > 0) {
+      const asin = matches[0][1];
+      return `https://www.amazon.in/${asin}`;
+    }
+    
+    return null;
+  } catch (err) {
+    return null;
+  }
+}
+
+function extractFirstAmazonLink(html) {
+  // Look for Google wrapped URLs that contain Amazon links
+  const wrappedRegex = /\/url\?q=(https:\/\/www\.amazon\.in\/[^&]+)/g;
+  const wrappedMatches = [...html.matchAll(wrappedRegex)];
+  
+  if (wrappedMatches.length > 0) {
+    // Return the first Amazon URL as-is
+    let amazonUrl = decodeURIComponent(wrappedMatches[0][1]);
+    return amazonUrl;
+  }
+  
+  // Fallback: Look for direct Amazon URLs
+  const directRegex = /(https:\/\/www\.amazon\.in\/[^\s"]+)/g;
+  const directMatches = [...html.matchAll(directRegex)];
+  
+  if (directMatches.length > 0) {
+    return directMatches[0][1];
+  }
+  
+  return null;
+}
+
+function extractAsinFromUrl(url) {
+  const match = url.match(/\/dp\/([A-Z0-9]{10})|amazon\.in\/([A-Z0-9]{10})/);
+  return match ? (match[1] || match[2]) : null;
+}
 
 async function getAmazonProductHtml(url) {
   const scraperUrl = `https://api.scraperapi.com?api_key=${SCRAPER_API_KEY}&url=${encodeURIComponent(url)}`;
   
   const response = await axios.get(scraperUrl);
   return response.data;
+}
+
+function extractVariantAsins(html) {
+  const match = html.match(/"variationValues"\s*:\s*({.*?})\s*,\s*"dimensionValuesDisplayData"/s);
+
+  if (!match) return [];
+
+  try {
+    const cleaned = match[1]
+      .replace(/\\u0026/g, "&")
+      .replace(/'/g, '"');
+
+    const parsed = JSON.parse(cleaned);
+
+    if (!parsed.color_name) return [];
+
+    return Object.values(parsed.color_name);
+
+  } catch {
+    return [];
+  }
+}
+
+function extractColorName(html) {
+  const match = html.match(/"color_name"\s*:\s*"([^"]+)"/);
+  return match ? match[1] : "Unknown";
+}
+
+async function getAllColorVariantImages(baseAsin) {
+  const baseUrl = `https://www.amazon.in/${baseAsin}`;
+  
+  try {
+    const html = await getAmazonProductHtml(baseUrl);
+    const variantAsins = extractVariantAsins(html);
+    
+    if (variantAsins.length === 0) {
+      // No variants, just get images from base ASIN
+      const colorName = extractColorName(html);
+      const images = extractAllHighResImages(html);
+      return { [colorName]: images };
+    }
+    
+    const colorImages = {};
+    
+    for (const variantAsin of variantAsins) {
+      try {
+        const variantUrl = `https://www.amazon.in/${variantAsin}`;
+        const variantHtml = await getAmazonProductHtml(variantUrl);
+        const colorName = extractColorName(variantHtml);
+        const images = extractAllHighResImages(variantHtml);
+        
+        colorImages[colorName] = images;
+        console.log(`  🎨 ${colorName}: ${images.length} images`);
+        
+        // Rate limiting between variant requests
+        await new Promise(r => setTimeout(r, 1000));
+        
+      } catch (err) {
+        console.error(`    ❌ Error with variant ${variantAsin}: ${err.message}`);
+      }
+    }
+    
+    return colorImages;
+    
+  } catch (err) {
+    console.error(`❌ Error getting variants for ${baseAsin}: ${err.message}`);
+    return {};
+  }
 }
 
 function extractAllHighResImages(html) {
@@ -206,51 +364,84 @@ function extractProductInfo(html) {
 async function main() {
   console.log(`🚀 Starting Amazon image scraper for ${products.length} products...`);
   
+  const allProductsData = {
+    total_products: products.length,
+    scraped_at: new Date().toISOString(),
+    products: []
+  };
+  
   for (let i = 0; i < products.length; i++) {
     const product = products[i];
-    console.log(`\n🔎 Processing product ${i + 1}/${products.length}: ${product.url}`);
+    console.log(`\n🔎 Processing product ${i + 1}/${products.length}: ${product.name}`);
     
     try {
-      const html = await getAmazonProductHtml(product.url);
-      const images = extractAllHighResImages(html);
-      const productInfo = extractProductInfo(html);
+      // Step 1: Search Google for Amazon link
+      console.log("  📱 Searching Google for Amazon link...");
+      const amazonLink = await searchGoogleForAmazonLink(product.name);
       
-      // Generate filename from product title
-      const filename = productInfo.title
-        .replace(/[^\w\s-]/g, "")
-        .replace(/\s+/g, "_")
-        .substring(0, 50);
+      if (!amazonLink) {
+        console.log("  ⛔ No Amazon link found");
+        allProductsData.products.push({
+          name: product.name,
+          status: "NO_LINK_FOUND",
+          images: []
+        });
+      } else {
+        console.log(`  ✅ Found Amazon link: ${amazonLink}`);
+        
+        // Step 2: Get images directly from the Amazon URL
+        console.log("  🎨 Extracting images...");
+        const html = await getAmazonProductHtml(amazonLink);
+        const images = extractAllHighResImages(html);
+        const colorName = extractColorName(html);
+        
+        console.log(`  ✅ Found ${images.length} images`);
+        
+        // Add to results
+        allProductsData.products.push({
+          name: product.name,
+          status: "SUCCESS",
+          amazon_link: amazonLink,
+          color: colorName,
+          image_count: images.length,
+          images: images
+        });
+      }
       
-      saveResult(filename, {
-        status: "SUCCESS",
-        url: product.url,
-        asin: productInfo.asin,
-        amazon_title: productInfo.title,
-        image_count: images.length,
-        images
-      });
-      
-      console.log(`✅ Successfully scraped ${images.length} images`);
+      // Save progress after each product
+      saveAllResults(allProductsData);
       
     } catch (err) {
-      console.error(`❌ Error with ${product.url}: ${err.message}`);
+      console.error(`❌ Error with ${product.name}: ${err.message}`);
       
-      const filename = `error_${Date.now()}`;
-      saveResult(filename, {
+      allProductsData.products.push({
+        name: product.name,
         status: "ERROR",
-        url: product.url,
         error: err.message,
         images: []
       });
+      
+      // Also save progress after errors
+      saveAllResults(allProductsData);
     }
     
-    // Rate limiting
+    // Rate limiting between products (important for Google)
     if (i < products.length - 1) {
-      await new Promise(r => setTimeout(r, 2000));
+      console.log("  ⏳ Waiting 10 seconds before next search...");
+      await new Promise(r => setTimeout(r, 10000));
     }
   }
   
-  console.log("\n🎯 Done.");
+  // Final save
+  saveAllResults(allProductsData);
+  
+  // Summary
+  const successCount = allProductsData.products.filter(p => p.status === "SUCCESS").length;
+  const totalImages = allProductsData.products.reduce((sum, p) => sum + (p.image_count || 0), 0);
+  
+  console.log(`\n🎯 Done!`);
+  console.log(`✅ Successfully scraped: ${successCount}/${products.length} products`);
+  console.log(`📸 Total images collected: ${totalImages}`);
 }
 
 main();
