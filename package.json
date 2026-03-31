@@ -5,7 +5,7 @@
   "main": "GSMArena.js",
   "type": "module",
   "scripts": {
-    "dev": "node GSMArena.js",
+    "dev": "node init && node GSMArena.js",
     "scrape": "node GSMArena-Refactored.js",
     "api": "node scraper-api.js",
     "direct-scrape": "node direct-scraper.js",
